@@ -1,0 +1,525 @@
+
+Microsoft Windows
+
+
+
+
+
+Atas: Logo Windows yang diperkenalkan pada bulan Februari 2012.
+Bawah: Versi Windows terbaru, Windows 10, menampilkan Menu Mulai baru.
+
+
+
+Perusahaan / pengembang
+Microsoft
+
+
+Diprogram dalam
+C, C++ dan bahasa rakitan[1]
+
+
+Keluarga
+Windows 9x, Windows CE dan Windows NT
+
+
+Status terkini
+Rilis publik
+
+
+Model sumber
+Sumber tertutup / Sumber berbagi
+
+
+Rilis perdana
+20 November 1985; 30 tahun lalu (1985-11-20) (bernama Windows 1.0)
+
+
+Target pemasaran
+Komputer pribadi
+
+
+Ketersediaan bahasa
+Multilingual
+
+
+Metode pemutakhiran
+Windows Update, Windows Anytime Upgrade
+
+
+Dukungan platform
+ARM, IA-32, x86-64 dan Itanium
+
+
+Jenis kernel
+Hibrid (keluarga Windows NT), DOS (16-bit Windows dan seri Windows 9x/ME)
+
+
+Antarmuka bawaan
+Grafis (Windows Shell)
+
+
+Lisensi
+Perangkat lunak komersial proprietari
+
+
+Situs web resmi
+Laman web
+
+
+
+
+
+
+Layar mulai Windows 8.1
+
+
+Microsoft Windows atau yang lebih dikenal dengan sebutan Windows adalah keluarga sistem operasi. yang dikembangkan oleh Microsoft, dengan menggunakan antarmuka pengguna grafis.
+Sistem operasi Windows telah berevolusi dari MS-DOS, sebuah sistem operasi yang berbasis modus teks dan command-line. Windows versi pertama, Windows Graphic Environment 1.0 pertama kali diperkenalkan pada 10 November 1983, tetapi baru keluar pasar pada bulan November tahun 1985, yang dibuat untuk memenuhi kebutuhan komputer dengan tampilan bergambar. Windows 1.0 merupakan perangkat lunak 16-bit tambahan (bukan merupakan sistem operasi) yang berjalan di atas MS-DOS (dan beberapa varian dari MS-DOS), sehingga ia tidak akan dapat berjalan tanpa adanya sistem operasi DOS. Versi 2.x, versi 3.x juga sama. Beberapa versi terakhir dari Windows (dimulai dari versi 4.0 dan Windows NT 3.1) merupakan sistem operasi mandiri yang tidak lagi bergantung kepada sistem operasi MS-DOS. Microsoft Windows kemudian bisa berkembang dan dapat menguasai penggunaan sistem operasi hingga mencapai 90%.
+
+
+
+Daftar isi
+
+
+1 Sejarah Singkat Windows
+2 Versi-versi Windows
+
+2.1 Sudah dirilis
+2.2 Akan rilis
+
+
+3 Lihat pula
+4 Referensi
+
+
+
+Sejarah Singkat Windows[sunting | sunting sumber]
+Artikel utama untuk bagian ini adalah: Sejarah Microsoft Windows
+Dimulai dari DosShell for DOS 6 buatan Microsoft dan inginnya Microsoft bersaing terhadap larisnya penjualan Apple Macintosh yang menggunakan GUI, Microsoft menciptakan Windows 1.0 Nama ini berasal dari kelatahan karyawan Microsoft yang menyebut nama aplikasi tersebut sebagai Program Windows (Jendela Program). Windows versi 2 adalah versi Windows pertama yang bisa diinstal program. Satu-satunya program yang bisa ditambahkan adalah Microsoft Word versi 1. Windows versi 3 menjanjikan aplikasi tambahan yang lebih banyak, kelengkapan penggunaan, kecantikan user interface atau antarmuka dan mudahnya konfigurasi. Windows versi 3.1 adalah versi Windows yang bisa mengoptimalisasi penggunaannya pada prosesor 32-bit Intel 80386 ke atas. Windows versi 3.11 adalah versi Windows terakhir sebelum era Start Menu. Windows 3.11 pun adalah versi Windows pertama yang mendukung networking/jaringan. Versi Hibrida dapat dijalankan tanpa MS-DOS. Versi Hibrida tersebut menginstalasi dirinya sendiri dengan DOS 7. Tidak seperti Windows versi 16-bit yang merupakan shell yang harus diinstalasi melalui DOS terlebih dahulu. Aplikasinya pun berbeda. Meskipun Windows 9X dapat menjalankan aplikasi Windows 16-bit, namun Windows 9X memiliki grade aplikasi sendiri - X86-32, Windows 9X sangat terkenal dengan BSOD (Blue Screen of Death).
+Versi-versi Windows[sunting | sunting sumber]
+Artikel utama untuk bagian ini adalah: Daftar versi Microsoft Windows
+
+
+
+
+Logo Microsoft Windows yang didesain ulang oleh Microsoft saat merilis Windows XP, yang digunakan hingga 4 Desember 2006
+
+
+
+
+
+
+Logo Microsoft Windows per bulan Oktober 2012 saat merilis Windows Server 2012 dan Windows 8
+
+
+Sudah dirilis[sunting | sunting sumber]
+
+16-bit, berjalan di atas MS-DOS
+
+1985 November - Windows 1.0
+1987 9 Desember - Windows 2.0
+1990 22 Mei - Windows 3.0
+1992 Agustus - Windows 3.1
+1992 Oktober - Windows for Workgroups 3.1
+1993 November - Windows for Workgroups 3.11 (Versi terakhir tanpa Menu Mulai)
+
+
+Hibrida (16-bit/32-bit), berjalan tanpa MS-DOS (meski tidak sepenuhnya)
+
+1995 24 Agustus - Windows 95 (Versi: 4.00.950) (Versi pertama dengan Menu Mulai)
+1998 25 Juni - Windows 98 (Versi: 4.1.1998)
+1999 5 Mei - Windows 98 Second Edition (Versi: 4.1.2222)
+2000 - Windows Millennium Edition (Me) (Versi: 4.9.3000)
+
+
+Berbasis kernel Windows NT
+
+1993 Agustus - Windows NT 3.1
+1994 September - Windows NT 3.5
+1995 Juni - Windows NT 3.51
+1996 29 Juli - Windows NT 4.0 (Versi 4.0.1381)
+2000 17 Februari - Windows 2000 (Versi: NT 5.0.2195)
+2001 - Windows XP (Versi: NT 5.1.2600)
+2003 - Windows Server 2003 (Versi: NT 5.2.3790)
+2006 - Windows Vista (Versi 6.0 Build 6000) (Versi pertama yang mendukung tema mode Aero)
+2007 - Windows Home Server (Versi 6.0.1800.24)
+2008 - Windows Server 2008 (Versi 6.0.6001)
+2009 22 Oktober - Windows 7 (Versi 6.1 Build 7600) (Versi terakhir dengan Menu Mulai) (Versi terakhir dengan tema mode Aero)
+2009 22 Oktober - Windows Server 2008 R2 (Versi 6.1.7600)
+2012 4 September - Windows Server 2012 (Versi 6.2 Build 9200)
+2012 26 Oktober - Windows 8 (Versi 6.2 Build 9200) (Versi pertama dengan Layar Mulai)
+2013 18 Oktober - Windows 8.1 (Versi 6.3 Build 9600) (Versi pertama dengan Tombol Mulai yang dimodifikasi)
+2013 18 Oktober - Windows Server 2012 R2 (Versi 6.3 Build 9600)
+2015 29 Juli - Windows 10 (Versi 10.0 Build 10240) (Versi pertama dengan Menu Mulai yang dimodifikasi)
+
+
+
+Akan rilis[sunting | sunting sumber]
+
+Awal 2016 - Windows Server 2016 (Versi 10.0 Build 10074 (Pratayang Teknis 2))
+
+Lihat pula[sunting | sunting sumber]
+
+Ubuntu
+Linux
+
+Referensi[sunting | sunting sumber]
+
+
+^ "NT Server Training: Architectural Overview. Lesson 2 – Windows NT System Overview.". Microsoft TechNet. Microsoft. Diakses tanggal December 9, 2010. 
+
+
+
+
+
+
+
+
+
+
+l
+b
+s
+
+
+Microsoft
+
+
+
+
+
+
+
+
+
+Sejarah
+Semua topik
+
+
+
+
+
+
+
+
+Dewan Direksi
+
+
+
+Steve Ballmer
+Dina Dublon
+Bill Gates
+Maria Klawe
+Stephen J. Luczo
+David Marquardt
+Satya Nadella (CEO)
+Charles Noski
+Helmut Panke
+John W. Thompson (Pemimpin)
+
+
+
+
+
+
+
+
+Staf kepala
+
+
+
+Satya Nadella (CEO)
+Amy Hood (CFO)
+Craig Mundie (CRSO)
+Kevin Turner (COO)
+
+
+
+
+
+
+
+
+Pemimpin Senior
+
+
+
+Tony Bates
+Lisa Brummel
+Julie Larson-Green
+Qi Lu
+Terry Myerson
+Mark Penn
+Tami Reller
+Harry Shum
+
+
+
+
+
+
+
+
+Presiden dan Wakil Presiden
+
+
+
+Joe Belfiore
+Jon DeVaan (SVP)
+Richard Rashid (SVP)
+S. Somasegar (SVP)
+
+
+
+
+
+
+
+
+Keluarga produk
+
+
+
+Sistem operasi
+
+Windows
+Windows Phone
+
+
+Perangkat lunak
+
+Office
+Servers
+Skype
+Visual Studio
+
+
+Hardware
+
+Surface
+
+
+Xbox
+
+Microsoft Studios
+
+
+
+
+
+
+
+
+
+
+Properti web
+
+
+
+MSN
+Bing
+Outlook.com
+SkyDrive
+MSDN
+TechNet
+
+
+
+
+
+
+
+
+Konferensi
+
+
+
+Build
+MIX
+PDC
+TechEd
+WinHEC
+
+
+
+
+
+
+
+
+Kritik
+
+
+
+Bundling of Microsoft Windows
+iLoo
+Internet Explorer
+NSAKEY
+Windows
+
+9x
+2000
+ME
+XP
+Vista
+
+
+Xbox 360
+
+
+
+
+
+
+
+
+Tuntutan hukum
+
+
+
+Alcatel-Lucent v. Microsoft
+Apple v. Microsoft
+Kasus persaingan Microsoft Uni Eropa
+Microsoft v. Lindows
+Microsoft vs. MikeRoweSoft
+Microsoft v. Shah
+United States v. Microsoft
+
+
+
+
+
+
+
+
+Akuisisi
+
+
+
+Altamira Software
+aQuantive
+Azyxxi
+Blue Ribbon Soundworks
+Bungie
+Calista Technologies
+Colloquis
+Connectix
+Consumers Software
+Danger
+Farecast
+FASA Studio
+Fast Search & Transfer
+Firefly
+Forethought
+GIANT Company Software
+Groove Networks
+Hotmail
+Jellyfish.com
+LinkExchange
+Lionhead Studios
+Massive Incorporated
+Onfolio
+PlaceWare
+Powerset
+ProClarity
+Rare
+ScreenTonic
+Skype Communications
+Teleo
+Tellme Networks
+Twisted Pixel Games
+Vermeer Technologies
+Visio Corporation
+VXtreme
+WebTV Networks
+Winternals
+Yammer
+Yupi
+
+
+
+
+
+
+
+
+
+
+
+ Kategori
+ Commons
+ Portal Microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+l
+b
+s
+
+
+Sistem operasi
+
+
+
+
+
+
+Kernel
+
+Mikrokernel, Kernel monolitik, Kernel hibrida, Ruang kernel, Modul kernel, Nanokernel, Device driver, Ruang pengguna
+
+
+
+
+
+
+Manajemen proses
+
+Proses, Multiprogramming, Interupsi (perangkat keras), Protected mode, Supervisor mode, Tugas ganda (multitasking), Manajemen proses, Penjadwalan (komputasi), Context switch, Cooperative multitasking, Preemptive multitasking, CPU modes
+
+
+
+
+
+
+Manajemen memori
+
+Memory protection, Segmentation, Paging, Memory management unit, Segmentation fault, General protection fault
+
+
+
+
+
+
+Contoh
+
+Zeath OS, AmigaOS, Microsoft Windows, Linux, GNU, UNIX, Mac OS, MS-DOS, TogOS, Haiku, MINIX, OS/2
+
+
+
+
+
+
+Konsep lainnya
+
+Boot loader, API, VFS, Jaringan komputer, GUI, Sejarah sistem operasi, HAL
+
+
+
+
+
+
+

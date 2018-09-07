@@ -1,0 +1,2409 @@
+"Windows" redirects here. For the part of a building, see window. For other uses, see Windows (disambiguation).
+
+Microsoft Windows
+
+
+
+
+
+Screenshot of Windows 10 (Anniversary Update), showing the Action Center and Start Menu
+
+
+
+Developer
+Microsoft
+
+
+Written in
+C, C++, Assembly[1]
+
+
+Working state
+Publicly released
+
+
+Source model
+Closed / shared source
+
+
+Initial release
+November 20, 1985; 30 years ago (1985-11-20), as Windows 1.0
+
+
+Latest release
+1607 (10.0.14393.105) (August 31, 2016; 7 days ago (2016-08-31)) [±]
+
+
+Latest preview
+1607 (10.0.14915.1000) (August 31, 2016; 7 days ago (2016-08-31)) [±]
+
+
+Marketing target
+Personal computing
+
+
+Available in
+137 languages[2]
+
+
+Update method
+
+
+
+Windows Update
+Windows Anytime Upgrade
+Windows Store
+WSUS
+
+
+
+
+
+Package manager
+Windows Installer (.msi), Windows Store (.appx)[3]
+
+
+Platforms
+ARM, IA-32, Itanium, x86-64, DEC Alpha, MIPS, PowerPC
+
+
+Kernel type
+
+
+
+Windows NT family: Hybrid
+Windows 9x and earlier: Monolithic (MS-DOS)
+
+
+
+
+
+Default user interface
+Windows shell
+
+
+License
+Proprietary commercial software
+
+
+Official website
+windows.microsoft.com
+
+
+Microsoft Windows (or simply Windows) is a metafamily of graphical operating systems developed, marketed, and sold by Microsoft. It consists of several families of operating systems, each of which cater to a certain sector of the computing industry. Active Windows families include Windows NT, Windows Embedded and Windows Phone; these may encompass subfamilies, e.g. Windows Embedded Compact (Windows CE) or Windows Server. Defunct Windows families include Windows 9x; Windows 10 Mobile is an active product, unrelated to the defunct family Windows Mobile.
+Microsoft introduced an operating environment named Windows on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).[4] Microsoft Windows came to dominate the world's personal computer (PC) market with over 90% market share, overtaking Mac OS, which had been introduced in 1984. On PCs, Windows is still the most popular operating system. However, in 2014, Microsoft admitted losing the majority of the overall operating system market to Android,[5] because of the massive growth in sales of Android smartphones. In 2014, the number of Windows devices sold were less than 25% of Android devices sold. This comparisons, however, may not be fully relevant as the two operating systems traditionally targeted different platforms.
+As of March 2016[update], the most recent version of Windows for PCs, tablets, smartphones and embedded devices is Windows 10. The most recent versions for server computers is Windows Server 2012 R2. A specialized version of Windows runs on the Xbox One game console.[6]
+
+
+
+Contents
+
+
+1 Genealogy
+
+1.1 By marketing role
+
+
+2 Version history
+
+2.1 Early versions
+2.2 Windows 3.x
+2.3 Windows 9x
+2.4 Windows NT
+
+2.4.1 Early versions
+
+2.4.1.1 Home versions of Windows NT
+
+
+2.4.2 Windows Vista
+2.4.3 Windows 7
+2.4.4 Windows 8 and 8.1
+2.4.5 Windows 10
+2.4.6 Multilingual support
+2.4.7 Platform support
+
+
+2.5 Windows CE
+2.6 Xbox OS
+
+
+3 Timeline of releases
+4 Usage share and device sales
+5 Security
+
+5.1 File permissions
+5.2 Windows Defender
+5.3 Third-party analysis
+
+
+6 Alternative implementations
+7 See also
+8 References
+9 External links
+
+
+
+Genealogy
+By marketing role
+Microsoft, the developer of Windows, has registered several trademarks each of which denote a family of Windows operating systems that target a specific sector of the computing industry. As of 2014, the following Windows families are being actively developed:
+
+Windows NT: Started as a family of operating system with Windows NT 3.1, an operating system for server computers and workstations. It now consists of three operating system subfamilies that are released almost at the same time and share the same kernel
+
+Windows: The operating system for mainstream personal computers. The latest version is Windows 10. It is almost impossible for someone unfamiliar with the subject to identify the members of this family by name because they do not adhere to any specific rule; e.g. Windows Vista, Windows 7, Windows 8/8.1 and Windows RT are members of this family but Windows 3.1 is not. The main competitor of this family is OS X by Apple Inc. (c.f. Usage share of operating systems § Market share by category)
+Windows Server: The operating system for server computers. The latest version is Windows Server 2012 R2. Unlike its clients sibling, it has adopted a strong naming scheme. The main competitor of this family is Linux. (c.f. Usage share of operating systems § Market share by category)
+Windows PE: A lightweight version of its Windows sibling meant to operate as a live operating system, used for installing Windows on bare-metal computers (especially on many computers at once), recovery or troubleshooting purposes. The latest version is Windows PE 10.0.10586.0.
+
+
+Windows Embedded: Initially, Microsoft developed Windows CE as a general-purpose operating system for every device that was too resource-limited to be called a full-fledged computer. Eventually, however, Windows CE was renamed Windows Embedded Compact and was folded under Windows Compact trademark which also consists of Windows Embedded Industry, Windows Embedded Professional, Windows Embedded Standard, Windows Embedded Handheld and Windows Embedded Automotive.[7]
+
+The following Windows families are no longer being developed:
+
+Windows 9x: An operating system that targeted consumers market. Discontinued because of suboptimal performance. (PC World called its last version, Windows ME, one of the worst products of all times.)[8] Microsoft now caters to the consumers market with Windows NT.
+Windows Mobile: The predecessor to Windows Phone, it was a mobile phone operating system. The first version was called Pocket PC 2000; the third version, Windows Mobile 2003 is the first version to adopt the Windows Mobile trademark. The last version is Windows Mobile 6.5.
+Windows Phone: An operating system sold only to manufacturers of smartphones. The first version was Windows Phone 7, followed by Windows Phone 8, and the last version Windows Phone 8.1. It was succeeded by Windows 10 Mobile
+
+Version history
+Main article: History of Microsoft Windows
+See also: List of Microsoft Windows versions
+The term Windows collectively describes any or all of several generations of Microsoft operating system products. These products are generally categorized as follows:
+Early versions
+Main articles: Windows 1.0, Windows 2.0, and Windows 2.1x
+
+
+
+
+Windows 1.0, the first version, released in 1985
+
+
+The history of Windows dates back to September 1981, when Chase Bishop, a computer scientist, designed the first model of an electronic device and project Interface Manager was started. It was announced in November 1983 (after the Apple Lisa, but before the Macintosh) under the name "Windows", but Windows 1.0 was not released until November 1985.[9] Windows 1.0 was to compete with Apple's operating system, but achieved little popularity. Windows 1.0 is not a complete operating system; rather, it extends MS-DOS. The shell of Windows 1.0 is a program known as the MS-DOS Executive. Components included Calculator, Calendar, Cardfile, Clipboard viewer, Clock, Control Panel, Notepad, Paint, Reversi, Terminal and Write. Windows 1.0 does not allow overlapping windows. Instead all windows are tiled. Only modal dialog boxes may appear over other windows.
+Windows 2.0 was released in December 1987, and was more popular than its predecessor. It features several improvements to the user interface and memory management.[citation needed] Windows 2.03 changed the OS from tiled windows to overlapping windows. The result of this change led to Apple Computer filing a suit against Microsoft alleging infringement on Apple's copyrights.[10][11] Windows 2.0 also introduced more sophisticated keyboard shortcuts and could make use of expanded memory.
+Windows 2.1 was released in two different versions: Windows/286 and Windows/386. Windows/386 uses the virtual 8086 mode of the Intel 80386 to multitask several DOS programs and the paged memory model to emulate expanded memory using available extended memory. Windows/286, in spite of its name, runs on both Intel 8086 and Intel 80286 processors. It runs in real mode but can make use of the high memory area.[citation needed]
+In addition to full Windows-packages, there were runtime-only versions that shipped with early Windows software from third parties and made it possible to run their Windows software on MS-DOS and without the full Windows feature set.
+The early versions of Windows are often thought of as graphical shells, mostly because they ran on top of MS-DOS and use it for file system services.[12] However, even the earliest Windows versions already assumed many typical operating system functions; notably, having their own executable file format and providing their own device drivers (timer, graphics, printer, mouse, keyboard and sound). Unlike MS-DOS, Windows allowed users to execute multiple graphical applications at the same time, through cooperative multitasking. Windows implemented an elaborate, segment-based, software virtual memory scheme, which allows it to run applications larger than available memory: code segments and resources are swapped in and thrown away when memory became scarce; data segments moved in memory when a given application had relinquished processor control.
+Windows 3.x
+Main articles: Windows 3.0 and Windows 3.1x
+
+
+
+
+Windows 3.0, released in 1990
+
+
+Windows 3.0, released in 1990, improved the design, mostly because of virtual memory and loadable virtual device drivers (VxDs) that allow Windows to share arbitrary devices between multi-tasked DOS applications.[citation needed] Windows 3.0 applications can run in protected mode, which gives them access to several megabytes of memory without the obligation to participate in the software virtual memory scheme. They run inside the same address space, where the segmented memory provides a degree of protection. Windows 3.0 also featured improvements to the user interface. Microsoft rewrote critical operations from C into assembly. Windows 3.0 is the first Microsoft Windows version to achieve broad commercial success, selling 2 million copies in the first six months.[13][14]
+Windows 3.1, made generally available on March 1, 1992, featured a facelift. In August 1993, Windows for Workgroups, a special version with integrated peer-to-peer networking features and a version number of 3.11, was released. It was sold along Windows 3.1. Support for Windows 3.1 ended on December 31, 2001.[15]
+Windows 3.2, released 1994, is an updated version of the Chinese version of Windows 3.1.[16] The update was limited to this language version, as it fixed only issues related to the complex writing system of the Chinese language.[17] Windows 3.2 was generally sold by computer manufacturers with a ten-disk version of MS-DOS that also had Simplified Chinese characters in basic output and some translated utilities.
+Windows 9x
+Main article: Windows 9x
+The next major consumer-oriented release of Windows, Windows 95, was released on August 24, 1995. While still remaining MS-DOS-based, Windows 95 introduced support for native 32-bit applications, plug and play hardware, preemptive multitasking, long file names of up to 255 characters, and provided increased stability over its predecessors. Windows 95 also introduced a redesigned, object oriented user interface, replacing the previous Program Manager with the Start menu, taskbar, and Windows Explorer shell. Windows 95 was a major commercial success for Microsoft; Ina Fried of CNET remarked that "by the time Windows 95 was finally ushered off the market in 2001, it had become a fixture on computer desktops around the world."[18] Microsoft published four OEM Service Releases (OSR) of Windows 95, each of which was roughly equivalent to a service pack. The first OSR of Windows 95 was also the first version of Windows to be bundled with Microsoft's web browser, Internet Explorer.[19] Mainstream support for Windows 95 ended on December 31, 2000, and extended support for Windows 95 ended on December 31, 2001.[20]
+Windows 95 was followed up with the release of Windows 98 on June 25, 1998, which introduced the Windows Driver Model, support for USB composite devices, support for ACPI, hibernation, and support for multi-monitor configurations. Windows 98 also included integration with Internet Explorer 4 through Active Desktop and other aspects of the Windows Desktop Update (a series of enhancements to the Explorer shell which were also made available for Windows 95). In May 1999, Microsoft released Windows 98 Second Edition, an updated version of Windows 98. Windows 98 SE added Internet Explorer 5.0 and Windows Media Player 6.2 amongst other upgrades. Mainstream support for Windows 98 ended on June 30, 2002, and extended support for Windows 98 ended on July 11, 2006.[21]
+On September 14, 2000, Microsoft released Windows ME (Millennium Edition), the last DOS-based version of Windows. Windows ME incorporated visual interface enhancements from its Windows NT-based counterpart Windows 2000, had faster boot times than previous versions (which however, required the removal of the ability to access a real mode DOS environment, removing compatibility with some older programs),[22] expanded multimedia functionality (including Windows Media Player 7, Windows Movie Maker, and the Windows Image Acquisition framework for retrieving images from scanners and digital cameras), additional system utilities such as System File Protection and System Restore, and updated home networking tools.[23] However, Windows ME was faced with criticism for its speed and instability, along with hardware compatibility issues and its removal of real mode DOS support. PC World considered Windows ME to be one of the worst operating systems Microsoft had ever released, and the 4th worst tech product of all time.[8]
+Windows NT
+Main article: Windows NT
+Early versions
+In November 1988, a new development team within Microsoft (which included former Digital Equipment Corporation developers Dave Cutler and Mark Lucovsky) began work on a revamped version of IBM and Microsoft's OS/2 operating system known as "NT OS/2". NT OS/2 was intended to be a secure, multi-user operating system with POSIX compatibility and a modular, portable kernel with preemptive multitasking and support for multiple processor architectures. However, following the successful release of Windows 3.0, the NT development team decided to rework the project to use an extended 32-bit port of the Windows API known as Win32 instead of those of OS/2. Win32 maintained a similar structure to the Windows APIs (allowing existing Windows applications to easily be ported to the platform), but also supported the capabilities of the existing NT kernel. Following its approval by Microsoft's staff, development continued on what was now Windows NT, the first 32-bit version of Windows. However, IBM objected to the changes, and ultimately continued OS/2 development on its own.[24][25]
+The first release of the resulting operating system, Windows NT 3.1 (named to associate it with Windows 3.1) was released in July 1993, with versions for desktop workstations and servers. Windows NT 3.5 was released in September 1994, focusing on performance improvements and support for Novell's NetWare, and was followed up by Windows NT 3.51 in May 1995, which included additional improvements and support for the PowerPC architecture. Windows NT 4.0 was released in June 1996, introducing the redesigned interface of Windows 95 to the NT series. On February 17, 2000, Microsoft released Windows 2000, a successor to NT 4.0. The Windows NT name was dropped at this point in order to put a greater focus on the Windows brand.[25]
+Home versions of Windows NT
+The next major version of Windows NT, Windows XP, was released on October 25, 2001. The introduction of Windows XP aimed to unify the consumer-oriented Windows 9x series with the architecture introduced by Windows NT, a change which Microsoft promised would provide better performance over its DOS-based predecessors. Windows XP would also introduce a redesigned user interface (including an updated Start menu and a "task-oriented" Windows Explorer), streamlined multimedia and networking features, Internet Explorer 6, integration with Microsoft's .NET Passport services, modes to help provide compatibility with software designed for previous versions of Windows, and Remote Assistance functionality.[26]
+At retail, Windows XP was now marketed in two main editions: the "Home" edition was targeted towards consumers, while the "Professional" edition was targeted towards business environments and power users, and included additional security and networking features. Home and Professional were later accompanied by the "Media Center" edition (designed for home theater PCs, with an emphasis on support for DVD playback, TV tuner cards, DVR functionality, and remote controls), and the "Tablet PC" edition (designed for mobile devices meeting its specifications for a tablet computer, with support for stylus pen input and additional pen-enabled applications).[27][28][29] Mainstream support for Windows XP ended on April 14, 2009. Extended support ended on April 8, 2014.[30]
+After Windows 2000, Microsoft also changed its release schedules for server operating systems; the server counterpart of Windows XP, Windows Server 2003, was released in April 2003.[25] It was followed in December 2005, by Windows Server 2003 R2.
+Windows Vista
+Main article: Windows Vista
+After a lengthy development process, Windows Vista was released on November 30, 2006, for volume licensing and January 30, 2007, for consumers. It contained a number of new features, from a redesigned shell and user interface to significant technical changes, with a particular focus on security features. It was available in a number of different editions, and has been subject to some criticism, such as drop of performance, longer boot time, criticism of new UAC, and stricter license agreement. Vista's server counterpart, Windows Server 2008 was released in early 2008.
+Windows 7
+Main article: Windows 7
+On July 22, 2009, Windows 7 and Windows Server 2008 R2 were released as RTM (release to manufacturing) while the former was released to the public 3 months later on October 22, 2009. Unlike its predecessor, Windows Vista, which introduced a large number of new features, Windows 7 was intended to be a more focused, incremental upgrade to the Windows line, with the goal of being compatible with applications and hardware with which Windows Vista was already compatible.[31] Windows 7 has multi-touch support, a redesigned Windows shell with an updated taskbar, a home networking system called HomeGroup,[32] and performance improvements.
+Windows 8 and 8.1
+Main article: Windows 8
+Windows 8, the successor to Windows 7, was released generally on October 26, 2012. A number of significant changes were made on Windows 8, including the introduction of a user interface based around Microsoft's Metro design language with optimizations for touch-based devices such as tablets and all-in-one PCs. These changes include the Start screen, which uses large tiles that are more convenient for touch interactions and allow for the display of continually updated information, and a new class of apps which are designed primarily for use on touch-based devices. Other changes include increased integration with cloud services and other online platforms (such as social networks and Microsoft's own OneDrive (formerly SkyDrive) and Xbox Live services), the Windows Store service for software distribution, and a new variant known as Windows RT for use on devices that utilize the ARM architecture.[33][34][35][36][37][38] An update to Windows 8, called Windows 8.1,[39] was released on October 17, 2013, and includes features such as new live tile sizes, deeper OneDrive integration, and many other revisions. Windows 8 and Windows 8.1 has been subject to some criticism, such as removal of Start Menu.
+Windows 10
+Main article: Windows 10
+On September 30, 2014, Microsoft announced Windows 10 as the successor to Windows 8.1. It was released on July 29, 2015, and addresses shortcomings in the user interface first introduced with Windows 8. Changes include the return of the Start Menu, a virtual desktop system, and the ability to run Windows Store apps within windows on the desktop rather than in full-screen mode. Windows 10 is said to be available to update from qualified Windows 7 with SP1 and Windows 8.1 computers from the Get Windows 10 Application (for Windows 7, Windows 8.1) or Windows Update (Windows 7).[40]
+On November 12, 2015, an update to Windows 10, version 1511, was released.[41] This update can be activated with a Windows 7, 8 or 8.1 product key as well as Windows 10 product keys.[42] Features include new icons and right-click context menus, default printer management, four times as many tiles allowed in the Start menu, Find My Device, and Edge updates.[42]
+Multilingual support
+Multilingual support is built into Windows. The language for both the keyboard and the interface can be changed through the Region and Language Control Panel. Components for all supported input languages, such as Input Method Editors, are automatically installed during Windows installation (in Windows XP and earlier, files for East Asian languages, such as Chinese, and right-to-left scripts, such as Arabic, may need to be installed separately, also from the said Control Panel). Third-party IMEs may also be installed if a user feels that the provided one is insufficient for their needs.
+Interface languages for the operating system are free for download, but some languages are limited to certain editions of Windows. Language Interface Packs (LIPs) are redistributable and may be downloaded from Microsoft's Download Center and installed for any edition of Windows (XP or later) - they translate most, but not all, of the Windows interface, and require a certain base language (the language which Windows originally shipped with). This is used for most languages in emerging markets. Full Language Packs, which translates the complete operating system, are only available for specific editions of Windows (Ultimate and Enterprise editions of Windows Vista and 7, and all editions of Windows 8, 8.1 and RT except Single Language). They do not require a specific base language, and are commonly used for more popular languages such as French or Chinese. These languages cannot be downloaded through the Download Center, but available as optional updates through the Windows Update service (except Windows 8).
+The interface language of installed applications are not affected by changes in the Windows interface language. Availability of languages depends on the application developers themselves.
+Windows 8 and Windows Server 2012 introduces a new Language Control Panel where both the interface and input languages can be simultaneously changed, and language packs, regardless of type, can be downloaded from a central location. The PC Settings app in Windows 8.1 and Windows Server 2012 R2 also includes a counterpart settings page for this. Changing the interface language also changes the language of preinstalled Windows Store apps (such as Mail, Maps and News) and certain other Microsoft-developed apps (such as Remote Desktop). The above limitations for language packs are however still in effect, except that full language packs can be installed for any edition except Single Language, which caters to emerging markets.
+Platform support
+Windows NT included support for several different platforms before the x86-based personal computer became dominant in the professional world. Windows NT 4.0 and its predecessors supported PowerPC, DEC Alpha and MIPS R4000. (Although some these platforms implement 64-bit computing, the operating system treated them as 32-bit.) However, Windows 2000, the successor of Windows NT 4.0, dropped support for all platforms except the third generation x86 (known as IA-32) or newer in 32-bit mode. The client line of Window NT family still runs on IA-32, although the Windows Server line has ceased supporting this platform with the release of Windows Server 2008 R2.
+With the introduction of the Intel Itanium architecture (IA-64), Microsoft released new versions of Windows to support it. Itanium versions of Windows XP and Windows Server 2003 were released at the same time as their mainstream x86 counterparts. Windows XP 64-Bit Edition, released in 2005, is the last Windows client operating systems to support Itanium. Windows Server line continued to support this platform until Windows Server 2012; Windows Server 2008 R2 is the last Windows operating system to support Itanium architecture.
+On April 25, 2005, Microsoft released Windows XP Professional x64 Edition and Windows Server 2003 x64 Editions to support the x86-64 (or simply x64), the eighth generation of x86 architecture. Windows Vista was the first client version of Windows NT to be released simultaneously in IA-32 and x64 editions. x64 is still supported.
+An edition of Windows 8 known as Windows RT was specifically created for computers with ARM architecture and while ARM is still used for Windows smartphones with Windows 10, tablets with Windows RT will not be updated.
+Windows CE
+Main articles: Windows CE and Windows Phone
+
+
+
+
+The latest current version of Windows CE, Windows Embedded Compact 7, displaying a concept media player UI.
+
+
+Windows CE (officially known as Windows Embedded Compact), is an edition of Windows that runs on minimalistic computers, like satellite navigation systems and some mobile phones. Windows Embedded Compact is based on its own dedicated kernel, dubbed Windows CE kernel. Microsoft licenses Windows CE to OEMs and device makers. The OEMs and device makers can modify and create their own user interfaces and experiences, while Windows CE provides the technical foundation to do so.
+Windows CE was used in the Dreamcast along with Sega's own proprietary OS for the console. Windows CE was the core from which Windows Mobile was derived. Its successor, Windows Phone 7, was based on components from both Windows CE 6.0 R3 and Windows CE 7.0. Windows Phone 8 however, is based on the same NT-kernel as Windows 8.
+Windows Embedded Compact is not to be confused with Windows XP Embedded or Windows NT 4.0 Embedded, modular editions of Windows based on Windows NT kernel.
+Xbox OS
+Main articles: Xbox One system software and Xbox 360 system software
+Xbox OS is an unofficial name given to the version of Windows that runs on the Xbox One.[43] It is a more specific implementation with an emphasis on virtualization (using Hyper-V) as it is three operating systems running at once, consisting of the core operating system, a second implemented for games and a more Windows-like environment for applications.[44] Microsoft updates Xbox One's OS every month, and these updates can be downloaded from the Xbox Live service to the Xbox and subsequently installed, or by using offline recovery images downloaded via a PC.[45] The Windows 10-based Core had replaced the Windows 8-based one in this update, and the new system is sometimes referred to as "Windows 10 on Xbox One" or "OneCore".[46][47] Xbox One's system also allows backward compatibility with Xbox 360,[48] and the Xbox 360's system is backwards compatible with the original Xbox.[49]
+Timeline of releases
+
+Table of Windows versions 
+
+
+Legend:
+Old version
+Older version, still supported
+Latest version
+Latest preview version
+Future release
+
+
+
+
+Product name
+Latest version
+Release date
+Codename
+Support until[50]
+Latest version of
+
+
+Mainstream
+Extended
+IE
+DirectX
+Edge
+
+
+Old version, no longer supported: Windows 1.0
+1.01
+November 20, 1985
+Interface Manager
+December 31, 2001
+N/A
+N/A
+N/A
+
+
+Old version, no longer supported: Windows 2.0
+2.03
+December 9, 1987
+N/A
+December 31, 2001
+N/A
+N/A
+N/A
+
+
+Old version, no longer supported: Windows 2.1
+2.11
+May 27, 1988
+N/A
+December 31, 2001
+N/A
+N/A
+N/A
+
+
+Old version, no longer supported: Windows 3.0
+3.0
+May 22, 1990
+N/A
+December 31, 2001
+N/A
+N/A
+N/A
+
+
+Old version, no longer supported: Windows 3.1
+3.1
+April 6, 1992
+Janus
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows For Workgroups 3.1
+3.1
+October 1992
+Sparta, Winball
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows NT 3.1
+NT 3.1.528
+July 27, 1993
+N/A
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows For Workgroups 3.11
+3.11
+August 11, 1993
+Sparta, Winball
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows 3.2
+3.2
+November 22, 1993
+N/A
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows NT 3.5
+NT 3.5.807
+September 21, 1994
+Daytona
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows NT 3.51
+NT 3.51.1057
+May 30, 1995
+N/A
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows 95
+4.0.950
+August 24, 1995
+Chicago, 4.0
+December 31, 2000
+December 31, 2001
+5.5
+6.1
+N/A
+
+
+Old version, no longer supported: Windows NT 4.0
+NT 4.0.1381
+July 31, 1996
+Cairo
+December 31, 2000
+December 31, 2001
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows 98
+October 4, 1998
+June 25, 1998
+Memphis, 97, 4.1
+June 30, 2002
+July 11, 2006
+6
+6.1
+N/A
+
+
+Old version, no longer supported: Windows 98 SE
+October 4, 2222
+May 5, 1999
+N/A
+June 30, 2002
+July 11, 2006
+6
+6.1
+N/A
+
+
+Old version, no longer supported: Windows 2000
+NT 5.0.2195
+December 15, 1999
+N/A
+June 30, 2005
+July 13, 2010
+5
+N/A
+N/A
+
+
+Old version, no longer supported: Windows ME
+4.90.3000
+September 14, 2000
+Millenium, 4.9
+December 31, 2003
+July 11, 2006
+6
+9.0c
+N/A
+
+
+Old version, no longer supported: Windows XP
+NT January 5, 2600
+October 25, 2001
+Whistler
+April 14, 2009
+April 8, 2014
+8
+9.0c
+N/A
+
+
+Old version, no longer supported: Windows XP 64-bit Edition
+NT 5.2.3790
+March 28, 2003
+N/A
+April 14, 2009
+April 8, 2014
+6
+9.0c
+N/A
+
+
+Old version, no longer supported: Windows Server 2003
+NT 5.2.3790
+April 24, 2003
+N/A
+July 13, 2010
+July 14, 2015
+8
+9.0c
+N/A
+
+
+Old version, no longer supported: Windows XP Professional x64 Edition
+NT 5.2.3790
+April 25, 2005
+N/A
+April 14, 2009
+April 8, 2014
+8
+9.0c
+N/A
+
+
+Old version, no longer supported: Windows Fundamentals for Legacy PCs
+NT January 5, 2600
+July 8, 2006
+Eiger, Mönch
+April 14, 2009
+April 8, 2014
+8
+9.0c
+N/A
+
+
+Older version, yet still supported: Windows Vista
+NT 6.0.6002
+November 30, 2006 (volume license)
+January 30, 2007 (retail)
+Longhorn
+April 10, 2012
+April 11, 2017
+9
+11
+N/A
+
+
+Old version, no longer supported: Windows Home Server
+NT 5.2.4500
+November 4, 2007
+N/A
+January 8, 2013
+8
+9.0c
+N/A
+
+
+Older version, yet still supported: Windows Server 2008
+NT 6.0.6002
+February 27, 2008
+Longhorn Server
+January 13, 2015
+January 14, 2020
+9
+11
+N/A
+
+
+Older version, yet still supported: Windows 7
+NT 6.1.7601
+October 22, 2009
+Blackcomb, Vienna
+January 13, 2015
+January 14, 2020
+11
+11
+N/A
+
+
+Older version, yet still supported: Windows Server 2008 R2
+NT 6.1.7601
+October 22, 2009
+N/A
+January 13, 2015
+January 14, 2020
+11
+11
+N/A
+
+
+Old version, no longer supported: Windows Home Server 2011
+NT 6.1.8400
+April 6, 2011
+Vail
+April 12, 2016
+9
+11
+N/A
+
+
+Older version, yet still supported: Windows Server 2012
+NT 6.2.9200
+September 4, 2012
+N/A
+January 9, 2018
+January 10, 2023
+10
+11.1
+N/A
+
+
+Old version, no longer supported: Windows 8
+NT 6.2.9200
+October 26, 2012
+N/A
+January 12, 2016
+10
+11.1
+N/A
+
+
+Older version, yet still supported: Windows 8.1
+NT 6.3.9600
+October 17, 2013
+Blue
+January 9, 2018
+January 10, 2023
+11
+11.2
+N/A
+
+
+Current stable version: Windows Server 2012 R2
+NT 6.3.9600
+October 17, 2013
+Server Blue
+January 9, 2018
+January 10, 2023
+11
+11.2
+N/A
+
+
+Current stable version: Windows 10
+NT 10.0.10586
+July 29, 2015
+Threshold
+October 13, 2020
+October 14, 2025
+11
+12
+25
+
+
+Latest preview version of a future release: Windows Server 2016
+NT 10.0.10586
+TBA
+N/A
+TBA
+TBA
+11
+12
+25
+
+
+
+
+
+Windows timeline: Bar chart 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view
+talk
+edit
+
+
+
+
+
+
+
+
+
+The Windows family tree
+
+
+Usage share and device sales
+Main article: Usage share of operating systems
+
+
+
+This box:
+
+view
+talk
+edit
+
+
+
+
+Market share overview
+According to Net Applications and StatCounter data from July 2016[51][52][53][54]
+
+
+
+
+
+
+Desktop OS
+Net Applications
+StatCounter
+
+
+Old version, no longer supported: Windows XP
+10.34%
+6.37%
+
+
+Older version, yet still supported: Windows Vista
+1.22%
+1.32%
+
+
+Older version, yet still supported: Windows 7
+47.01%
+40.66%
+
+
+Old version, no longer supported: Windows 8
+2.09%
+2.86%
+
+
+Older version, yet still supported: Windows 8.1
+7.80%
+8.41%
+
+
+Current stable version: Windows 10
+21.13%
+23.52%
+
+
+All listed versions
+89.59%
+83.14%
+
+
+
+
+
+
+Mobile OS
+Net Applications
+StatCounter
+
+
+Older version, yet still supported: Windows RT 8.1
+—
+0.05%
+
+
+Old version, no longer supported: Windows Phone 7.5
+0.07%
+1.64%
+
+
+Old version, no longer supported: Windows Phone 8
+0.43%
+
+
+Older version, yet still supported: Windows Phone 8.1
+1.35%
+
+
+Current stable version: Windows 10 Mobile
+0.91%
+
+
+All listed versions
+2.76%
+1.69%
+
+
+
+
+
+According to Net Applications, that tracks use based on web use, Windows is the most-used operating system family for personal computers as of June 2016 with close to 90% usage share.[55] When including both personal computers of all kinds, e.g. mobile devices, in July 2016, according to StatCounter, that also tracks use based on web use, Windows OSes accounted for 46.87% of usage share, compared to 36.48% for Android, 12.26% for iOS, and 4.81% for OS X.[56][57] These numbers are easiest (monthly numbers) to find that track real use, but they may not mirror installed base or sales numbers (in recent years) of devices.
+In terms of the number of devices shipped with the operating system installed, on smartphones, Windows Phone was the third-most-shipped OS (2.6%) after Android (82.8%) and iOS (13.9%) in the second quarter of 2015 according IDC.[58] Across both PCs and mobile devices, in 2014 Windows OSes were the second-most-shipped (333 million devices, or 14%) after Android (1.2 billion, 49%) and ahead of iOS and Mac OS combined (263 million, 11%).[59]
+Security
+Consumer versions of Windows were originally designed for ease-of-use on a single-user PC without a network connection, and did not have security features built in from the outset.[60] However, Windows NT and its successors are designed for security (including on a network) and multi-user PCs, but were not initially designed with Internet security in mind as much, since, when it was first developed in the early 1990s, Internet use was less prevalent.[61]
+These design issues combined with programming errors (e.g. buffer overflows) and the popularity of Windows means that it is a frequent target of computer worm and virus writers. In June 2005, Bruce Schneier's Counterpane Internet Security reported that it had seen over 1,000 new viruses and worms in the previous six months.[62] In 2005, Kaspersky Lab found around 11,000 malicious programs—viruses, Trojans, back-doors, and exploits written for Windows.[63]
+Microsoft releases security patches through its Windows Update service approximately once a month (usually the second Tuesday of the month), although critical updates are made available at shorter intervals when necessary.[64] In versions of Windows after and including Windows 2000 SP3 and Windows XP, updates can be automatically downloaded and installed if the user selects to do so. As a result, Service Pack 2 for Windows XP, as well as Service Pack 1 for Windows Server 2003, were installed by users more quickly than it otherwise might have been.[65]
+While the Windows 9x series offered the option of having profiles for multiple users, they had no concept of access privileges, and did not allow concurrent access; and so were not true multi-user operating systems. In addition, they implemented only partial memory protection. They were accordingly widely criticised for lack of security.
+The Windows NT series of operating systems, by contrast, are true multi-user, and implement absolute memory protection. However, a lot of the advantages of being a true multi-user operating system were nullified by the fact that, prior to Windows Vista, the first user account created during the setup process was an administrator account, which was also the default for new accounts. Though Windows XP did have limited accounts, the majority of home users did not change to an account type with fewer rights – partially due to the number of programs which unnecessarily required administrator rights – and so most home users ran as administrator all the time.
+Windows Vista changes this[66] by introducing a privilege elevation system called User Account Control. When logging in as a standard user, a logon session is created and a token containing only the most basic privileges is assigned. In this way, the new logon session is incapable of making changes that would affect the entire system. When logging in as a user in the Administrators group, two separate tokens are assigned. The first token contains all privileges typically awarded to an administrator, and the second is a restricted token similar to what a standard user would receive. User applications, including the Windows Shell, are then started with the restricted token, resulting in a reduced privilege environment even under an Administrator account. When an application requests higher privileges or "Run as administrator" is clicked, UAC will prompt for confirmation and, if consent is given (including administrator credentials if the account requesting the elevation is not a member of the administrators group), start the process using the unrestricted token.[67]
+File permissions
+All Windows versions from Windows NT 3 have been based on a file system permission system referred to as AGLP (Accounts, Global, Local, Permissions) AGDLP which in essence where file permissions are applied to the file/folder in the form of a 'local group' which then has other 'global groups' as members. These global groups then hold other groups or users depending on different Windows versions used. This system varies from other vendor products such as Linux and NetWare due to the 'static' allocation of permission being applied directory to the file or folder. However using this process of AGLP/AGDLP/AGUDLP allows a small number of static permissions to be applied and allows for easy changes to the account groups without reapplying the file permissions on the files and folders.
+Windows Defender
+On January 6, 2005, Microsoft released a Beta version of Microsoft AntiSpyware, based upon the previously released Giant AntiSpyware. On February 14, 2006, Microsoft AntiSpyware became Windows Defender with the release of Beta 2. Windows Defender is a freeware program designed to protect against spyware and other unwanted software. Windows XP and Windows Server 2003 users who have genuine copies of Microsoft Windows can freely download the program from Microsoft's web site, and Windows Defender ships as part of Windows Vista and 7.[68] In Windows 8, Windows Defender and Microsoft Security Essentials have been combined into a single program, named Windows Defender. It is based on Microsoft Security Essentials, borrowing its features and user interface. Although it is enabled by default, it can be turned off to use another anti-virus solution.[69] Windows Malicious Software Removal Tool and the optional Microsoft Safety Scanner are two other free security products offered by Microsoft.
+Third-party analysis
+In an article based on a report by Symantec,[70] internetnews.com has described Microsoft Windows as having the "fewest number of patches and the shortest average patch development time of the five operating systems it monitored in the last six months of 2006."[71]
+A study conducted by Kevin Mitnick and marketing communications firm Avantgarde in 2004, found that an unprotected and unpatched Windows XP system with Service Pack 1 lasted only 4 minutes on the Internet before it was compromised, and an unprotected and also unpatched Windows Server 2003 system was compromised after being connected to the internet for 8 hours.[72] The computer that was running Windows XP Service Pack 2 was not compromised. The AOL National Cyber Security Alliance Online Safety Study of October 2004, determined that 80% of Windows users were infected by at least one spyware/adware product.[citation needed] Much documentation is available describing how to increase the security of Microsoft Windows products. Typical suggestions include deploying Microsoft Windows behind a hardware or software firewall, running anti-virus and anti-spyware software, and installing patches as they become available through Windows Update.[73]
+Alternative implementations
+Owing to the operating system's popularity, a number of applications have been released that aim to provide compatibility with Windows applications, either as a compatibility layer for another operating system, or as a standalone system that can run software written for Windows out of the box. These include:
+
+Wine – a free and open-source implementation of the Windows API, allowing one to run many Windows applications on x86-based platforms, including UNIX, Linux and OS X. Wine developers refer to it as a "compatibility layer"[74] and use Windows-style APIs to emulate Windows environment.
+
+CrossOver – a Wine package with licensed fonts. Its developers are regular contributors to Wine, and focus on Wine running officially supported applications.
+Cedega – proprietary fork of Wine by TransGaming Technologies, designed specifically for running Microsoft Windows games on Linux. A version of Cedega known as Cider allows Windows games to run on OS X. Since Wine was licensed under the LGPL, Cedega has been unable to port the improvements made to Wine to their proprietary codebase. Cedega ceased its service in February 2011.
+Darwine – a port of Wine for OS X and Darwin. Operates by running Wine on QEMU.
+Linux Unified Kernel – A set of patches to the Linux kernel allowing first-class Windows executable files in Linux (using Wine DLLs) to use Windows drivers and be faster than interpreted Wine.
+
+
+ReactOS – an open-source OS intended to run the same software as Windows, originally designed to simulate Windows NT 4.0, now aiming at Windows 7 compatibility. It has been in the development stage since 1996.
+Linspire – formerly LindowsOS, a commercial Linux distribution initially created with the goal of running major Windows software. Changed its name to Linspire after Microsoft v. Lindows. Discontinued in favor of Xandros Desktop.
+Freedows OS – an open-source attempt at creating a Windows clone for x86 platforms, intended to be released under the GNU General Public License. Started in 1996, by Reece K. Sellin, the project was never completed, getting only to the stage of design discussions which featured a number of novel concepts until it was suspended in 2002.[75][76][77]
+
+See also
+
+
+Microsoft portal
+
+
+
+Architecture of Windows NT
+Wintel
+De facto standard
+Dominant design
+
+
+References
+
+
+^ "Lesson 2 - Windows NT System Overview". Microsoft TechNet. Microsoft. Retrieved November 25, 2014. 
+^ "Listing of available Windows 7 language packs". Msdn.microsoft.com. Retrieved April 5, 2014. 
+^ "App packages and deployment (Windows Store apps) (Windows)". Msdn.microsoft.com. Retrieved April 5, 2014. 
+^ "The Unusual History of Microsoft Windows". Retrieved April 22, 2007. 
+^ Keizer, Gregg (July 14, 2014). "Microsoft gets real, admits its device share is just 14%". Computerworld. IDG. [Microsoft's chief operating officer] Turner's 14% came from a new forecast released last week by Gartner, which estimated Windows' share of the shipped device market last year was 14%, and would decrease slightly to 13.7% in 2014. [..] Android will dominate, Gartner said, with a 48% share this year 
+^ "Xbox One Architecture Finally Explained - Runs OS 'Virtually Indistinguishable' from Windows 8". WCCFtech. 
+^ "RTOS: Embedded Real Time Operating Systems". microsoft.com. Microsoft. Retrieved November 7, 2014. 
+^ a b "The 25 Worst Tech Products of All Time". PC World. IDG. Retrieved February 10, 2012. 
+^ A history of Windows (at microsoft.com)
+^ "The Apple vs. Microsoft GUI Lawsuit". 2006. Retrieved March 12, 2008. 
+^ "Apple Computer, Inc. v. MicroSoft Corp., 35 F.3d 1435 (9th Cir. 1994)". Retrieved March 12, 2008. 
+^ "Windows Evolution". Soft32.com News. 
+^ "Chronology of Personal Computer Software". 
+^ "Microsoft Company". 
+^ "Windows 3.1 Standard Edition Support Lifecycle". Retrieved January 3, 2011. 
+^ "Microsoft Windows Simplified Chinese 3.2 Upgrade Is Available". microsoft.com. Microsoft. 
+^ "Microsoft Windows Simplified Chinese 3.2 Upgrade Is Available". Microsoft. October 30, 2003. Retrieved September 4, 2009. 
+^ "Windows 95 turns 15: Has Microsoft's OS peaked?". CNET/CNN Tech. August 25, 2010. Archived from the original on August 26, 2010. Retrieved August 22, 2012. 
+^ "Microsoft Internet Explorer Web Browser Available on All Major Platforms, Offers Broadest International Support" (Press release). Microsoft. April 30, 1996. Retrieved February 14, 2011. 
+^ "Windows 95 Support Lifecycle". Microsoft. Retrieved January 3, 2011. 
+^ "Windows 98 Standard Edition Support Lifecycle". Microsoft. Retrieved January 3, 2011. 
+^ "Improving "Cold Boot" Time for System Manufacturers". Microsoft. December 4, 2001. Archived from the original on February 13, 2010. Retrieved August 26, 2010. 
+^ "Windows Millennium Edition: All About Me". PC World. Retrieved May 21, 2013. 
+^ Custer, Helen (1993). Inside Windows NT. Redmond: Microsoft Press. ISBN 1-55615-481-X. 
+^ a b c Thurrott, Paul (January 24, 2003). "Windows Server 2003: The Road To Gold - Part One: The Early Years". Archived from the original on January 1, 2005. Retrieved May 28, 2012. 
+^ "Windows XP review". CNET. Retrieved May 24, 2013. 
+^ David Coursey (October 25, 2001). "The 10 top things you MUST know about Win XP". ZDNet. Retrieved July 22, 2008. 
+^ David Coursey (August 31, 2001). "Your top Windows XP questions answered! (Part One)". ZDNet. CNET Networks. Archived from the original on December 19, 2007. Retrieved January 3, 2011. 
+^ "A Look at Freestyle and Mira". Paul Thurrott's SuperSite for Windows. Penton. September 3, 2002. Retrieved January 3, 2011. 
+^ "Windows XP Professional Lifecycle Support". Retrieved January 3, 2011. 
+^ Mike Nash (October 28, 2008). "Windows 7 Unveiled Today at PDC 2008". Windows Team Blog. Microsoft. Retrieved November 11, 2008. 
+^ Brandon LeBlanc (October 28, 2008). "How Libraries & HomeGroup Work Together in Windows 7". Windows Team Blog. Microsoft. Retrieved November 11, 2008. 
+^ Case, Loyd. "Test Driving Windows 8 RTM". PC World. IDG. Retrieved September 9, 2012. 
+^ Rosoff, Matt. "Here's Everything You Wanted To Know About Microsoft's Upcoming iPad Killers". Business Insider. Retrieved February 10, 2012. 
+^ "Announcing the Windows 8 Editions". Microsoft. April 16, 2012. Retrieved April 17, 2012. 
+^ "Building Windows for the ARM processor architecture". Microsoft. Retrieved November 21, 2012. 
+^ "Microsoft talks Windows Store features, Metro app sandboxing for Windows 8 developers". The Verge. Vox Media. Retrieved September 8, 2012. 
+^ Miller, Michael. "Build: More Details On Building Windows 8 Metro Apps". PC Magazine. Retrieved February 10, 2012. 
+^ Windows 8.1 now available!. Blogs.windows.com. Retrieved on October 31, 2013.
+^ "Announcing Windows 10 - Windows Blog". September 30, 2014. Retrieved September 30, 2014. 
+^ Paul Morris (November 13, 2015). "Windows 10 1511 Build 10586 November Update Is Out, Here's How To Update Now". Redmond Pie. Retrieved January 1, 2016. 
+^ a b "What's New in Windows 10s First Big Update (Which Arrives Today)". How-To Geek. November 12, 2015. Retrieved January 1, 2016. 
+^ Anand Lal Shimpi. "The Xbox One - Mini Review & Comparison to Xbox 360/PS4". anandtech.com. 
+^ "Xbox One: Hardware and software specs detailed and analyzed - Three operating systems in one". ExtremeTech. Retrieved December 1, 2013. 
+^ "How to use the Offline System Update Diagnostic Tool on Xbox One". Xbox Official Site. Microsoft. Retrieved November 30, 2013. 
+^ "Xbox One Is "Literally a Windows Device"". GameSpot. 
+^ "New Xbox One Update Will Make Some Functionality 50 Percent Faster". GameSpot. 
+^ Tom Warren (June 16, 2015). "Xbox One dashboard update includes a huge new design and Cortana". The Verge. Vox Media. 
+^ Eric Qualls. "Xbox 360 and Xbox Games Backwards Compatibility". About.com Tech. 
+^ "Microsoft Support Lifecycle". Microsoft. 
+^ "Desktop Operating System Market Share July 2016". Net Market Share. Net Applications. 
+^ "Mobile/Tablet Operating System Market Share July 2016". Net Market Share. Net Applications. 
+^ "Top 7 Desktop Operating Systems July 2016". StatCounter Global Stats. StatCounter. 
+^ "Top 8 Mobile & Tablet Operating Systems July 2016". StatCounter Global Stats. StatCounter. 
+^ "Operating system market share". www.netmarketshare.com. Retrieved 2016-07-13. 
+^ "StatCounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share". gs.statcounter.com. July 2016. Retrieved 2016-08-10. 
+^ Across all platforms, including "Console", that Windows supports with Xbox
+^ "IDC: Smartphone OS Market Share". www.idc.com. Retrieved 2016-07-13. 
+^ "Gartner Says Tablet Sales Continue to Be Slow in 2015". Retrieved 2016-07-13. 
+^ Multi-user memory protection was not introduced until Windows NT and XP, and a computer's default user was an administrator until Windows Vista. Source: UACBlog.
+^ "Telephones and Internet Users by Country, 1990 and 2005". Information Please Database. Retrieved June 9, 2009. 
+^ Bruce Schneier (June 15, 2005). "Crypto-Gram Newsletter". Counterpane Internet Security, Inc. Retrieved April 22, 2007. 
+^ Andy Patrizio (April 27, 2006). "Linux Malware On The Rise". InternetNews. QuinStreet. Retrieved January 3, 2011. 
+^ Ryan Naraine (June 8, 2005). "Microsoft's Security Response Center: How Little Patches Are Made". eWeek. Ziff Davis Enterprise. Retrieved January 3, 2011. 
+^ John Foley (October 20, 2004). "Windows XP SP2 Distribution Surpasses 100 Million". InformationWeek. UBM TechWeb. Retrieved January 3, 2011. 
+^ Microsoft describes in detail the steps taken to combat this in a TechNet bulletin. Source: Windows Vista Security and Data Protection Improvements.
+^ Kenny Kerr (September 29, 2006). "Windows Vista for Developers – Part 4 – User Account Control". Retrieved March 15, 2007. 
+^ "Windows Vista: Security & Safety". Microsoft. Retrieved April 16, 2012. 
+^ "Microsoft Answers: How do I keep Windows 8 Consumer Preview secure from malware?". Microsoft. Retrieved April 16, 2012. 
+^ "Symantec Internet Security Threat Report Trends for July – December 2006" (PDF). Internet Security Threat Report Volume XI. Symantec. March 2007. Retrieved January 3, 2011. 
+^ Andy Patrizio (March 21, 2007). "Report Says Windows Gets The Fastest Repairs". InternetNews. QuinStreet. Retrieved January 3, 2011. 
+^ "Automated "Bots" Overtake PCs Without Firewalls Within 4 Minutes". Avantgarde. Avantgarde. November 30, 2004. Retrieved January 3, 2011. 
+^ Richard Rogers (September 21, 2009). "5 Steps To Securing Your Windows XP Home Computer". Computer Security News. Computer Security News. Retrieved January 3, 2011. 
+^ "Wine". Winehq.org. Retrieved April 5, 2014. 
+^ "A Student's Dream of Creating A New Operating System Encounters Problems". The Chronicle of Higher Education. September 18, 1998. Retrieved May 17, 2013. 
+^ "Older blog entries for chipx86". Advogato.org. Advogato. June 27, 2002. Retrieved May 17, 2013. 
+^ "Freedows splits". Slashdot. Dice Holdings. August 31, 1998. Retrieved May 17, 2013. 
+
+
+External links
+
+
+
+Find more about
+Microsoft Windows
+at Wikipedia's sister projects
+
+
+
+
+Media from Commons
+
+
+
+Textbooks from Wikibooks
+
+
+
+Learning resources from Wikiversity
+
+
+
+Official website
+
+Official blog
+
+
+Microsoft Developer Network
+Windows Client Developer Resources
+Microsoft Windows History Timeline
+Pearson Education, InformIT – History of Microsoft Windows
+Microsoft Windows 7 for Government
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Microsoft Windows family
+
+
+
+
+
+
+
+
+
+Components
+History
+Timeline
+Criticism
+
+
+
+
+
+
+
+
+DOS-based
+
+
+
+Windows 1.0
+Windows 2.0
+Windows 2.1x
+Windows 3.0
+Windows 3.1x
+
+
+
+
+
+
+
+
+
+
+
+Windows 9x
+
+
+
+Windows 95 (Development)
+Windows 98
+Windows ME
+
+
+
+
+
+
+
+
+Windows NT
+
+
+
+
+
+
+
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51
+Windows NT 4.0
+Windows 2000
+
+
+
+
+
+
+
+
+Client versions
+
+
+
+Windows XP
+
+editions
+x64
+Media Center
+Fundamentals
+
+
+Windows Vista
+
+editions
+
+
+Windows 7
+
+editions
+
+
+Windows 8
+
+editions
+8.1
+RT
+
+
+Windows 10
+
+editions
+version history
+
+
+
+
+
+
+
+
+
+
+Windows Server
+
+
+
+Server 2003
+
+Home Server
+
+
+Server 2008
+
+EBS 2008
+HPC Server 2008
+
+
+Server 2008 R2
+
+Home Server 2011
+
+
+Server 2012
+Server 2012 R2
+Server 2016
+MultiPoint Server
+Server Essentials
+
+
+
+
+
+
+
+
+Specialized
+
+
+
+Windows Preinstallation Environment
+
+
+
+
+
+
+
+
+
+
+
+Windows Embedded
+
+
+
+Embedded Compact
+
+CE 5.0
+Embedded CE 6.0
+Embedded Compact 7
+
+
+Embedded Automotive
+Embedded Industry
+
+
+
+
+
+
+
+
+Windows Mobile
+
+
+
+Pocket PC 2000
+Pocket PC 2002
+Mobile 2003
+Mobile 5.0
+Mobile 6.0
+Mobile 6.1
+Mobile 6.5
+
+
+
+
+
+
+
+
+Windows Phone
+
+
+
+Phone 7
+Phone 8
+Phone 8.1
+Windows 10 Mobile
+
+
+
+
+
+
+
+
+Cancelled
+
+
+
+Cairo
+Nashville
+Neptune
+
+
+
+
+
+
+
+
+
+
+
+ List of versions
+ Comparison
+ Book
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Operating systems by Microsoft
+
+
+
+
+
+
+Desktop
+
+
+
+Microsoft Windows
+
+9x
+NT
+CE
+
+
+MS-DOS
+MSX-DOS
+OS/2
+Xenix
+
+
+
+
+
+
+
+
+Mobile
+
+
+
+Nokia Asha platform
+KIN OS
+Windows Mobile
+Windows Phone
+Zune
+
+
+
+
+
+
+
+
+Console
+
+
+
+Xbox
+Xbox 360
+Xbox One
+
+
+
+
+
+
+
+
+Projects
+
+
+
+Barrelfish
+Cairo
+HomeOS
+Microsoft Linux distributions
+MIDAS
+Midori
+Singularity
+Verve
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Microsoft
+
+
+
+
+
+
+
+
+
+History
+All topics
+
+
+
+
+
+
+
+
+People
+(list)
+
+
+
+
+
+Founders
+
+
+
+
+Bill Gates
+Paul Allen
+
+
+
+
+
+
+
+
+
+Board of directors
+
+
+
+
+John W. Thompson (Chairman)
+Satya Nadella (CEO)
+Dina Dublon
+Maria Klawe
+David Marquardt
+Charles Noski
+Helmut Panke
+Mason Morfit
+John W. Stanton
+
+
+
+
+
+
+
+
+
+Senior Leadership Team
+
+
+
+
+Satya Nadella (CEO)
+Scott Guthrie
+Amy Hood (CFO)
+Qi Lu
+Terry Myerson
+Harry Shum
+Kevin Turner (COO)
+
+
+
+
+
+
+
+
+
+Corporate VPs
+
+
+
+
+Joe Belfiore
+Richard Rashid (SVP)
+S. Somasegar (SVP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Engineering groups
+
+Mobile
+Skype unit
+
+
+Digital Crimes Unit
+Garage
+Press
+Research
+Studios
+.NET Foundation
+Outercurve Foundation
+
+
+
+
+
+
+
+
+Estates
+
+
+
+Microsoft Redmond campus
+Microsoft Talo
+Microsoft Algeria
+Microsoft Egypt
+Microsoft India
+Microsoft Japan
+
+
+
+
+
+
+
+
+Product families
+
+
+
+Operating systems
+
+Windows
+
+
+Software
+
+Office
+Servers
+Visual Studio
+
+
+Hardware
+
+Band
+HoloLens
+Lumia
+Surface
+Xbox
+
+
+
+
+
+
+
+
+
+
+Web properties
+
+
+
+Bing
+Channel 9
+CodePlex
+Developer Network
+MSN
+Office.com
+OneDrive
+Outlook.com
+TechNet
+Windows Store
+
+
+
+
+
+
+
+
+Conferences
+
+
+
+Build
+MIX
+PDC
+TechEd
+WinHEC
+WPC
+
+
+
+
+
+
+
+
+Criticism
+
+
+
+Bundling of Microsoft Windows
+Clippy
+iLoo
+Internet Explorer
+Microsoft Bob
+_NSAKEY
+Windows
+
+2000
+ME
+XP
+Vista
+
+
+Xbox 360
+
+
+
+
+
+
+
+
+Litigation
+
+
+
+Alcatel-Lucent v. Microsoft
+Apple v. Microsoft
+European Union Microsoft competition case
+Microsoft v. Lindows
+Microsoft vs. MikeRoweSoft
+Microsoft v. Shah
+United States v. Microsoft
+
+
+
+
+
+
+
+
+Acquisitions
+
+
+
+6Wunderkinder
+Altamira Software
+aQuantive
+Azyxxi
+The Blue Ribbon SoundWorks
+Bungie
+Calista Technologies
+Colloquis
+Connectix
+Consumers Software
+Danger
+Farecast
+FASA Studio
+Fast Search & Transfer
+Firefly
+Forethought
+GIANT Company Software
+GreenButton
+Groove Networks
+High Heat: Major League Baseball
+Hotmail
+Jellyfish.com
+LinkExchange
+Lionhead Studios
+Massive Incorporated
+Mobile Data Labs
+Mojang
+Nokia Devices and Services
+Onfolio
+Pando Networks
+Perceptive Pixel
+PlaceWare
+Powerset
+ProClarity
+Rare
+Revolution Analytics
+ScreenTonic
+Secure Islands
+Skype
+Sunrise Atelier
+SwiftKey
+Winternals Software
+Teleo
+Telekinesys Research
+Tellme Networks
+Twisted Pixel Games
+Vermeer Technologies
+Visio Corporation
+Vivaty (defunct)
+VoloMetrix
+VXtreme
+WebTV Networks
+Xamarin
+Yammer
+Yupi
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Commons
+ Microsoft portal
+ WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Microsoft Windows components
+
+
+
+
+
+
+Management
+tools
+
+
+
+CMD.EXE
+Control Panel
+
+Applets
+
+
+Device Manager
+Disk Cleanup
+Disk Defragmenter
+Driver Verifier
+Event Viewer
+IExpress
+Management Console
+Netsh
+Recovery Console
+Resource Monitor
+ScanDisk
+Settings app
+Sysprep
+System Configuration
+System File Checker
+System Policy Editor
+System Restore
+Task Manager
+Windows Error Reporting
+Windows Installer
+PowerShell
+Windows Update
+
+Windows Insider
+
+
+WinRE
+WMI
+
+
+
+
+
+
+
+
+
+
+
+Apps
+
+
+
+Calculator
+Calendar
+Character Map
+Cortana
+DVD Player
+Edge
+Fax and Scan
+Groove
+Magnifier
+Mail
+Maps
+Media Player
+MSN apps (News, Weather, Sports, Money)
+Movie Maker
+Movies & TV
+Mobility Center
+Narrator
+Notepad
+OneDrive
+OneNote
+Paint
+People
+Photo Viewer
+Photos
+Remote Assistance
+Snipping Tool
+Solitaire Collection
+Sound Recorder
+Speech Recognition
+Skype
+Sticky Notes
+Store
+Wallet
+Windows To Go
+WordPad
+Xbox
+
+
+
+
+
+
+
+
+Shell
+
+
+
+Action Center
+Aero
+AutoPlay
+AutoRun
+ClearType
+Explorer
+Search
+
+Indexing Service
+IFilter
+Saved search
+Namespace
+Special folder
+
+
+Start menu
+Taskbar
+Task View
+Windows XP visual styles
+
+
+
+
+
+
+
+
+Services
+
+
+
+Service Control Manager
+BITS
+CLFS
+Multimedia Class Scheduler
+Shadow Copy
+Task Scheduler
+Error Reporting
+Wireless Zero Configuration
+
+
+
+
+
+
+
+
+File systems
+
+
+
+CDFS
+DFS
+exFAT
+IFS
+FAT
+NTFS
+
+Hard link
+Junction point
+Mount Point
+Reparse point
+Symbolic link
+TxF
+EFS
+
+
+ReFS
+UDF
+WinFS
+
+
+
+
+
+
+
+
+Server
+
+
+
+Domains
+Active Directory
+DNS
+Group Policy
+Roaming user profiles
+Folder redirection
+Distributed Transaction Coordinator
+MSMQ
+Windows Media Services
+Rights Management Services
+IIS
+Remote Desktop Services
+WSUS
+SharePoint
+Network Access Protection
+PWS
+DFS Replication
+Remote Differential Compression
+Print Services for UNIX
+Remote Installation Services
+Windows Deployment Services
+System Resource Manager
+Hyper-V
+Server Core
+
+
+
+
+
+
+
+
+Architecture
+
+
+
+Architecture of Windows NT
+Startup process
+CSRSS
+Desktop Window Manager
+Portable Executable
+
+EXE
+DLL
+
+
+Enhanced Write Filter
+Graphics Device Interface
+hal.dll
+I/O request packet
+Imaging Format
+Kernel Transaction Manager
+Library files
+Logical Disk Manager
+LSASS
+MinWin
+NTLDR
+Ntoskrnl.exe
+Object Manager
+Open XML Paper Specification
+Registry
+Resource Protection
+Security Account Manager
+Server Message Block
+Shadow Copy
+SMSS
+System Idle Process
+USER
+WHEA
+Win32 console
+Winlogon
+
+
+
+
+
+
+
+
+Security
+
+
+
+Security and Maintenance
+BitLocker
+Data Execution Prevention
+Family Safety
+Kernel Patch Protection
+Mandatory Integrity Control
+Protected Media Path
+User Account Control
+User Interface Privilege Isolation
+Windows Defender
+Windows Firewall
+
+
+
+
+
+
+
+
+Compatibility
+
+
+
+COMMAND.COM
+Virtual DOS machine
+Windows on Windows
+WoW64
+Windows Subsystem for Linux
+
+
+
+
+
+
+
+
+API
+
+
+
+Active Scripting
+
+WSH
+VBScript
+JScript
+
+
+COM
+
+ActiveX
+ActiveX Document
+COM Structured storage
+DCOM
+OLE
+OLE Automation
+Transaction Server
+
+
+DirectX
+.NET Framework
+Windows Holographic
+Windows Runtime
+Universal Windows Platform
+
+
+
+
+
+
+
+
+Discontinued
+
+
+
+
+Games
+
+
+
+3D Pinball
+Chess Titans
+FreeCell
+Hearts
+Hover!
+InkBall
+Hold 'Em
+Mahjong Titans
+Minesweeper
+Purble Place
+Reversi
+Solitaire
+Spider Solitaire
+Tinker
+
+
+
+
+
+
+
+
+Apps
+
+
+
+ActiveMovie
+Anytime Upgrade
+Address Book
+Backup and Restore
+Cardfile
+CardSpace
+Contacts
+Desktop Gadgets
+Diagnostics
+DriveSpace
+DVD Maker
+Fax
+File Manager
+Food & Drink
+Help and Support Center
+Health & Fitness
+HyperTerminal
+Internet Explorer
+Journal
+Internet Mail and News
+Media Center
+Meeting Space
+Messaging
+Messenger
+Mobile Device Center
+NetMeeting
+NTBackup
+Outlook Express
+Travel
+Photo Gallery
+Program Manager
+Windows Easy Transfer
+WinHelp
+Write
+
+
+
+
+
+
+
+
+Others
+
+
+
+File Protection
+Media Control Interface
+Next-Generation Secure Computing Base
+POSIX subsystem
+Interix
+Video for Windows
+Windows SideShow
+Windows Services for UNIX
+Windows System Assessment Tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Operating systems
+
+
+
+
+
+
+General
+
+
+
+Advocacy
+Comparison
+Forensic engineering
+History
+Hobbyist development
+List
+Timeline
+Usage share
+
+
+
+
+
+
+
+
+Kernel
+
+
+
+
+
+Architectures
+
+
+
+
+Exokernel
+Hybrid
+Microkernel
+Monolithic
+Rump kernel
+Unikernel
+
+
+
+
+
+
+
+
+
+Components
+
+
+
+
+Device driver
+Loadable kernel module
+Microkernel
+User space
+
+
+
+
+
+
+
+
+
+
+
+Process management
+
+
+
+
+
+Concepts
+
+
+
+
+Context switch
+Interrupt
+IPC
+Process
+Process control block
+Thread
+Time-sharing
+
+
+
+
+
+
+
+
+
+Scheduling
+algorithms
+
+
+
+
+Computer multitasking
+Fixed-priority preemptive
+Multilevel feedback queue
+Preemptive
+Round-robin
+Shortest job next
+
+
+
+
+
+
+
+
+
+
+
+Memory management and
+resource protection
+
+
+
+Bus error
+General protection fault
+Memory protection
+Paging
+Protection ring
+Segmentation fault
+Virtual memory
+
+
+
+
+
+
+
+
+Storage access and
+file systems
+
+
+
+Boot loader
+Defragmentation
+Device file
+File attribute
+Inode
+Journal
+Partition
+Virtual file system
+Virtual tape library
+
+
+
+
+
+
+
+
+List
+
+
+
+AmigaOS
+Android
+BeOS
+BSD
+Chrome OS
+CP/M
+DOS
+Hurd
+Haiku
+illumos
+iOS
+Linux
+Mac OS
+MINIX
+MorphOS
+MUSIC/SP
+NOS
+OpenVMS
+ORVYL
+OS/2
+OSv
+Pick
+QNX
+ReactOS
+RISC OS
+RSTS/E
+RSX-11
+RT-11
+Solaris
+TOPS-10/TOPS-20
+TPF
+Unix
+Visi On
+VM/CMS
+VS/9
+Windows
+Xinu
+z/OS
+
+
+
+
+
+
+
+
+Miscellaneous concepts
+
+
+
+API
+Computer network
+HAL
+Live CD
+Live USB
+OS shell
+
+CLI
+GUI
+TUI
+VUI
+
+
+PXE
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4192183-5
+
+
+
+
+
+
+

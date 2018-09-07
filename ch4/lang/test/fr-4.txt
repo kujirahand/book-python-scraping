@@ -1,0 +1,1586 @@
+ Pour les articles homonymes, voir IPhone (homonymie).
+
+
+iPhone
+
+
+
+Un iPhone 6s or rose
+
+
+Développeur
+Apple
+
+
+Fabricant
+Foxconn (sous-traitance)
+
+
+Type
+Smartphone
+
+
+Génération
+10e (iPhone 7)
+
+
+Date de sortie
+29 juin 2007 (EDGE)
+11 juillet 2008 (3G)
+19 juin 2009 (3GS)
+24 juin 2010 (4)
+14 octobre 2011 (4s)
+21 septembre 2012 (5)
+20 septembre 2013 (5c et 5s)
+19 septembre 2014 (6 et 6 Plus)
+25 septembre 2015 (6s et 6s Plus)
+31 mars 2016 (SE)
+7 septembre 2016 (7 et 7 Plus)
+
+
+Média
+« Petite révolution[1]. »
+
+
+Système d'exploitation
+iOS (10) septembre 2016
+
+
+Alimentation
+Batterie lithium-ion
+
+
+Processeur
+Apple A10
+
+
+Stockage
+8/16/32/64/128/256 Go de mémoire flash
+
+
+Mémoire
+3 Go LPDDR4
+
+
+Écran
+Écran tactile capacitif multi-touch de 4,7 pouces et 5,5 pouces
+Multi-touch : 11 points de contact maximum
+
+
+Résolution
+326 ppp (iPhone 7)
+401 ppp (iPhone 7 Plus)
+
+
+Définition
+1 334 × 750 px (iPhone 7)
+1 920 × 1 080 px (7 Plus)
+
+
+Caméra
+Arrière : photos de 12 Mpx, vidéos de 4K
+Avant : photos de 7 Mpx, vidéos de 1080p
+
+
+Services
+iTunes Store, App Store, iCloud, iBooks, Apple Pay
+
+
+Masse
+138 g (iPhone 7),
+188 g (iPhone 7 Plus)
+
+
+Prédécesseur
+iPhone 6s
+
+
+Produits connexes
+iPad, iPod touch, Apple Watch
+
+
+Site web
+www.apple.com/fr/iphone
+
+
+modifier 
+
+
+iPhone est une gamme de smartphones commercialisée par Apple depuis le 29 juin 2007.
+Les modèles, dont l'interface a été conçue autour d'un écran tactile capacitif multipoint, disposent d'un appareil photo qui fonctionne également comme une caméra, d'un système de géolocalisation intégré permettant une localisation en quelques secondes grâce aux systèmes A-GPS et GLONASS ainsi que d'un logiciel de cartographie numérique inclus, d'un iPod intégré qui permet d'écouter et de télécharger de la musique via la plateforme de téléchargement iTunes Store et le service de streaming Apple Music, d'un client Internet (pour naviguer sur le Web avec l'application Safari ou envoyer/consulter son courrier électronique), d'applications bureautiques et de fonctions élémentaires telles que les SMS et les MMS ; ils disposent aussi de la messagerie vocale visuelle comme mode d'accès à la messagerie vocale et de l'App Store, la plateforme de téléchargement qui permet de télécharger des applications, allant des jeux aux utilitaires en passant par la télévision et la presse électronique. Si l'iPhone n'est pas historiquement le premier smartphone, il reste l'appareil qui a transformé le marché des téléphones intelligents en consommation de masse.
+Au 31 mai 2016, treize modèles différents d'iPhone ont été commercialisés depuis 2007 : un par an jusqu'en 2012, et deux en 2013, 2014 et 2015. Ils sont à chaque fois accompagnés d'une nouvelle mouture du système d'exploitation iOS qui en est à sa version 9.3.5. Au mois de janvier 2015, on compte plus de 1,21 million d'applications disponibles pour la plateforme iOS[2].
+Les premiers modèles EDGE (2007), 3G (2008), 3GS (2009), 4 (2010), 4s (2011), 5 (2012), 5c (2013) et 5s (2013) ne sont plus en vente. Seul l'iPhone 6 (2014) et ses successeurs sont encore commercialisés. Les iPhone EDGE, 3G, 3GS et 4 ne bénéficient plus des améliorations logicielles d'iOS[3] depuis le passage respectivement à iOS 3.1.3, 4.2.1, 6.1.6 et 7.1.2 disponibles pour les autres modèles à partir de l'iPhone 4s[4]. L'arrivée en septembre 2015 de l'iPhone 6s et l'iPhone 6s Plus coïncide avec celle du nouveau système d'exploitation iOS 9.
+En juillet 2016, Tim Cook, l'actuel PDG d'Apple, annonce que l'entreprise a vendu en un peu moins de dix ans un milliard d'iPhones dans le monde[5]. En mai 2016, le magazine américain Time, fait de l'iPhone le no 1 de sa liste des cinquante objets technologiques les plus importants de tous les temps[6].
+
+
+
+Sommaire
+
+
+1 Modèles
+2 Historique
+
+2.1 Distribution
+2.2 Un produit très attendu
+
+2.2.1 En France
+
+
+2.3 Déverrouillage de l'iPhone
+2.4 Résultats commerciaux
+
+
+3 Description
+
+3.1 Chronologie des produits iPhone
+3.2 Production
+3.3 Innovations
+3.4 Caractéristiques techniques
+3.5 Fonctionnalités
+
+3.5.1 Baladeur numérique
+3.5.2 Téléphonie mobile
+3.5.3 Photographie
+3.5.4 Assistant personnel
+
+
+3.6 Applications
+3.7 Accessoires en option
+
+
+4 Critiques et controverses
+
+4.1 iPhone, marque déposée
+4.2 Manques fonctionnels
+4.3 Écologie, toxicité et danger
+4.4 Antenne
+4.5 Propriété intellectuelle
+4.6 Sécurité et vie privée
+
+
+5 Jailbreak
+6 Bibliographie
+7 Notes et références
+
+7.1 Traductions de
+7.2 Notes
+7.3 Références
+
+
+8 Annexes
+
+8.1 Articles connexes
+
+8.1.1 Produits utilisant la même architecture
+
+
+8.2 Liens externes
+
+
+
+
+
+Modèles[modifier | modifier le code]
+Steve Jobs présente, après des mois de rumeurs et de spéculations, le tout premier iPhone le 9 janvier 2007. Rétroactivement appelé « iPhone EDGE » ou « iPhone 2G », il est lancé aux États-Unis le 29 juin 2007, avant d'être commercialisé dans quelques pays d'Europe à la fin de cette même année. Il est doté d'un GSM quadri-bande, compatible EDGE. Le magazine Time le nomme « Invention de l'année 2007 ». En France, l'iPhone 2G ou EDGE n'était disponible que sur le réseau Orange.
+L'iPhone 3G sort le 11 juillet 2008 dans le monde (18 juillet en France), il est compatible avec la norme 3G UMTS avec HSDPA 3,6 Mb/s et intègre un GPS.
+L'iPhone 3GS, d'apparence identique, possède une caméra vidéo intégrée, une meilleure définition pour sa fonction photo (3 Mpx contre 2 Mpx et un autofocus), une meilleure autonomie ainsi que de meilleures performances (la vitesse d'où le S pour « speed » de 3GS)[3] et inclut notamment une commande vocale et une boussole. Il supporte le téléchargement de données 3G à 7,2 Mb/s HSDPA, mais reste quand même bridé à 384 kb/s en upload, Apple n'ayant pas mis en œuvre le protocole HSUPA. Il est commercialisé depuis le 19 juin 2009 aux États-Unis, au Canada ainsi que dans six pays européens.
+L'iPhone 4 a été annoncé à la conférence du 7 juin 2010 (en même temps que iOS 4) par Steve Jobs et dispose, par rapport au modèle 3GS, d'une définition d'écran quadruplée (960 × 640 pixels contre 480 × 320 pixels) appelé écran Retina, d'un flash LED, d'une caméra en façade pour la visioconférence via FaceTime (ne fonctionne qu'en Wi-Fi puis en 3G sous iOS 6) et d'un design général revu.
+L'iPhone 4s, d'apparence identique à l'iPhone 4, a été présenté au siège d'Apple à Cupertino par Tim Cook, nouveau CEO de la firme, le 4 octobre 2011. Doté d'une nouvelle puce « A5 bicœur », il présente comme principales innovations un appareil photo 8 Mpx et l'assistant personnel à reconnaissance vocale Siri, en étant animé par le système d'exploitation iOS 5 dont la commercialisation s'effectue concomitamment le 14 octobre 2011. Le « S » de 4s signifie « Siri » et non « speed » comme pour le 3GS[7][réf. insuffisante].
+L'iPhone 5, animé par iOS 6 avec la nouvelle puce A6, a été présenté lors du discours inaugural du 12 septembre 2012. Son écran est plus long avec 8,85 cm mais de même largeur que tous ses prédécesseurs avec 4,99 cm. La définition est 1 136 × 640, format 16/9. Il est plus fin (7,6 mm), plus léger (112 g) et a une surface d'affichage plus grande avec 44 cm2. Il est également, avec la nouvelle génération d'iPod et d'iPad, l'un des premiers appareils mobiles d'Apple à abandonner le connecteur 30 broches (utilisé pour la connexion par USB), existant depuis 2003, pour le remplacer par une nouvelle connectique appelée Lightning, réversible et plus petite. Le dos de l'iPhone 5 est fait d'aluminium anodisé de la série 6000 avec des inserts en céramique vitrifiée dans le haut et le bas du boîtier (pour le modèle blanc-argenté) ou de verre teinté (pour le modèle noir-ardoise). Phil Schiller d'Apple a présenté l'appareil comme « l'iPhone le plus fin à ce jour ». La capacité de la batterie est quasi identique avec 1 440 mAh. Il supporte la norme 4G LTE, mais n'est pas compatible avec tous les réseaux, selon le choix des bandes de fréquence utilisées dans chaque pays.
+L'iPhone 5s et l'iPhone 5c, annoncés officiellement le 10 septembre 2013, ont été disponibles en pré-commande le 13 septembre 2013 pour le 5c, et le 20 septembre 2013 pour le 5s[8]. Ils sont équipés du nouvel iOS 7. L'iPhone 5c est un modèle de milieu de gamme, avec une coque en plastique en cinq couleurs différentes (blanc, rose, jaune, bleu et vert). L'iPhone 5s, modèle haut de gamme, intègre notamment un nouveau processeur A7 64 bits, un nouveau coprocesseur M7, un capteur d'empreintes digitales (Touch ID), composé d'un cristal de saphir, d'un anneau de détection en acier inoxydable, d'un capteur capacitif à toucher unique, mais aussi un meilleur appareil photo iSight, etc. ; il est disponible en trois coloris (gris sidéral, or et argent). Ces iPhone sont compatibles avec la norme 4G LTE et autorisent l'utilisation de plus de bandes de fréquences de la part des opérateurs par rapport à l'iPhone 5[9].
+Deux modèles, l'iPhone 6 et l'iPhone 6 Plus, sont dévoilés le 9 septembre 2014, dont l'évolution la plus visible concerne le design, l'iPhone 6 bénéficiant d'un écran de 4,7 pouces HD et l'iPhone 6 Plus de 5,5 pouces en résolution Full HD, ils possèdent la technologie de paiement sans contact Apple Pay, leurs performances sont améliorées notamment grâce à un nouveau processeur A8 64 bits, un coprocesseur M8, et du nouveau système d'exploitation iOS 8. Ils sont disponible comme l'iPhone 5s en trois coloris (gris sidéral, or, argent).
+Le 9 septembre 2015, Apple présente l'iPhone 6s et l'iPhone 6s Plus, équipés d'un processeur A9 et un coprocesseur de mouvement M9 intégré à la puce A9 permettant une réduction de la diminution de la batterie. Il est aussi équipé d'un tout nouvel appareil photo iSight de 12 mégapixels et d'une caméra FaceTime de 5 mégapixels avec le tout nouveau Rétina flash et la superbe nouveauté de pouvoir filmer en 4K (3 840 × 2 160) à 30 i/s mais également Live Photos permettant de rendre plus vivante que jamais une photo, le panorama lui se voit pousser pour atteindre les 63 mégapixels. Il sort aussi équipé du nouvel iOS 9 sortie le 16 septembre 2015. À la suite du « Bendgate » de l'iPhone 6 et 6 Plus (allégations selon lesquelles ce téléphones se plieraient dans les poches de leurs utilisateurs), Apple a renforcé ses derniers iPhone avec un aluminium 7000 Série, le même que celui pour l'Apple Watch, trois fois plus solide selon le constructeur. L'écran lui est équipé d'un écran Rétina HD avec 3D Touch et un nouveau multi-touch, 3D Touch marche par le même principe que Force Touch sur l'Apple Watch. L'iPhone 6s et 6s Plus sont tous deux disponibles en quatre coloris : or, or rose, argent et gris sidéral. Ils sont dotés de 16 Go, 64 Go ou 128 Go de capacité.
+Le 21 mars 2016, Apple a dévoilé l'iPhone SE. Il reprend les caractéristiques de l'iPhone 6s, soit la puce A9, son coprocesseur de mouvement M9 intégré à la puce A9 et un appareil photo iSight de 12 Mpx. Il comprend également le NFC pour Apple Pay, mais se passe du 3D Touch. Il reprend les lignes de l'iPhone 5s et est décliné en quatre coloris : or, argent, gris sidéral et or rose. Sa capacité est de 16 Go ou 64 Go.
+Le 7 septembre 2016, Apple a dévoilé l'iPhone 7 et l'iPhone 7 Plus.
+Historique[modifier | modifier le code]
+Article détaillé : Histoire de l'iPhone.
+
+
+
+
+Un iPhone à droite de son ancêtre, le Newton MessagePad.
+
+
+
+
+
+
+Vente d’iPhone par trimestre dans le monde (en million d’appareils vendus). Q1 correspond à octobre-décembre. iPhone EDGE, iPhone 3G, iPhone 3GS, iPhone 4.
+
+
+
+
+
+
+Disponibilité des iPhone (décembre 2008) :
+
+     iPhone EDGE était disponible, actuellement 3GS
+     iPhone 3G et 3GS
+
+
+
+
+Le développement de l’iPhone a débuté par la recherche d’ingénieurs sous la direction du CEO d’Apple Steve Jobs travaillant sur les écrans tactiles. Les étapes de recherche et développement engagées par la société se déroulèrent notamment à Paris, et furent menées par une cellule d’Apple sous la tutelle de l’ingénieur français Jean-Marie Hullot[10],[11]. Apple a par la suite créé le dispositif au cours d’une collaboration avec AT&T Mobility-Cingular Wireless, à un coût de développement estimé de 150 millions de dollars sur plus de trente mois. Apple a rejeté l’approche qui avait amené le Motorola ROKR E1. Au lieu de cela, Cingular a donné la liberté d’Apple pour développer l’iPhone et les logiciels en interne.
+Jobs a dévoilé l’iPhone au public le 9 janvier 2007. Apple a été tenu de déposer les permis d’exploitation auprès de la FCC, mais puisque de tels dépôts sont à la disposition du public, l’annonce a été faite quelques mois avant que l’iPhone ait reçu l’agrément. L’iPhone a été mis en vente aux États-Unis le 29 juin 2007. La première version de l’iPhone a été rendue disponible au Royaume-Uni, en France et en Allemagne en novembre 2007, et en Irlande et en Autriche au printemps 2008.
+Le 11 juillet 2008, Apple a lancé l’iPhone 3G dans vingt-deux pays[12]. Apple a depuis commercialisé l’iPhone 3G dans plus de quatre-vingts pays et territoires. Apple annonce la sortie de l’iPhone 3GS le 8 juin 2009. Beaucoup d’utilisateurs se sont opposés au coût excessif de l’iPhone[réf. souhaitée]. Dans une tentative de gagner un marché plus large, Apple a conservé l’iPhone 3GS de 8 Go, qui a un prix largement inférieur.
+Distribution[modifier | modifier le code]
+L’iPhone est annoncé le 9 janvier 2007[13], et commercialisé le 29 juin 2007 aux États-Unis[14], le 9 novembre 2007 en Allemagne et au Royaume-Uni, et le 28 novembre 2007 en France. Puis durant l’année 2008 en Asie, dans le reste de l’Europe et au Canada.
+La version suivante de l’iPhone, l’iPhone 3G, est annoncée le 9 juin 2008 lors de la Worldwide Developers Conference d’Apple. Il reprend presque la même architecture que la première mouture avec en plus le support de la 3G et un GPS fonctionnant avec Google Maps. Il est sorti dans de nombreux pays le 11 juillet 2008 et en France le 17 juillet 2008. Il remplace totalement la première version dès sa sortie.
+En Chine, il est distribué par China Unicom depuis 2009 avec toutefois des limitations au niveau des fonctionnalités, entre autres les iPhone distribués en Chine ne sont pas équipés de la technologie Wi-Fi.
+Un produit très attendu[modifier | modifier le code]
+
+
+
+
+File d’attente au lancement de l’iPhone 3GS à l’Apple Store de Zurich en Suisse.
+
+
+Après une importante campagne publicitaire aux États-Unis, près de 200 000 exemplaires de l’iPhone sont vendus durant trois semaines de vente.
+Le développement de l’iPhone a, selon Steve Jobs, pris deux ans et demi, et le PDG d’Apple a présenté l’appareil le 9 janvier 2007 au discours d’ouverture du salon professionnel Macworld, à San Francisco. La rumeur selon laquelle l’entreprise travaillait sur un téléphone mobile intégrant des fonctionnalités similaires à celle de l’iPod courait depuis déjà près d’un an. En septembre 2005, Apple, Motorola et Cingular avaient présenté le ROKR, un téléphone mobile compatible avec le logiciel iTunes d’Apple. L’appareil n’avait toutefois connu qu’un succès très mitigé, entaché de problèmes techniques de synchronisation avec iTunes (Motorola lança par la suite une nouvelle version de son RAZR, lui aussi compatible avec iTunes, mais sans grande publicité).
+Steve Jobs voit alors le lancement de l’iPhone comme une « révolution » comparable à celle des innovations technologiques que représentèrent respectivement en 1984 et 2001 deux autres produits d’Apple, le Macintosh et l’iPod. Lors de son discours d’ouverture à Macworld, le dirigeant d’Apple a déclaré viser 1 % de parts de marché pour 2008, soit environ dix millions d’appareils au niveau mondial.
+Le téléphone est vendu exclusivement par AT&T aux États-Unis, T-Mobile en Allemagne et O2 au Royaume-Uni. Environ 10 000 exemplaires du mobile se sont vendus la première journée dans chacun de ces deux derniers pays. En France, quatrième pays à recevoir l’iPhone, Orange est le distributeur exclusif à partir du 28 novembre 2007[15].
+En France[modifier | modifier le code]
+À la suite de recours en justice, les deux autres opérateurs mobiles français SFR et Bouygues Telecom décident de rendre disponible l’iPhone à leurs clients avant la fin décembre 2008[16],[17]. Toutefois les délais de commercialisation s'avèrent trop justes et l’appareil n’est disponible chez SFR et chez Bouygues Telecom que début 2009[18].
+En 2012, les iPhone sont disponibles chez les quatre grands opérateurs français, Orange, SFR, Bouygues Telecom, et Free Mobile (lancé en janvier de cette année) de même que chez Apple pour tout opérateur.
+Déverrouillage de l'iPhone[modifier | modifier le code]
+L'iPhone est le seul smartphone où le « désimlockage » est directement géré par le constructeur Apple, via l'opérateur de réseau mobile auquel il est rattaché. Les opérateurs de réseau mobile disposent en effet d'une application informatique mise à disposition par Apple qui leur permet de débloquer les iPhone ou tout autre appareil de la marque Apple. Cette méthode permet à Apple de conserver le contrôle de ses équipements.
+Le déverrouillage ou désimlockage (ce dernier terme permet de le distinguer du débridage ou jailbreak) à titre gratuit des téléphones est parfois obligatoire dans certains pays (Singapour et Israël au moins puisque la Belgique a dû rentrer dans le rang en 2009 d'après une directive européenne[19]) ou, comme en France, possible après un délai actuellement de trois mois (il était initialement de six mois) après l'achat auprès d'un opérateur. Le désimlockage n'est pas automatique mais doit être demandé à cet opérateur (et non à Apple) en lui fournissant l'IMEI (littéralement « l'identité internationale d'équipement mobile ») qu'on trouve sur le téléphone lui-même. Après cinq à sept jours, Apple autorise l'iPhone à s'identifier par iTunes auprès d'un autre opérateur. Il faut pour cela se procurer une carte SIM d'un autre opérateur que l'opérateur initial (inutile d'éteindre l'iPhone mais il faut entrer les quatre chiffres de la carte SIM), connecter l'iPhone à iTunes qui envoie aussitôt le message « Félicitation, votre iPhone est maintenant déverrouillé ». On rend alors la carte SIM empruntée et l'iPhone est alors désimlocké pour l'ensemble des opérateurs du monde entier. Au cas où on ne détient pas d'autre carte SIM, il faut sauvegarder ses données sous iTunes puis restaurer depuis cette sauvegarde[20]. Néanmoins, depuis l'iPhone 4 et iOS 5, il est possible, une fois le désimlockage autorisé par Apple, de désimlocker son iPhone sans passer par iTunes, il suffit uniquement d'introduire une carte d'un autre opérateur et de connecter l'iPhone à un réseau Wi-Fi. L'iPhone, recevra automatiquement un message du serveur Apple qui autorisera l'utilisation d'une autre carte SIM.
+Résultats commerciaux[modifier | modifier le code]
+Lors du discours inaugural d'Apple du 13 mars 2009, la marque annonce avoir dépassé son objectif de vente de 10 millions d’iPhone en un an, déclarant avoir vendu 13,7 millions d’iPhone dans le monde[21].
+En mars 2009, l’opérateur français Orange, qui détenait jusqu’à cette date l’exclusivité iPhone en France, annonce avoir vendu 810 000 appareils depuis sa sortie. Le 22 mai, Orange affirme en avoir écoulé un million d’exemplaires[22].
+Le 22 juin 2009, Apple annonce via un communiqué de presse[23] que l’iPhone 3GS, commercialisé depuis le 19 juin, a été vendu en trois jours à plus d’un million d’exemplaires. Le 20 octobre, Apple annonce avoir vendu plus de 7,3 millions d’iPhone[24].
+Le 25 janvier 2010, Apple annonce avoir vendu 8,7 millions d’iPhone pendant le dernier trimestre de 2009[25].
+Le 18 janvier 2011, Apple annonce avoir vendu 16 millions d’iPhone pendant le dernier trimestre de 2010 et le 2 mars, durant le discours inaugural de présentation de l'iPad 2, la marque annonce avoir franchi le cap des 100 millions d’iPhone vendus dans le monde.
+En juin 2012, les ventes d'iPhone depuis 2007 se montent à 250 millions d'exemplaires[26],[27].
+En juin 2014, Apple annonce avoir vendu plus de 500 millions d'iPhone depuis le lancement en 2007[28].
+Le 9 mars 2015, Apple annonce avoir vendu plus de 700 millions d'iPhone depuis le lancement en 2007.
+Description[modifier | modifier le code]
+Chronologie des produits iPhone[modifier | modifier le code]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source : Apple[29]
+Production[modifier | modifier le code]
+Article détaillé : Foxconn.
+L'iPhone est assemblé (comme, entre autres, les téléphones portables Nokia, les consoles de jeu de Sony ou les ordinateurs de Dell et Hewlett-Packard[30]) par des ouvriers de la société Foxconn à Shenzhen, dans le sud de la Chine. Cette société, qui a connu une vague de suicides, est souvent pointée du doigt pour les conditions de travail très rudes qu'elle appliquerait à ses 300 000 employés[30] de la ville de Shenzhen.
+Innovations[modifier | modifier le code]
+Selon Apple, l’appareil intègre des innovations décrites dans plus de 300 brevets[réf. souhaitée]. Parmi les fonctionnalités qui démarquent l’iPhone des produits concurrents figurent une interface constituée d’un écran tactile multipoint, remplaçant les boutons ou claviers traditionnels, et la représentation graphique de la boîte de messagerie vocale, fruit de la collaboration d’Apple avec l’opérateur de téléphonie mobile d’AT&T (anciennement Cingular Wireless).
+Caractéristiques techniques[modifier | modifier le code]
+
+
+Modèle
+iPhone
+iPhone 3G
+iPhone 3GS
+iPhone 4
+iPhone 4s
+iPhone 5
+iPhone 5c
+iPhone 5s
+iPhone 6
+iPhone 6 Plus
+iPhone 6s
+iPhone 6s Plus
+iPhone SE
+
+
+
+Date de sortie (France)
+29 novembre 2007
+18 juillet 2008
+19 juin 2009
+24 juin 2010
+14 octobre 2011[31]
+21 septembre 2012
+20 septembre 2013
+19 septembre 2014
+25 septembre 2015
+31 mars 2016
+
+
+Date de fin
+4 Go: 5 septembre 2007
+8, 16 Go: 11 juillet 2008
+
+16 Go: 8 juin 2009
+8 Go black: 7 juin 2010
+
+16, 32 Go: 24 juin 2010
+8 Go black: 12 septembre 2012
+
+16, 32 Go: 4 octobre 2011
+8 Go: 10 septembre 2013
+
+32, 64 Go: 12 septembre 2012
+16 Go: 10 septembre 2013
+8 Go: 9 septembre 2014
+
+10 septembre 2013
+16, 32 Go: 9 septembre 2014
+8 Go: 9 septembre 2015
+
+64 Go: 9 septembre 2014
+16, 32 Go: 9 mars 2016
+
+128 Go: 9 septembre 2015
+16, 64 Go: En production
+
+Tous: En production
+Tous: En production
+
+
+Prix de lancement (Apple Store France)
+4 Go : 499 €
+8 Go : 549 €
+16 Go : 659 €
+8 Go : 509 €
+16 Go : 609 €
+8 Go : 519 €
+16 Go : 559 €
+32 Go : 659 €
+8 Go : 519 €
+16 Go : 629 €
+32 Go : 739 €
+8 Go : 399 €
+16 Go : 629 €
+32 Go : 739 €
+64 Go : 849 €
+16 Go : 679 €
+32 Go : 789 €
+64 Go : 899 €
+8 Go : 559 €[32]
+16 Go : 599 €
+32 Go : 699 €
+16 Go : 699 €
+32 Go : 799 €
+64 Go : 899 €
+16 Go : 709 €
+64 Go : 819 €
+128 Go : 919 €
+16 Go : 809 €
+64 Go : 919 €
+128 Go : 1 019 €
+16 Go : 749 €
+64 Go : 859 €
+128 Go : 969 €
+16 Go : 859 €
+64 Go : 969 €
+128 Go : 1 079 €
+16 Go :
+489 €
+64 Go :
+589 €
+
+
+
+Couleurs disponibles
+Noir
+Noir
+Noir
+Blanc
+
+Noir
+Blanc
+
+Noir
+Blanc
+
+Noir
+Blanc
+
+Jaune
+Bleu
+Rose
+Vert
+Blanc
+Or
+Argent
+Gris sidéral
+Or
+Argent
+Gris sidéral
+Or
+Argent
+Gris sidéral
+Or
+Argent
+Gris sidéral
+Or rose
+
+Or
+Argent
+Gris sidéral
+Or rose
+
+
+
+Version initiale de l'OS
+firmware 1.0
+iPhone OS 2.0
+iPhone OS 3.0
+iOS 4.0
+iOS 5.0
+iOS 6.0
+iOS 7.0
+iOS 8.0
+iOS 9.0
+iOS 9.3
+
+
+Plus haute version d'OS compatible
+iPhone OS 3.1.3
+iOS 4.2.1
+iOS 6.1.6
+iOS 7.1.2
+iOS 9.3.4[33]
+
+
+Durée du support logiciel
+36 mois
+39 mois
+51 mois
+51 mois
+56 mois
+En cours
+
+
+Écran
+480 × 320 px - 3,5 pouces (163 ppp)
+960 × 640 px - 3,5 pouces (326 ppp)
+1 136 × 640 px - 4 pouces (326 ppp)
+1 334 × 750 px - 4,7 pouces (326 ppp)
+1 920 × 1 080 px - 5,5 pouces (401 ppp)
+1 334 × 750 px - 4,7 pouces (326 ppp)
+1 920 × 1 080 px - 5,5 pouces (401 ppp)
+1 136 × 640 px - 4 pouces (326 ppp)
+
+
+Écran (réflectance)[34]
+-
+9,2 %
+7 %
+4,6 %
+A venir
+
+
+
+
+Écran (Gamut en % de sRGo)[34]
+-
+60 %
+64 %
+104 %
+101 %
+99 %
+
+
+
+
+
+SoC
+Samsung S5L8900
+Samsung S5PC100
+Apple A4
+Apple A5
+Apple A6
+Apple A7
+Apple A8
+Apple A9
+
+
+Processeur
+ARM1176JZF-S 412 MHz
+ARM Cortex-A8 600 MHz
+ARM Cortex-A8 800 MHz
+ARM Cortex-A9 double cœur 800 MHz
+Swift double cœur 1,3 GHz
+Cyclone double cœur, 64 bits 1,3 GHz
+Typhoon double cœur, 64 bits 1,4 GHz
+Twister double cœur, 64 bits 1,8 GHz
+
+
+Processeur graphique
+PowerVR MBX Lite 60 MHz
+PowerVR SGX 535 150 MHz
+PowerVR SGX 535 200 MHz
+PowerVR SGX 543MP2 double cœur 200 MHz
+PowerVR SGX 543MP3 triple cœur 266 MHz
+PowerVR G6430 quadruple cœur 533 MHz
+PowerVR GX6450 hexacœur 650-750 MHz
+PowerVR GT7600
+
+
+Stockage
+4, 8 ou 16 Go
+8 ou 16 Go
+8, 16 ou 32 Go
+8, 16, 32 ou 64 Go
+16, 32 ou 64 Go
+8, 16 ou 32 Go[32]
+16, 32 ou 64 Go
+16, 64 ou 128 Go
+16, 64 ou 128 Go
+16 ou 64 Go
+
+
+Mémoire vive
+128 Mo
+256 Mo
+512 Mo
+1 Go
+2 Go
+2 Go
+
+
+Autonomie annoncée
+Audio : 22 h
+Vidéo : 5 h
+
+
+
+Veille : 250 h
+Audio : 24 h
+Vidéo : 7 h
+
+
+
+Veille : 300 h
+Audio : 30 h
+Vidéo : 10 h
+
+
+
+Veille : 300 h
+Audio : 40 h
+Vidéo : 10 h
+
+
+
+Veille : 300 h
+Audio : 40 h
+Vidéo : 10 h
+
+
+
+Veille : 200 h
+Audio : 40 h
+Vidéo : 10 h
+Wi-fi : 10 h
+3G/4G : 8 h
+
+Veille : 225 h
+Audio : 40 h
+Vidéo : 10 h
+Wi-Fi : 10 h
+3G/4G : 8 h/10h
+Conversation : 10 h
+Veille : 250 h
+Audio : 50 h
+Vidéo : 11 h
+Wi-Fi : 11 h
+3G/4G : 10 h/10h
+Conversation : 14 h
+Veille : 250 h
+Audio : 80 h
+Vidéo : 14 h
+Wi-Fi : 12 h
+3G/4G : 12 h/12h
+Conversation : 24 h
+Veille : 384 h
+Audio : 50 h
+Vidéo : 11 h
+Wi-Fi : 11 h
+3G/4G : 10 h/10h
+Conversation : 14 h
+Veille : 250 h
+Audio : 80 h
+Vidéo : 14 h
+Wi-Fi : 12 h
+3G/4G : 12 h/12 h
+Conversation
+24 h en 3G
+Veille :
+384 h
+
+Audio : 50 h
+Vidéo : 13 h
+Wi-Fi/LTE : 13 h
+3G : 12 h
+Conversation : 14 h
+Veille : 250 h
+
+
+
+Batterie
+1 400 mAh
+1 150 mAh
+1 219 mAh[35]
+1 420 mAh[36]
+1 432 mAh[36]
+1 440 mAh
+1 570 mAh
+1 570 mAh
+1 810 mAh
+2 915 mAh
+1 715 mAh
+2 750 mAh
+1 642 mAh
+
+
+Appareil photo numérique
+2 Mpx sans flash, capable de vidéo via des applications tierces
+3,2 Mpx sans flash, autofocus, avec vidéo en 480p (VGA) natif et mise au point automatique
+5 Mpx avec flash (LED), capteur rétro-éclairé, vidéo en 720p natif, capteur VGA (480p pour les vidéos et 0,3 Mpx pour les photos) en face avant.
+Sony[37] 8 Mpx avec Flash (LED), capteur rétro-éclairé, ouverture f/2,4, détection des visages, vidéo en 1080p natif, capteur avant inchangé.
+idem + prise de photos pendant l'enregistrement d'une vidéo, et stabilisation vidéo améliorée; avant : FaceTime, photo : 1,2 Mpx, vidéo : 720p
+Idem + capteur avant amélioré
+Idem + Mode rafale 10 fps, slow motion 120 fps, capteur avec photosite de 1,5 µm, ouverture f/2,2, Flash True Tone (2 LED : 1 blanche + 1 jaune)
+Idem + Slow Motion 240 fps, Mise au point Focus Pixel, Panorama jusqu'à 43 Mpx et Caméra FaceTime améliorée : ouverture f/2,2 et Mode rafale.
+Idem + Stabilisation optique sur la caméra dorsale.
+12 Mpx avec Flash (LED), capteur rétro-éclairé, ouverture f/2,2, détection des visages, vidéo en 4K natif, capteur avant 5 Mpx.
+Idem + Stabilisation optique sur la caméra dorsale.
+AR idem 6s
+AV idem 5s
+
+
+
+Capteurs environnementaux
+Accéléromètre, capteur de luminosité ambiante
+Idem + Magnétomètre (pour la boussole numérique)
+Idem + Gyroscope
+Idem
+Idem + Apple M7
+Idem + Apple M8 avec baromètre
+Idem + Apple M9 avec « Dis Siri »
+
+
+Réseaux
+
+
+Quadri-bande GSM (850, 900, 1 800 et 1 900 MHz)
+GPRS/EDGE
+Wi-Fi (802.11b/802,11 g)
+Bluetooth 2.0 avec EDR (Enhanced Data Rate)
+
+
+Idem +
+
+Tri-bande UMTS (850, 1 900, 2 100 MHz)
+HSDPA 3,6 Mb/s
+
+
+Idem +
+
+HSDPA 7,2 Mb/s
+Bluetooth 2.1 avec EDRa
+
+
+Idem +
+
+Quadri-bande UMTS (850, 900, 1 900, 2 100 MHz)
+HSUPA
+Wi-Fi 802.11b/g/n (2,4 GHz uniquement pour le n)
+
+
+Idem +
+
+HSDPA 14,4 Mb/s
+Bluetooth 4.0b
+
+
+Idem +
+
+HSPA+/DC-HSDPA 42.2 Mbit/s
+LTE tri-bandes (1, 3 et 5) 100 Mb/s
+Wi-Fi 802.11n bi-bande (2,4 GHz et 5 GHz)
+
+
+Idem +
+
+LTE 7 bandes (1, 2, 3, 5, 7, 8 et 20)
+
+
+Idem +
+
+LTE et LTE-A 20 bandes (1, 2, 3, 5, 7, 8, 13, 17, 18, 19, 20, 25, 26, 28, 29, 38, 39, 40 et 41) 150 Mb/s
+Wi-Fi 802.11b/g/n/ac (2,4 GHz et 5 GHz)
+
+
+Idem avec LTE 300 Mb/s + Bluetooth 4.2[38]
+idem 6s mais LTE 150 Mb/s
+
+
+DAS (W/kg)[39]
+0,974
+0,878
+1,100
+0,930
+0,988
+0,901
+0,956
+0,979
+0,972
+0,907
+0,870
+0,930
+
+
+
+Fonctionnalités
+ajoutées
+
+
+accéléromètre
+Hi-Fi
+iPod
+Safari
+Courrier électronique
+localisation par triangulation GSM
+
+
+
+
+GPS
+internet 3G
+
+
+
+
+boussole
+Voice control
+Possibilité de prendre une vidéo
+
+
+
+
+Écran Retina
+gyroscope
+Deux microphones pour réduire le bruit de fond
+Une caméra frontale pour FaceTime
+Utilisation d’une micro SIM
+
+
+
+
+GPS et GLONASS
+coprocesseur dédié à la suppression du bruit de fond et à l'amélioration de la reconnaissance vocale[40]
+assistant à reconnaissance vocale Siri
+
+
+
+
+3 microphones (Anti-bruit)
+connecteur Lightning
+Utilisation d'une nano-sim
+écouteurs EarPods
+
+
+Idem
+
+
+Bouton Home avec capteur d'empreintes digitales « Touch ID »
+
+
+
+
+Écran Retina HD, pixels à double transistor
+NFC pour Apple Pay
+Codec H.265 pour FaceTime par réseau cellulaire.
+Stabilisation optique de l'image (iPhone 6 Plus uniquement)
+LTE Advanced (dual carrier) à 150 Mbit/s
+
+
+
+
+Bouton Home avec capteur d'empreintes digitales « Touch ID » de seconde génération
+Écran 3D Touch
+
+
+idem 6
+
+
+Taille et masse
+115 mm (h)
+61 mm (l)
+11,6 mm (p)
+135 g
+115,5 mm (h)
+62,1 mm (l)
+12,3 mm (p)
+134 g
+115,2 mm (h)
+58,6 mm (l)
+9,3 mm (p)
+137 g
+115,2 mm (h)
+58,6 mm (l)
+9,3 mm (p)
+140 g
+123,8 mm (h)
+58,6 mm (l)
+7,6 mm (p)
+112 g
+124,4 mm (h)
+59,2 mm (l)
+8,97 mm (p)
+132 g
+123,8 mm (h)
+58,6 mm (l)
+7,6 mm (p)
+112 g
+138,1 mm (h)
+67 mm (l)
+6,9 mm (p)
+129 g
+158,1 mm (h)
+77,8 mm (l)
+7,1 mm (p)
+172 g
+138,3 mm (h)
+67,1 mm (l)
+7,1 mm (p)
+143 g
+158,2 mm (h)
+77,9 mm (l)
+7,3 mm (p)
+192 g
+123,8 mm (h)
+58,6 mm (l)
+7,6 mm (p)
+113 g
+
+
+Carte Sim
+Sim standard
+Micro-Sim
+Nano-Sim
+
+
+Chargeur
+30 broches
+Lightning
+
+
+Notes :
+a. Remplace le Bluetooth 2.0 des modèles précédents.
+b. Remplace le Bluetooth 2.1 des modèles précédents.
+
+
+
+
+
+
+
+Faces avant d’un iPhone de première génération, d’un iPhone 3GS et d’un iPhone 4.
+
+
+
+
+
+
+
+
+
+iPhone 6
+
+
+
+
+
+
+
+
+
+iPhone 6s
+
+
+
+
+Fonctionnalités[modifier | modifier le code]
+Article détaillé : iOS (Apple).
+L’innovation majeure de l’iPhone est la possibilité de pouvoir interagir avec l’écran à travers une interface tactile intuitive qui permet d’utiliser deux doigts simultanément et onze au maximum. Cela se traduit par un taux d’utilisation très important de la fonction navigation Internet (> 90 %) à la différence d’autres terminaux mobiles équipés de la fonction navigation.
+Cette interface a été également déclinée sur d’autres applications :
+
+la possibilité de naviguer par exemple dans sa bibliothèque musicale en faisant défiler les pochettes d’album avec ses doigts sur l’écran tactile : le CoverFlow ;
+le visionnage de photos, dont on change la taille ou l’orientation d’un seul geste de deux doigts ;
+on peut aussi par un simple contact sur l’écran envoyer par courrier électronique une photo à un contact pioché dans le carnet d’adresses intégré.
+
+Cette interface a été implémentée dans la génération d’iPod touch lancée en septembre 2007.
+Baladeur numérique[modifier | modifier le code]
+L’iPhone possède les mêmes fonctionnalités que les iPod quant à la lecture des formats multimédia (musiques, livres audio, podcasts (balados), clips vidéos, films, séries télévisées, photographies) et se synchronise tout comme lui à l’aide du logiciel iTunes. Il permet également l’accès à une version optimisée de YouTube.
+Depuis octobre 2007, l’iPhone peut également accéder à une version simplifiée de l’iTunes Store, permettant de rechercher le magasin en ligne, d’écouter des extraits musicaux, d’acheter et télécharger de la musique ainsi que des podcasts. Un accord avec Starbucks permet également d’obtenir des informations sur la musique diffusée en temps réel dans certains magasins de la chaîne aux États-Unis.
+Dans la mise à jour iOS 5 dévoilée le 6 juin 2011 lors de la WWDC 2011, l'application iPod se voit divisée en deux applications : Musique et Vidéos, comme sur l'iPod touch[41].
+Téléphonie mobile[modifier | modifier le code]
+
+
+
+
+
+
+
+
+
+Cette section a besoin d'être recyclée (indiquez la date de pose grâce au paramètre date).  
+Une réorganisation et une clarification du contenu sont nécessaires. Vous pouvez discuter des points à améliorer en page de discussion.
+
+
+
+
+
+L’écran peut accueillir douze pages dont onze d’applications et une dédiée à la recherche Spotlight, qui permet de rechercher n’importe quel fichier, contact ou application présent sur l’iPhone.
+
+Appels : en touchant du doigt et en faisant glisser noms et numéros dans la liste de contacts, des favoris, des appels récents.
+Interface visuelle et sélective de la boîte de messagerie vocale - comme pour le courrier électronique - afin d’écouter les messages prioritaires rapidement, par un simple toucher.
+Audioconférence.
+Intégration avec un carnet d’adresse illustrable.
+Synchronisation des contacts.
+Composition facultative de numéros sur l’écran tactile
+Écriture de SMS directement sur l’écran.
+Session multiple de SMS.
+
+Photographie[modifier | modifier le code]
+Article détaillé : Photographie mobile.
+Assistant personnel[modifier | modifier le code]
+
+Safari, le navigateur web d’Apple en version complète.
+Widgets d’Apple (météo, bourse, horloge, etc.) : petites applications d’informations utiles actualisées en temps réel.
+Réception du courrier électronique grâce aux protocoles POP3, IMAP (et intégration de l’extension Push-IMAP spécialement pour Yahoo! Mail), et lecture via un client HTML riche, gérant texte et images.
+Application Google Maps dédiée permettant la visualisation de cartes, d’images satellites, d’informations de navigation routière et de trafic (remplacée par Plans depuis iOS 6).
+Carnet d'adresses.
+Système d’exploitation multi-tâche (depuis iOS 4 et ne concerne que les iPhone 3GS et postérieurs).
+Siri, l'assistant vocal intégré nativement sur l'iPhone 4s et les versions postérieures.
+
+Applications[modifier | modifier le code]
+Le 6 mars 2008, Steve Jobs a présenté lors d’une conférence[42] au siège social d'Apple à Cupertino, un kit de développement (SDK) pour iPhone destiné à la fois aux professionnels et aux particuliers. Ce dernier est téléchargeable gratuitement sur le site d’Apple et permet de développer des applications pour iPhone et iPod Touch et de les tester dans un simulateur. Une inscription payante au « programme de développement » permet de tester les logiciels sur des machines physiques et donne l’accès à la distribution des applications via les serveurs d’Apple. Ce kit est actuellement utilisé pour développer des logiciels de messagerie instantanée (comme AIM ou MSN Messenger), des utilitaires divers (retouches photos, banques de données pour les professionnels) et bien sûr des jeux. On a pu apercevoir lors de la présentation des jeux vidéo comme Spore (EA Games), Super Monkey Ball (SEGA), ou encore Doodle Jump le célèbre jeu ou il faudra faire sauter le personnage de plateformes en plateformes en inclinant l’iPhone.
+Dès juin 2008, les développeurs distribuent leurs applications à travers un portail dédié sur iPhone : App Store. Les développeurs ont le choix du prix sachant qu'Apple prélève une commission de 30 %, cependant Apple propose aux développeurs qui désirent distribuer leurs applications gratuitement de pouvoir le faire sans aucuns frais autres que l’inscription au « programme de développement » (99 USD).
+À sa mise en ligne, le prix médian est de 0,99 USD et la moyenne de 3,33 $. La répartition est aussi intéressante, 25 % des logiciels sont gratuits et 90 % sont inférieurs à 9,99 USD. Ces chiffres montrent que les logiciels sont des petits utilitaires développés par des « petites structures ». La maîtrise du kit du développement par les éditeurs permettra prochainement de proposer des produits plus aboutis à 14,99 $, 19,99 $ ou 29,99 USD.
+Le succès du kit est immédiat, la communauté de développeurs a effectué 100 000 téléchargements le 1er week-end. L’iPhone 3G se positionne fortement comme plateforme d’excellence sur le marché du jeu vidéo, du communautaire et du GPS. Ainsi, les jeux représentent 33 % des logiciels développés à un prix moyen de 7,99 USD. Monkey Ball, par exemple, connaît un véritable succès dès le premier week-end, les 3 927 clients ont permis un bénéfice net à son éditeur de 2 746 $. Ensuite, les outils communautaires sont les plus populaires et reposent sur la publicité (AIM, Facebook, Kyte Producer, MySpace, Twitterific, TypePad). De plus, TomTom, constructeur de GPS, a lancé la commercialisation de son application iPhone au mois d’août 2009 pour un prix de 69,99 € (pour la cartographie France).
+En juillet 2009, soit un an après l’ouverture de l’App Store, le nombre d’applications disponibles dépasse les 85 000. Chaque jour, plusieurs centaines de nouvelles applications sont disponibles. Le 4 novembre 2009, Philip Schiller, le vice-président sénior d’Apple, annonce que l’App Store a atteint le chiffre symbolique des 100 000 applications[43]. En 2016, 8 % d’entre elles sont disponibles en français[44].
+Le 6 janvier 2010, Apple annonce avoir dépassé les 3 milliards de téléchargements d’applications iPhone. Début mars 2010, plus de 150 000 applications, développées par plus de 28 000 développeurs[45], sont disponibles au téléchargement sur l’App Store (au niveau mondial).
+Le 7 juin 2010, Apple annonce que 225 000 applications sont disponibles sur l’App Store. Chaque semaine, 15 000 applications sont soumises et 95 % sont acceptées. Depuis le lancement de l’App Store, 1 milliard de dollars ont alors (juin 2010) été reversé aux développeurs[46].
+En février 2012, Apple lance un compte à rebours en annonçant que la personne qui téléchargera la 25 milliardième application sur l'App Store gagnera une carte iTunes de 10 000 dollars[47], celle-ci est téléchargée par un utilisateur chinois le 5 mars 2012[48],[49].
+Accessoires en option[modifier | modifier le code]
+Depuis le début de la commercialisation de l’iPhone, des écouteurs avec micro intégré sont vendus avec le terminal.
+De nombreux accessoires sont disponibles pour l’iPhone. Apple vend des accessoires spécialement conçus (parfois par la marque) pour l'appareil, on trouve des stations d’accueil de recharge, des écouteurs, ou encore des films protecteurs pour l’écran généralement en verre trempé [50],[51]. De nombreuses entreprises tierces se sont spécialisées dans la fabrication de brassards, haut-parleurs, casques, housses, bumpers ou coques ainsi que de nouvelles clés externe pour augmenter la mémoire de votre [52]iPhone.
+Lors de l’« antennagate » de 2010 concernant les problèmes de réception de l’antenne de l’iPhone 4, Apple avait décidé de remettre gratuitement un bumper à tous les propriétaires d’iPhone 4 qui en faisaient la demande.
+Critiques et controverses[modifier | modifier le code]
+Article détaillé : Foxconn.
+iPhone, marque déposée[modifier | modifier le code]
+La marque « iPhone » a été au centre d'un contentieux entre Apple et la société Cisco Systems. Cette dernière a racheté en 2000 la société Infogear, qui avait déposé cette marque le 20 mars 1996 (Infogear avait hérité des droits sur la marque après que la société l'ayant précédemment déposée, Cisco, renonça à l'exploiter)[53]. Cisco, via sa filiale Linksys, a ensuite utilisé cette marque pour commercialiser différents produits destinés à des appareils utilisant la technologie VoIP, mais n'en a pas fait usage avant 2006, lorsque la société renouvelle ses droits sur la marque auprès de l'USPTO le 4 mai 2006 en l'amendant, selon le règlement, d'une photo d'un produit Linksys portant la marque « iPhone » sur son emballage[54]. En décembre 2006, Cisco présente une nouvelle gamme de produits sous cette marque.
+Apple avait fait l'acquisition du nom de domaine iphone.org en 1999. Selon Cisco, les deux sociétés étaient en cours de négociations lorsque Apple, le 9 janvier 2007, utilise la marque pour présenter son produit, sans qu'un accord final ait été trouvé. Cisco intente dès le lendemain une action en justice auprès de la United States District Court for the Northern District of California, avec pour but officiel d'empêcher Apple d'utiliser délibérément la marque « iPhone ». Apple a considéré que de nombreuses sociétés utilisaient déjà cette marque, et qu'elle était la première à l'utiliser pour un téléphone mobile[55]. Cisco aurait perdu les droits sur la marque en 2006, après avoir manqué de renouveler son dépôt avant le 16 novembre 2005, soit six ans après l'enregistrement de la marque.
+Pour mettre fin à cette querelle, Apple et Cisco ont signé un accord le 21 février 2007[56].
+Manques fonctionnels[modifier | modifier le code]
+L'iPhone a été critiqué pour l'absence de certaines fonctionnalités par rapport à des produits concurrents, comme la radio FM, l'impossibilité d'afficher une vue par semaine dans le calendrier, l'absence d'une option « accusé de réception » pour un message, l'absence de support de Flash dans le navigateur (l'ajout futur de cette fonctionnalité est réellement peu probable, au vu de l'opinion qu'avait Steve Jobs sur ces technologies[57],[58], ainsi que de l'aveu d'Adobe de son désintérêt pour ce projet[59]).
+
+Absence d'accusé de réception pour les SMS, bien qu'une amélioration ait été apportée avec iMessage (iOS 5), service permettant d'envoyer des messages entre possesseurs d'iPhone sous iOS 5, sans passer par le réseau classique. Ces iMessages (sous la même forme que les SMS classiques) ne sont donc pas décomptés du forfait, et ont l'avantage de fournir une preuve d'envoi et une confirmation de lecture (accusé de réception).
+Absence d'emplacement pour cartes mémoires[60].
+Jusqu'à l'iPhone 4s, Apple a conçu des iPhone dont la batterie était très difficilement remplaçable contrairement à de nombreux autres smartphones et mobiles. Des boutiques en ligne proposent des composants pour iPhone dont une batterie avec l'outillage pour remplacer la batterie par soi-même : pour ce faire, il est nécessaire d'avoir un fer à souder pour la 1re génération et dans la 2e génération, la batterie est collée. La batterie de l'iPhone 4s est vissée avec des vis spéciales[61]. La batterie a 80 % de sa capacité neuve après 400 cycles entiers de décharge et charge[61].
+Impossibilité d'utiliser l'iPhone comme un UMS (périphérique de stockage de masse USB). Les utilisateurs du système d'exploitation Linux Ubuntu peuvent toutefois trouver le moyen d'utiliser l'iPhone en tant que périphérique de stockage de masse[62].
+Impossibilité d'envoyer des photos à d'autres appareils via Bluetooth. Cette impossibilité a été levée pour les iPhone 5, 5c et 5s, avec l'introduction de la fonction AirDrop, qui fonctionne seulement entre appareils Apple.
+Absence de double SIM : il n'est possible d'insérer qu'une seule carte SIM à la fois dans l'appareil. Les dispositifs externes permettant d'utiliser plusieurs SIM simultanément nécessitent un déverrouillage (jailbreak) du système iOS.
+Impossibilité d'avoir accès au système de fichiers.
+
+La Free Software Foundation (FSF) reproche l'utilisation de DRM et l'impossibilité pour les développeurs d'utiliser certaines licences libres pour leurs applications[63].
+Certaines de ces fonctions manquantes peuvent être retrouvées à partir du jailbreak d'iOS et de différents programmes qu'offre Cydia.
+Écologie, toxicité et danger[modifier | modifier le code]
+Selon Greenpeace en 2007[64],[65], l'iPhone serait un téléphone « toxique ». L'association écologiste a soumis l'iPhone à un laboratoire d'analyses indépendant. Il en ressort que le produit de la firme américaine intégrait un certain nombre de produits toxiques, notamment du PVC, contenu dans les câbles de l'appareil pour les modèles Edge et 3G, ainsi que de l'arsenic, contenu dans les vitres d'écran. Le téléphone d'Apple recelait des substances et des matériaux nocifs pour l'environnement. Un résultat décevant étant donné que Steve Jobs avait annoncé vouloir faire de son entreprise « une pomme plus verte ». Depuis lors, la société a longuement étudié le phénomène, et propose désormais depuis l'iPhone 4 : combiné sans PVC, écouteurs sans PVC, câble USB sans PVC, plaquettes de circuits imprimés sans brome, écran LCD sans mercure, verre sans arsenic.
+Depuis la sortie de l'iPhone, divers dysfonctionnements se sont produits suivant le modèle de l'iPhone : les iPhone 3G et 3GS sont la cible de prétendues explosions « inexpliquées » lors d'une utilisation normale de l'appareil[66] (problème fortement sujet à caution[67]). La cause principale était une chute préalable, couplée à un iPhone que l'on utilisait posé sur une couverture, empêchant une bonne répartition de la chaleur. Les microfissures causées par la chute préalable ont fait gonfler certains écrans, pour les faire éclater.
+L'iPhone a été critiqué comme faisant l'objet d'une obsolescence programmée, une politique délibérée ayant pour objectif de réduire sa durée de vie[68],[69], notamment à travers l'imposition de mises à jour du système d'exploitation iOS, qui devient progressivement trop lourd pour les appareils anciens[70].
+Antenne[modifier | modifier le code]
+Peu après que l'iPhone 4 a été lancé, plusieurs consommateurs ont rapporté que la puissance de l'appareil était fortement diminuée si l'appareil était tenu par le coin gauche inférieur[71]. Apple a publié un communiqué qui affirme que les utilisateurs ne « doivent pas tenir [le téléphone] par le coin gauche inférieur[trad 1] » lorsqu'ils font ou reçoivent un appel téléphonique[72].
+Le tout accrédita dans l'esprit du grand public l'idée que ce modèle avait une réception de moins bonne qualité que ses prédécesseurs, poussant la marque à réagir, devant un marché de l'occasion en pleine expansion.
+Le 2 juillet 2010, plusieurs clients d'Apple et AT&T avaient l'intention de les poursuivre pour ce « défaut ». Un bureau d'avocats californiens a mis en ligne un site pour faciliter leur recrutement visant à entamer une telle poursuite[73],[74]. Plus tard la même journée, Apple a émis un communiqué affirmant que ses ingénieurs avaient découvert la cause de la « chute dramatique dans les barres[trad 2] »[75] : la formule utilisée pour calculer le nombre de barres à afficher était « fautive ». La société a promis de corriger ce problème et a publié une mise à jour logicielle quelques semaines plus tard. Cette « erreur » était présente depuis le lancement du premier iPhone[75]. The New York Times a commenté cette situation : « l'incapacité à détecter ce problème, présent depuis longtemps, est incroyable[trad 3] »[76]. Cet « antennagate »[note 1] a entraîné le départ de Mark Papermaster (« senior vice president of Devices Hardware Engineering »), débauché un an auparavant d'IBM[77].
+Consumer Reports a rejeté les affirmations d'Apple après avoir conduit des expériences en milieu contrôlé et comparé les résultats avec ceux d'iPhone des générations précédentes. Le magazine recommande aux consommateurs qui « veulent un iPhone qui fonctionne bien sans appliquer un correctif temporaire[trad 4] » d'acheter plutôt un iPhone 3GS[78]. Le magazine rapporte également qu'un « Bumper » (coque plastique qui entoure le téléphone) vendu par Apple, lequel empêche un contact direct avec l'antenne, corrige le problème[79]. CNN a rapporté que le fait de coller un bout de ruban adhésif suffit à corriger ce problème[80]. Le 16 juillet 2010, Apple a annoncé qu'elle remettrait gratuitement un étui à tous les propriétaires d'iPhone 4 et qu'elle rembourserait tout propriétaire ayant acquis un Bumper d'Apple. Consumer Reports affirme que la solution proposée est un pas dans la bonne direction, mais n'est pas permanente[81]. Cependant, Steve Jobs n'ayant publié aucune échéance pour mettre fin au problème et l'offre relative aux étuis et aux cadres métalliques étant temporaire (30 septembre 2010), PC World a décidé de retirer le produit de sa liste des dix meilleurs téléphones cellulaires[82]. Ceux qui désormais ont des problèmes d'antenne devront contacter l'AppleCare pour demander un étui gratuit.
+Les problèmes relatifs à l'antenne sont surtout détectés aux États-Unis et au Royaume-Uni. À Hong Kong et à Singapour, pratiquement personne n'a signalé un tel problème[83]. Malgré une couverture médiatique souvent négative relativement à l'antenne, 72 % des utilisateurs de l'iPhone 4 seraient très satisfaits et 21 % assez satisfaits[84].
+Propriété intellectuelle[modifier | modifier le code]
+En 2016, les autorités chinoises accusent Apple d'avoir violé la propriété intellectuelle de l'entreprise chinoise Shenzhen Baili dans la conception de l'iPhone 6 et 6s en copiant des éléments de design de leur modèle 100C. À la suite de ces accusations, l'autorité de régulation de la propriété intellectuelle de Pékin demande que la vente de ces modèles d'iPhone soit interdite en Chine[85].
+Sécurité et vie privée[modifier | modifier le code]
+
+
+
+
+Fiche du produit « DROPOUTJEEP » permettant l'espionnage des iPhone, extraite du catalogue d'une unité de la National Security Agency (NSA) en 2008, révélé par le journal Allemand Der Spiegel le 29 décembre 2013.
+
+
+Les nombreuses révélations de l'ancien agent de la CIA et consultant de la NSA Edward Snowden ont montré que les agences de renseignements électroniques américaines et britanniques, la NSA et le GCHQ, pouvaient espionner les utilisateurs d'iphone et accéder à l'ensemble des informations du smartphone :
+
+Le 7 septembre 2013, le magazine allemand Der Spiegel indique, sur la base de documents fournis par (?), que les agences de renseignements américaines et britanniques peuvent espionner les principales données des smartphones iPhone, incluant notamment les sms, les listes de contacts, les notes et les coordonnées GPS[86],[87],[88] ;
+Der Spiegel dévoile le 29 décembre 2013 un catalogue interne de 50 pages d'une unité de la NSA qui décrit de nombreuses techniques et outils que l'agence utilisait pour compromettre les systèmes informatiques en 2008[89]. Parmi ces outils, le logiciel espion « DROPOUTJEEP » permet -sans que l'utilisateur s'en aperçoive- de déposer ou de récupérer des fichiers sur l'iPhone, de consulter les SMS et la liste de contacts, de connaître la géolocalisation du téléphone, d'activer le microphone et l'objectif photo/vidéo et d'accéder à la boîte vocale[89] ;
+Le 17 janvier 2015, Der Spiegel publie une quarantaine de nouveaux documents d'Edward Snowden[90],[91]. Parmi ceux-ci, un document classifié « Top secret » de novembre 2010 du GCHQ démontre que l'agence de renseignement britannique peut cibler l'iphone d'un utilisateur grâce à son identfiant unique (UDID) puis installer à distance un logiciel espion[92] ;
+Le 19 janvier 2015, l'avocat d'Edward Snowden a fait savoir que ce dernier ne veut pas utiliser un iPhone pour ses communications téléphoniques par crainte d'être surveillé[93],[94],[95].
+
+À la suite de la sortie de l'iPhone 5s, un groupe de hackers allemands appelé le Chaos Computer Club a annoncé le 21 septembre 2013, qu'il avaient contourné le nouveau capteur d'empreintes digitales (Touch ID) de l'iPhone en utilisant « des moyens de la vie de tous les jours »[96],[97].
+Jailbreak[modifier | modifier le code]
+Article connexe : Jailbreak d'iOS.
+Le jailbreak est un processus permettant aux appareils sous iOS d'obtenir un accès complet pour déverrouiller toutes les fonctionnalités du système d'exploitation, éliminant ainsi les restrictions imposées par Apple. Une fois iOS débridé, l'utilisateur est en mesure de télécharger d'autres applications, des extensions ainsi que des thèmes qui ne sont pas proposés sur l'App Store, via des installeurs comme Cydia ou Installer.
+Un iPad, iPhone ou iPod touch débridé tournant sous iOS peut toujours utiliser l'App Store, iTunes et toutes les autres fonctions de base du système d’exploitation. Les utilisateurs peuvent par exemple accéder à des contenus payants gratuitement.
+Bibliographie[modifier | modifier le code]
+
+Bob Weil, Nicki Fitz-Gerald, The Art of iPhone Photography. Creating Great Photos and Art on Your iPhone, Rocky Nook, 2013.
+
+Notes et références[modifier | modifier le code]
+Traductions de[modifier | modifier le code]
+
+
+↑ (en) « avoid gripping [the phone] in the lower left corner »
+↑ (en) « dramatic drop in bars. »
+↑ (en) « the failure to detect this longstanding problem earlier is astonishing. »
+↑ (en) « want an iPhone that works well without a masking-tape fix »
+
+
+Notes[modifier | modifier le code]
+
+
+↑ Aux États-Unis, plusieurs scandales d'importance sont désignés par un nom se terminant par « gate » : scandale du Watergate, Monicagate ou Irangate.
+
+
+Références[modifier | modifier le code]
+
+
+↑ iPhone SE : Petite révolution. - Apple, 2016
+↑ « Google Play dépasse l'App Store en nombre d'apps et d'éditeurs », sur igen.fr,‎ 13 janvier 2015
+↑ a et b (en) Apple - iPhone - Comparez iPhone 3GS et iPhone 3G. Consulté le 17 juin 2011.
+↑ Apple - iPhone - Nouvelles fonctionnalités de la mise à jour logicielle iOS 5
+↑ Mélinda Davan-Soulas, « iPhone : Apple dépasse le milliard d'appareils vendus », sur MYTF1NEWS,‎ 28 juillet 2016 (consulté le 28 juillet 2016)
+↑ (en) The 50 Most Influential Gadgets of All Time - Time, 3 mai 2016
+↑ Dans une interview donnée à AllThingsD, Tim Cook, CEO d'Apple a affirmé que
+↑ « iPhone 5s et l’iPhone 5c - Apple Store (France) », sur www.store.apple.com,‎ 10 septembre 2013 (consulté le 10 septembre 2013)
+↑ « iPhones et iPads compatibles avec la 4G », OhMyMac.fr,‎ 3 février 2014
+↑ Ce Français qui a inspiré l'iPhone - L'Express, 13 janvier 2010
+↑ Dossier iPhone : L'histoire d'un mobile - Graphmobile.com, 2 janvier 2008
+↑ (en) Apple Introduces the New iPhone 3G - Apple Press Info, 9 juin 2008
+↑ Communiqué de presse d’Apple : « Apple réinvente le téléphone avec iPhone ».
+↑ Communiqué de presse d’Apple : « Apple choisit Cingular comme opérateur exclusif aux États-Unis pour son révolutionnaire iPhone ».
+↑ iPhone : ce que contenait l’accord entre Apple et Orange - Les Échos, 17 décembre 2008
+↑ SFR : « Nous ferons tout pour avoir l’iPhone en rayon à Noël » - 01net, 19 décembre 2008
+↑ iPhone d'Apple: Bouygues Telecom dégaine le premier - Blog L'Express, 21 décembre 2008 (voir archive)
+↑ À qui profite l’iPhone ? - Le Monde, 6 février 2009
+↑ Voir l'article de Wikipedia anglophone sur les législations de différents pays sur le désimlockage (en).
+↑ Explication d'un opérateur français sur l'opération de désimlockage.
+↑ (en) Apple March 17 Event - Apple (voir archive)
+↑ Orange : 1 000 000 iPhones vendus à ce jour - Mac4Ever.com, 22 mai 2009
+↑ (en) Apple Sells Over One Million iPhone 3GS Models - Apple Press Info, 22 juin 2009
+↑ Apple vend plus de 3 millions de Mac et 7,3 millions d’iPhone - PCInpact.com, 20 octobre 2009
+↑ 3,38 milliards de bénéfices pour Apple - MaximeJohnson.com, 26 janvier 2010
+↑ (en) Five years later, iPhone revenue hits $150 billion - Don Resigner, Cnet.com , 27 juin 2012
+↑ Les évolutions de l'iPhone: retour sur les 5 modèles du smartphone d'Apple - Huffington Post, 12 septembre 2012
+↑ (en) Apple Special Event. June 2, 2014. - Apple Events
+↑ Apple (2004-2010). Press Release Library. Source datant du 10 juin 2010.
+↑ a et b Suicides à la chaîne chez le géant Foxconn - Libération, 3 juin 2010
+↑ Iphone4s.fr, publié le 4 octobre 2011. Date de sortie de l'iPhone 4S, consulté le 18 janvier 2012.
+↑ a et b Apple lance un iPhone 5c moins cher... tout en préservant ses marges, L'Express, 18 mars 2014
+↑ « iOS 9 - Nouveautés - Apple », sur Apple (consulté le 10 septembre 2015)
+↑ a et b « DisplayMate Monitor Projector and HDTV Set Up Calibration and Testing », sur www.displaymate.com (consulté le 10 octobre 2015)
+↑ iPhone 3 GS - Alexandre Billault, Cnet France, 19 juin 2009
+↑ a et b (en) iPhone 4S gets torn down, reveals slightly bigger battery and Sony camera sensor - Blog GSMArena.com, 15 octobre 2011
+↑ iPhone 4S : capteur photo Sony - Photovore, 10 octobre 2011
+↑ « iPhone - Comparer les modèles - Apple (FR) », sur Apple (consulté le 10 octobre 2015)
+↑ (en) iPhone 4 clears FCC - Kent German, Cnet.com, 9 juin 2010
+↑ iPhone 4S : une puce audio spécifique pour Siri - Macworld.fr, 6 février 2012 (voir archive)
+↑ Apple - iOS 5 - Fonctionnalités
+↑ (en) Vidéo de la Keynote de Steve Jobs (6 mars 2008).
+↑ (en)Apple Announces Over 100,000 Apps Now Available on the App Store - Communiqué officiel d’Apple.
+↑ MonAppStore.com
+↑ Conseils aux Développeurs - Bemobee.com.
+↑ Détails des chiffres présentés lors de la Keynote - iPhone-Apple.fr, 7 juin 2010
+↑ Apple offre 10 000 dollars sur iTunes pour son 25 milliardieme téléchargement d'application - iPhon.fr, 19 février 2012
+↑ 25 000 000 000 d'applications téléchargées sur l'App Store Apple et un gagnant...chinois - iPhon.fr, 5 mars 2012
+↑ (en) Apple’s App Store Downloads Top 25 Billion - Communiqué de presse Apple, 5 mars 2012
+↑ « Protection verre trempé iPhone SE/5/5S 5C 6/6S 6+/6S+ - Royal Coque », sur royalcoque.com (consulté le 29 août 2016)
+↑ Des accessoires pour votre iPhone – Apple Store sur le site d'Apple France
+↑ « Coque iPhone 6/6S - Royal Coque », sur royalcoque.com (consulté le 29 août 2016)
+↑ (en) Fiche Trademark Electronic Search System(Tess) de l'United States Patent and Trademark Office
+↑ (en) Cisco lost rights to iPhone trademark last year, experts say - ZDNet, 12 janvier 2007
+↑ L'iPhone tiraillé entre Cisco et Apple - Le Monde/AFP, 11 janvier 2007
+↑ Apple et Cisco d'accord pour se partager la marque iPhone - Le Monde/AFP/Reuters, 22 février 2007
+↑ (en) Lettre ouverte de Steve Jobs concernant le Flash - Apple.com
+↑ Pour Steve Jobs, Flash est à oublier - Futura-Sciences.com
+↑ Flash sur iPhone OS : Adobe jette l'éponge - Mac4Ever.com
+↑ « Article de Greenpeace » (Archive • Wikiwix • Archive.is • Google • Que faire ?), consulté le 2013-03-30
+↑ a et b Vidéo, Cash Investigation, la mort programmée de nos appareils, 51 minutes 39 secondes → 53 minutes 12 secondes et 56 minutes et 40 secondes pour capacité batterie - YouTube, 4 juin 2012 [vidéo]
+↑ (en) « How to Easily Mount Your iPhone As An External Drive in Ubuntu », Make Tech Easier,‎ 30 septembre 2009
+↑ Agissez contre l'iPhone ! - Matt Lee, Free Software Foundation, 15 avril 2010
+↑ Appel en absence ! : Analyse de substances dangereuses dans un iPhone - Note technique 08/2007, Greenpeace, octobre 2007 [PDF] (voir archive)
+↑ (en) « Scientific tests reveal iPhone contains hazardous chemicals and materials, says Greenpeace », sur Greenpeace,‎ 15 octobre 2007 (consulté le 26 mai 2016).
+↑ Un iPhone qui explose ? Plus d'infos - iPhon.fr, 12 août 2009
+↑ 10 vérités sur les "explosions" d'iPhone - Blog Technotes Le Figaro, 14 août 2009
+↑ « Apple : "Non, la durée de vie des iPhone n'est pas de 3 ans !" », sur Mac4Ever,‎ 20 avril 2016 (consulté le 26 mai 2016).
+↑ « Est-ce qu’un iPhone dure 3 ans ? Explication sur ce que dit Apple », sur L'Informatique.org,‎ 23 avril 2016 (consulté le 27 avril 2016)
+↑ « L'impact d'iOS 9 sur la vitesse des iPhone 4s, 5 et 5s mesuré en vidéos »,‎ 24 septembre 2015 (consulté le 27 mai 2016).
+↑ (en) Jason Chen, « iPhone 4 Loses Reception When Holding it By Antenna Band? », Gizmodo,‎ 24 juin 2010 (consulté le 24 juin 2010)
+↑ (en) Rory Cellan-Jones, « Apple issues advice to avoid iPhone flaw », BBC News,‎ 25 juin 2010 (lire en ligne)
+↑ (en) « iPhone 4: Apple Is Sued After Complaints Of Reception Problems With The New Smartphone » (Archive • Wikiwix • Archive.is • Google • Que faire ?), Sky News, 2 juillet 2010, consulté le 4 juillet 2010
+↑ (en) Grenon, Andre, « Consumers sue Apple over iPhone antenna problems », Yahoo! News,‎ 1er juillet 2010 (consulté le 4 juillet 2010)
+↑ a et b (en) « Statement by Apple on iPhone 4 reception issues », Apple press info, Apple Inc.,‎ 2 juillet 2010 (lire en ligne)
+↑ (en) Miguel Helft, « Apple Acknowledges Flaw in iPhone Signal Meter », The New York Times,‎ 2 juillet 2010 (consulté le 2 juillet 2010)
+↑ « Antennagate : Mark Papermaster a quitté Apple », MacGénération,‎ 8 août 2010 (consulté le 8 août 2010)
+↑ (en) « Lab tests: Why Consumer Reports can't recommend the iPhone 4 » (Archive • Wikiwix • Archive.is • Google • Que faire ?), Consumer Reports, 12 juillet 2010, consulté le 12 juillet 2010
+↑ (en) « Apple’s Bumper case alleviates the iPhone 4 signal-loss problem » (Archive • Wikiwix • Archive.is • Google • Que faire ?), Consumer Reports, 13 juillet 2010, consulté le 13 juillet 2010
+↑ (en) « iPhone duct tape fix », sur CNN,‎ 13 juillet 2010 (consulté le 13 juillet 2010)
+↑ (en) John D. Sutter, « Bumper and all, Consumer Reports still doesn't recommend iPhone 4 », CNN,‎ 17 juillet 2010 (consulté le 17 juillet 2010)
+↑ (en) Ginny Mies, « iPhone 4: Why We’ve Reconsidered Its Rating », PC World,‎ 17 juillet 2010 (consulté le 17 juillet 2010)
+↑ (en) Melissa Singer, « iPhone 4 fault fails to surface for Sydney fans », The Age,‎ 31 juillet 2010 (consulté le 31 juillet 2010)
+↑ (en) Survey: Most iPhone 4 Users 'Very Satisfied' - Sarah Jacobsson Purewal, PCWorld, 5 août 2010
+↑ « En Chine, la vente de certains iPhone pourrait être interdite », sur RTL.fr (consulté le 20 juin 2016).
+↑ (en) « Privacy Scandal: NSA Can Spy on Smart Phone Data », Der Spiegel,‎ 7 septembre 2013
+↑ (en) Caroline Bankoff, « The NSA Can Read Everything on Your Cell Phone », New York Mag,‎ 9 septembre 2013
+↑ (en) « NSA Can Access Most Smartphone Data, Der Spiegel Reports », The Huffington Post,‎ 8 septembre 2013
+↑ a et b Jacob Appelbaum, Judith Horchert et Christian Stöcker, « Catalog Reveals NSA Has Back Doors for Numerous Devices », Der Spiegel,‎ 29 décembre 2013
+↑ (en) Jacob Appelbaum, Aaron Gibson, Claudio Guarnieri, Andy Müller-Maguhn, Laura Poitras, Marcel Rosenbach, Leif Ryge et Hilmar Schmundt, « The Digital Arms Race: NSA Preps America for Future Battle », Der Spiegel,‎ 17 janvier 2015
+↑ (en) Jacob Appelbaum, Aaron Gibson, Claudio Guarnieri, Andy Müller-Maguhn, Laura Poitras, Marcel Rosenbach, Leif Ryge et Hilmar Schmundt, « The Digital Arms Race: NSA Preps America for Future Battle - Part 2 », Der Spiegel,‎ 17 janvier 2015
+↑ (en) Russell Brandom, « New Snowden documents show how the GCHQ tracked iPhone users », The Verge,‎ 19 janvier 2015
+↑ (en) « Snowden Refuses to Use iPhone for Security Reasons », sputniknews.com,‎ 19 janvier 2015
+↑ J-C Verset, « Vie privée numérique: le smartphone est une vraie passoire », RTBF,‎ 21 janvier 2015
+↑ Julien L, « Vie privée numérique : le smartphone est une vraie passoire », Numerama,‎ 24 janvier 2015
+↑ (en) Stephen Musil, « Hackers claim to have defeated Apple's Touch ID print sensor », Cnet,‎ 22 septembre 2013
+↑ (en) Chaos Computer Club breaks Apple TouchID - Frank Rieger, Chaos Computer Club, 21 septembre 2013
+
+
+
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « IPhone 4 » (voir la liste des auteurs).
+
+Annexes[modifier | modifier le code]
+
+Sur les autres projets Wikimedia :
+
+IPhone, sur Wikimedia Commons
+
+
+Articles connexes[modifier | modifier le code]
+
+Jailbreak d'iOS
+Gestionnaire d'iPod
+iTunes
+
+Produits utilisant la même architecture[modifier | modifier le code]
+
+iPod touch
+iPad
+
+Liens externes[modifier | modifier le code]
+
+Page d'accueil d'iPhone sur le site Apple France
+Catégorie iPhone de l’annuaire DMOZ
+Schéma électrique de l'iPhone 5 (PDF 1,9MB)
+Schéma électrique de l'iPhone 4 (PDF 800KB)
+Schéma électrique de l'iPhone 3GS (PDF 700KB)
+Schéma électrique de l'iPhone 2G (RAR 800KB)
+Modes d'emploi pour iPhone Central Manuels
+
+
+
+
+
+
+v · m
+
+iOS
+
+
+
+
+
+Historique
+
+
+
+
+
+Appareils
+
+
+
+iPhone
+
+1re
+3G
+3Gs
+4
+4s
+5
+5c
+5s
+6
+6 Plus
+6s
+6s Plus
+SE
+
+
+iPod touch
+
+1re
+2e
+3e
+4e
+5e
+
+
+iPad
+
+1re
+2e
+3e
+4e
+Air
+Air 2
+Pro
+
+
+iPad mini
+
+1re
+2e
+3e
+
+
+
+
+
+
+
+Logiciel
+
+
+
+AirDrop
+AirPlay
+CarPlay
+Cocoa Touch
+Control Center
+Core Animation
+iOS
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+iTunes
+Notification Center
+SDK
+Siri
+Spotlight
+SpringBoard
+VoiceOver
+WebKit
+
+
+
+
+
+Apps intégrées
+
+
+
+Calendrier
+Contacts
+FaceTime
+Musique
+Vidéos
+Mail
+Plans
+Messages
+Kiosque
+Notes
+Wallet
+Santé
+Photo Booth
+Rappels
+Safari
+
+
+
+
+
+Apps d'Apple
+
+
+
+Cards
+Localiser mon iPhone
+Localiser mes Amis
+iBooks
+iLife
+
+GarageBand
+iMovie
+iPhoto
+
+
+iWork
+
+Keynote
+Numbers
+Pages
+
+
+
+
+
+
+
+Services
+
+
+
+Apple Pay
+App Store
+Game Center
+iAd
+iCloud
+iMessage
+iTunes Store
+MobileMe
+Multitâches
+Notifications Push
+
+
+
+
+
+Articles liés
+
+
+
+300-page bill
+Ax SoCs
+FairPlay
+iFund
+Jailbreak
+iOS upgrade refusal
+Histoire de l'iPhone
+Swift
+
+
+
+
+
+
+
+
+Apple Newton
+
+OS
+MessagePad
+
+
+
+
+
+
+
+
+
+
+
+v · m
+
+Apple
+
+
+Fondateurs
+
+
+
+Steve Jobs
+Steve Wozniak
+Ronald Wayne
+
+
+
+
+
+Dirigeants
+
+
+
+Tim Cook
+Eddy Cue
+Peter Oppenheimer (en)
+Phil Schiller
+Jonathan Ive
+Ron Johnson (en)
+Sina Tamaddon (en)
+Bob Mansfield
+
+
+
+
+
+Administration
+
+
+
+William Campbell (en)
+Millard Drexler (en)
+Al Gore
+Andrea Jung
+Arthur D. Levinson
+Ronald Sugar (en)
+
+
+
+
+
+Matériels
+
+
+
+Apple TV
+iPad
+
+mini
+Air
+Pro
+
+
+iPhone
+iPod
+
+Classic
+Mini
+Nano
+Shuffle
+Touch
+
+
+Apple Watch
+Mac
+
+iMac
+MacBook Air
+MacBook Pro
+Mini
+Pro
+
+
+
+
+
+
+
+Accessoires
+
+
+
+AirPort
+Cinema Display
+Souris
+
+Mighty Mouse
+Magic Mouse
+Magic Trackpad
+
+
+Clavier
+Time Capsule
+
+
+
+
+
+Logiciels
+
+
+
+Aperture
+Apple Music
+Bentō
+FileMaker Pro
+Final Cut Studio
+GarageBand
+iLife
+iOS
+iTunes
+iWork
+Logic Pro
+Mac OS X
+
+Server
+
+
+QuickTime
+Safari
+Xsan
+
+
+
+
+
+Magasins et services
+
+
+
+Apple Developer Connection
+Apple Music
+AppleCare
+Apple Pay
+Apple Store
+App Store
+Game Center
+iAd
+iBooks Store
+iTunes Store
+iWork.com
+MobileMe
+One to One
+ProCare
+
+
+
+
+
+Articles liés
+
+
+
+Garage Apple
+Campagnes publicitaires
+
+1984
+Get a Mac
+Switch
+Think different
+
+
+NeXT
+Typographies
+Écran Retina
+Liste des acquisitions d'Apple
+
+
+
+
+
+Histoire
+
+
+
+
+ Portail des télécommunications
+ Portail de l’informatique
+ Portail d’Apple
+ Portail des années 2000
+
+

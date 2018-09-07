@@ -1,0 +1,317 @@
+
+
+
+
+Peta Bumi
+
+
+Geografi adalah ilmu yang mempelajari tentang lokasi serta persamaan, dan perbedaan (variasi) keruangan atas fenomena fisik, dan manusia di atas permukaan bumi. Kata geografi berasal dari Bahasa Yunani yaitu gêo ("Bumi"), dan graphein ("tulisan", atau "menjelaskan").
+Geografi juga merupakan nama judul buku bersejarah pada subjek ini, yang terkenal adalah Geographia tulisan Klaudios Ptolemaios (abad kedua).
+Geografi lebih dari sekadar kartografi, studi tentang peta. Geografi tidak hanya menjawab apa, dan di mana di atas muka bumi, tapi juga mengapa di situ, dan tidak di tempat lainnya, kadang diartikan dengan "lokasi pada ruang." Geografi mempelajari hal ini, baik yang disebabkan oleh alam atau manusia. Juga mempelajari akibat yang disebabkan dari perbedaan yang terjadi itu.
+
+
+
+Daftar isi
+
+
+1 Pengertian menurut para ahli
+2 Konsep
+3 Pendekatan Geografi
+4 Prinsip dasar
+5 Prinsip pemetaan
+6 Sejarah
+7 Metode
+8 Cabang
+
+8.1 Geografi fisik
+8.2 Geografi manusia
+8.3 Geografi manusia-lingkungan
+8.4 Perencanaan dan Pengembangan Wilayah
+8.5 Ekologi budaya dan politik
+8.6 Penelitian risiko-bencana
+8.7 Geografi sejarah
+
+
+9 Teknik geografis
+
+9.1 Penginderaan Jauh
+9.2 Kartografi
+9.3 Sistem Informasi Geografis
+9.4 Metode kuantitatif geografi
+
+
+10 Bidang Terkait
+
+10.1 Perencanaan Kota dan Wilayah
+10.2 Ilmu wilayah
+
+
+11 Pendidikan tinggi
+12 Ahli geografi
+13 Lihat pula
+14 Referensi
+15 Pranala luar
+
+
+
+Pengertian menurut para ahli[sunting | sunting sumber]
+
+
+
+
+
+Bagian ini tidak memiliki referensi atau sumber tepercaya sehingga isinya tidak bisa dipastikan. Bantu perbaiki artikel ini dengan menambahkan referensi yang layak. Materi yang tidak memiliki sumber dapat dipertanyakan dan dihapus sewaktu-waktu oleh Pengurus.
+Tag ini diberikan tanggal Oktober 2013
+
+
+
+Eratosthenes (abad ke-1) 
+Geografi berasal dari kata geographica yang berarti penulisan atau penggambaran mengenai bentuk muka bumi
+Claudius Ptolomaeus 
+Geografi adalah suatu penyajian melalui peta dari sebagian dan seluruh permukaan bumi
+Ullman (1954) 
+Geografi adalah interaksi antar ruang.
+Strabo (1970) 
+Geografi erat kaitannya dengan faktor lokasi, karakterisitik tertentu dan hubungan antar wilayah secara keseluruhan. Pendapat ini kemudian disebut konsep Natural Attribute of Place
+Ekblaw dan Mulkerne 
+Geografi adalah ilmu pengetahuan yang mempelajari bumi, dan kehidupannnya, mempengaruhi pandangan hidup kita, makanan yang kita konsumsi, pakaian yang kita gunakan, rumah yang kita huni, dan tempat rekreasi yang kita nikmati
+Paul Vidal de La Blance 
+Geografi adalah studi tentang kualitas negara-negara, di mana penentuan suatu kehidupan tergantung bagaimana manusia mengelola alam ini
+Prof. Bintarto (1981) 
+Geografi mempelajari hubungan kausal gejala-gejala di permukaan bumi, baik yang bersifat fisik maupun yang menyangkut kehidupan makhluk hidup beserta permasalahannya melalui pendekatan keruangan, kelingkungan, dan regional untuk kepentingan program, proses, dan keberhasilan pembangunan.
+Hasil seminar dan lokakarya di Semarang (1988) 
+Geografi adalah ilmu yang mempelajari persamaan, dan perbedaan fenomena geosfer dengan sudut pandang kewilayahan, dan kelingkungan dalam konteks keruangan.
+Von Rithoffen 
+Geografi adalah studi tentang gejala, dan sifat-sifat permukaan bumi serta penduduknya yang disusun berdasarkan letaknya, dan mencoba menjelaskan hubungan timbal balik antara gejala-gejala, dan sifat tersebut.
+Haris (2012) 
+Geografi adalah suatu ilmu yang mengkaji segala aspek-aspek yang ada di permukaan bumi dengan konsep spasial untuk pemanfaatan pembangunan yang ada dipermukaan bumi.
+Bernhardus Varenius, Dalam karyanya yang berjudul GEOGRAPHIA GENERALIS, dia membagi geografi menjadi
+
+
+Geografi absolute
+Geografi relative
+Geografi komparatif
+
+Konsep[sunting | sunting sumber]
+
+Konsep Lokasi
+
+Konsep lokasi adalah konsep utama yang akan digunakan untuk mengetahui fenomena geosfer. Konsep lokasi dibagi atas:
+
+
+
+Lokasi absolut : lokasi menurut letak lintang, dan bujur bersifat tetap. Contoh : Indonesia terletak di antara 6°LU-11°LS, dan di antara 95°BT-141°BT.
+Lokasi relatif : lokasi yang tergantung pengaruh daerah sekitarnya, dan sifatnya berubah. Contoh: Indonesia terletak antara Benua Asia, dan Australia.
+
+
+
+
+Konsep Jarak
+
+Dalam kehidupan sosial ekonomi, jarak memiliki arti penting. Dalam geografi jarak dapat diukur dengan dua cara, yaitu jarak geometrik dinyatakan dalam satuan panjang kilometer, dan jarak waktu yang diukur dengan satuan waktu (jarak tempuh).
+
+Konsep Keterjangkauan
+
+Sulit atau mudahnya suatu lokasi untuk dapat dijangkau dipengaruhi oleh lokasi, jarak, dan kondisi tempat. Contoh: Surabaya–Jakarta bisa ditempuh dengan bus atau pesawat.
+
+Konsep Pola
+
+Pola merupakan tatanan geometris yang beraturan. Contoh, penerapan konsep pola adalah pola permukiman penduduk yang memanjang mengikuti jalan raya atau sungai.
+
+Konsep Geomorfologi
+
+Geomorfologi adalah ilmu yang mempelajari tentang bentuk permukaan bumi. Ilmu geografi tidak terlepas dari bentuk-bentuk permukaan bumi, seperti pegunungan, perbukitan, lembah, dan dataran. Hal inilah yang menyebabkan permukaan bumi merupakan objek studi geografi.
+
+Konsep Aglomerasi
+
+Aglomerasi merupakan kecenderungan pengelompokan suatu gejala yang terkait dengan aktivitas manusia. Misalnya pengelompokan kawasan industri, pusat perdagangan, dan daerah pemukiman.
+
+Konsep Nilai Kegunaan
+
+Manfaat yang diberikan oleh suatu wilayah di muka bumi pada makhluk hidup, tidak akan sama pada semua orang. Nilai kegunaan pun bersifat relatif. Misalnya pantai mempunyai nilai kegunaan yang tinggi sebagai tempat rekreasi bagi warga kota yang selalu hidup dalam keramaian, kebisingan, dan kesibukan.
+
+Konsep Interaksi Interdependensi
+
+Interaksi merupakan terjadinya hubungan yang saling mempengaruhi antara suatu gejala dengan gejala lainnya. Contohnya adalah perbedaan kondisi antara daerah pedesaan, dan perkotaan yang kemudian dapat menimbulkan suatu kegiatan interaksi seperti halnya penyaluran kebutuhan pangan, arus urbanisasi maupun alih teknologi.
+
+Konsep Diferensiasi Area
+
+Fenomena yang berbeda antara tempat yang satu dengan yang lain. Contoh: Areal pedesaan khas, dan corak persawahan.
+
+Konsep Keterkaitan Keruangan
+
+Keterkaitan antara suatu fenomena dengan fenomena lainnya merupakan suatu keterkaitan keruangan. Misalnya hubungan antara kemiringan lereng di suatu wilayah dengan ketebalan lapisan tanah serta hubungan antara daerah kapur dengan kesulitan air.
+Pendekatan Geografi[sunting | sunting sumber]
+
+Pendekatan Spasial (Keruangan)
+
+Analisis keruangan merupakan pendekatan yang khas dalam geografi karena merupakan studi tentang keragaman ruang muka bumi dengan menelaah masing-masing aspek-aspek keruangannya. Aspek-aspek ruang muka bumi meliputi faktor lokasi, kondisi alam, dan kondisi sosial budaya masyarakatnya. Dalam mengkaji aspek-aspek tersebut, seorang ahli geografi sangat memperhatikan faktor letak, distribusi (persebaran), interelasi serta interaksinya. Salah satu contoh pendekatan keruangan tersebut adalah sebidang tanah yang harganya mahal karena tanahnya subur, dan terletak di pinggir jalan. Pada contoh tersebut, yang pertama adalah menilai tanah berdasarkan produktivitas pertanian, sedangkan yang kedua menilai tanah berdasarkan nilai ruangnya yaitu letak yang strategis.
+
+Pendekatan Ekologi (Lingkungan)
+
+Pendekatan lingkungan didasarkan pada salah satu prinsip dalam disiplin ilmu biologi, yaitu interelasi yang menonjol antara makhluk hidup dengan lingkungannya. Di dalam analisis lingkungan geografi menelaah gejala interaksi, dan interelasi antara komponen fisikal (alamiah) dengan nonfisik (sosial). Pendekatan ekologi melakukan analisis dengan melihat perubahan komponen biotik, dan abiotik dalam keseimbangan ekosistem suatu wilayah. Misalnya, suatu padang rumput yang ditinggalkan oleh kawanan hewan pemakan rumput akan menyebabkan terjadinya perubahan lahan, dan kompetisi penghuninya.
+
+Pendekatan Regional (Kompleks Wilayah)
+
+Analisis kompleks wilayah membandingkan berbagai kawasan di muka bumi dengan memperhatikan aspek-aspek keruangan, dan lingkungan dari masing-masing wilayah secara komprehensif. Contohnya, wilayah kutub tentu sangat berbeda karakteristik wilayahnya dengan wilayah khatulistiwa.[1]
+Prinsip dasar[sunting | sunting sumber]
+Ada 4 prinsip utama dalam menganalisis gejala geosfer.
+
+Prinsip persebaran, artinya persebaran bentang alam di permukaan bumi tidak merata sehingga setiap wilayah akan berbeda dengan wilayah lain. Contohnya persebaran jumlah transmigran di Indonesia tidak merata, ada suatu wilayah yang jumlahnya besar dibandingkan dengan yang lain sesuai dengan luas wilayahnya.
+Prinsip interelasi, artinya fenomena geosfer yang satu mempunyai hubungan dengan fenomena geosfer yang lain, gejala yang satu berkaitan dengan gejala yang lain. Contohnya sebagian besar penduduk desa bermata pencaharian sebagai petani karena masih tersedianya lahan untuk digarap.
+Prinsip deskripsi, artinya untuk menggambarkan fenomena geosfer memerlukan deskripsi, melalui tulisan, tabel, gambar atau grafik. Contohnya peta persebaran lempeng tektonik di dunia.
+Prinsip korologi, artinya dengan menganalisis suatu wilayah berdasarkan ketiga prinsip sebelumnya maka suatu wilayah akan mempunyai karakteristik tertentu. Prinsip ini merupakan simbol dari geografi modern. Contohnya suhu udara di perkotaan lebih tinggi daripada di pedesaan. Hal ini disebabkan salah satunya karena banyaknya sinar matahari yang dipantulkan oleh bangunan-bangunan yang ada di perkotaan.
+
+Prinsip pemetaan[sunting | sunting sumber]
+
+
+
+
+
+
+
+Peta dunia Ptolemy yang disusun kembali dari Geographia Ptolemeus (sekitar 150) pada abad ke-15, mengindikasikan "Sinae" (Cina) di ekstrem kanan, luar pulau "Taprobane" (Sri Lanka, besar), dan "Aurea Chersonesus" (Asia Tenggara)
+Ptolemeus juga merancang, dan menyediakan petunjuk tentang cara membuat peta dunia yang dihuni (oikoumenè), dan provinsi Romawi. Pada bagian kedua dari buku Geographia ia memberikan daftar topografi yang diperlukan, dan keterangan untuk peta. Oikoumenè Nya membentang 180 derajat garis bujur dari kepulauan Canary di Samudra Atlantik ke Cina, dan sekitar 80 derajat lintang dari Arktik, India timur sampai jauh ke Afrika; Ptolemeus menyadari bahwa ia mengetahui hanya seperempat dari seluruh dunia .
+Sejarah[sunting | sunting sumber]
+Bangsa Yunani adalah bangsa yang pertama dikenal secara aktif menjelajahi geografi sebagai ilmu, dan filosofi, dengan pemikir utamanya Thales dari Miletus, Herodotus, Eratosthenes, Hipparchus, Aristotle, Dicaearchus dari Messana, Strabo, dan Ptolemy. Bangsa Romawi memberi sumbangan pada pemetaan karena mereka banyak menjelajahi negeri, dan menambahkan teknik baru. Salah satu tekniknya adalah periplus, deskripsi pada pelabuhan, dan daratan sepanjang garis pantai yang bisa dilihat pelaut di lepas pantai; contoh pertamanya adalah Hanno sang Navigator dari Carthaginia, dan satu lagi dari Laut Erythraea, keduanya selamat di laut menggunakan teknik periplus dengan mengenali garis pantai laut Merah, dan Teluk Persi.
+Pada Zaman Pertengahan, bangsa Arab seperti al-Idrisi, Ibnu Battuta, dan Ibnu Khaldun memelihara, dan terus membangun warisan bangsa Yunani, dan Romawi. Dengan perjalanan Marco Polo, geografi menyebar ke seluruh Eropa. Selama zaman Renaissance, dan pada abad ke-16, dan 17 banyak perjalanan besar dilakukan untuk mencari landasan teoritis, dan detail yang lebih akurat. Geographia Generalis oleh Bernhardus Varenius, dan peta dunia Gerardus Mercator adalah contoh terbesar.
+Setelah abad ke-18 geografi mulai dikenal sebagai disiplin ilmu yang lengkap, dan menjadi bagian dari kurikulum di universitas di Eropa (terutama di Paris, dan Berlin), tetapi tidak di Inggris di mana geografi hanya diajarkan sebagai sub-disiplin dari ilmu lain. Salah satu karya besar zaman ini adalah Kosmos: sketsa deskripsi fisik Alam Semesta, oleh Alexander vom Humboldt.
+Selama lebih dari dua abad kuantitas pengetahuan, dan perangkat pembantu banyak ditemukan di Indonesia[butuh rujukan]. Terdapat hubungan yang kuat antara geografi dengan geologi, dan botani, juga ekonomi, sosiologi, dan demografi.
+Di barat, selama abad ke-20, disiplin ilmu geografi melewati empat fase utama: determinisme lingkungan, geografi regional, revolusi kuantitatif, dan geografi kritis.
+Determinisme lingkungan adalah teori yang menyatakan bahwa karakteristik manusia, dan budayanya disebabkan oleh lingkungan alamnya. Penganut fanatik deteriminisme lingkungan adalah Carl Ritter, Ellen Churchill Semple, dan Ellsworth Huntington. Hipotesis terkenalnya adalah "iklim yang panas menyebabkan masyarakat di daerah tropis menjadi malas", dan "banyaknya perubahan pada tekanan udara pada daerah lintang sedang membuat orangnya lebih cerdas".
+Ahli geografi determinisme lingkungan mencoba membuat studi itu menjadi teori yang berpengaruh. Sekitar tahun 1930-an pemikiran ini banyak ditentang karena tidak mempunyai landasan, dan terlalu mudahnya membuat generalisasi (bahkan lebih sering memaksa). Determinisme lingkungan banyak membuat malu geografer kontemporer, dan menyebabkan sikap skeptis di kalangan geografer dengan klaim alam adalah penyebab utama budaya (seperti teori Jared Diamond).
+Geografi regional menegaskan kembali topik bahasan geografi pada ruang, dan tempat. Ahli geografi regional memfokuskan pada pengumpulan informasi deskriptif tentang suatu tempat, juga metode yang sesuai untuk membagi bumi menjadi beberapa wilayah atau region. Basis filosofi kajian ini diperkenalkan oleh Richard Hartshorne.
+Revolusi kuantitatif adalah usaha geografi untuk mengukuhkan dirinya sebagai ilmu (sains), pada masa kebangkitan interes pada sains setelah peluncuran Sputnik. Revolusioner kuantitatif, sering disebut "kadet angkasa", menyatakan bahwa kegunaan geografi adalah untuk menguji kesepakatan umum tentang pengaturan keruangan suatu fenomena. Mereka mengadopsi filosofi positifisme dari ilmu alam, dan dengan menggunakan matematika - terutama statistika - sebagai cara untuk menguji hipotesis. Revolusi kuantitatif merupakan landasan utama pengembangan Sistem Informasi Geografis.
+Walaupun pendekatan positifisme, dan pos-positifisme tetap menjadi hal yang penting dalam geografi, tetapi kemudian geografi kritis muncul sebagai kritik atas positifisme. Yang pertama adalah munculnya geografi manusia. Dengan latar belakang filosofi eksistensialisme, dan fenomenologi, ahli geografi manusia (seperti Yi-Fu Tuan) memfokuskan pada peran manusia, dan hubungannya dengan tempat.
+Pengaruh lainnya adalah geografi marxis, yang menerapkan teori sosial Karl Marx, dan pengikutnya pada geografi fenomena. David Harvey, dan Richard Peet merupakan geografer marxis yang terkenal. Geografi feminis, seperti pada namanya, menggunakan ide dari feminisme pada konteks geografis. Arus terakhir dari geografi kritis adalah geografi pos-modernis, yang mengambil ide teori pos-modernis, dan pos-strukturalis untuk menjelajahi konstruksi sosial dari hubungan keruangan.
+Metode[sunting | sunting sumber]
+Hubungan keruangan merupakan kunci pada ilmu sinoptik ini, dan menggunakan peta sebagai perangkat utamanya. Kartografi klasik digabungkan dengan pendekatan analisis geografis yang lebih modern kemudian menghasilkan Sistem Informasi Geografis (SIG) yang berbasis komputer.
+Geografer menggunakan empat pendekatan:
+
+Sistematis - Mengelompokkan pengetahuan geografis menjadi kategori yang kemudian dibahas secara global
+Regional - Mempelajari hubungan sistematis antara kategori untuk wilayah tertentu atau lokasi di atas planet.
+Deskriptif - Secara sederhana menjelaskan lokasi suatu masalah, dan populasinya.
+Analitis - Menjawab kenapa ditemukan suatu masalah, dan populasi tersebut pada wilayah geografis tertentu.
+
+Cabang[sunting | sunting sumber]
+Geografi fisik[sunting | sunting sumber]
+Artikel utama untuk bagian ini adalah: Geografi fisik
+Cabang ini memusatkan pada geografi sebagai ilmu bumi, menggunakan biologi untuk memahami pola flora, dan fauna global, dan matematika, dan fisika untuk memahami pergerakan bumi, dan hubungannya dengan anggota tata surya yang lain. Termasuk juga di dalamnya ekologi muka bumi, dan geografi lingkungan.
+Topik terkait: atmosfer - kepulauan - benua - gurun - pulau - bentuk muka bumi - samudera - laut - sungai - danau - ekologi - iklim - tanah - geomorfologi - biogeografi - garis waktu geografi, paleontologi - paleogeografi - hidrologi.
+Geografi manusia[sunting | sunting sumber]
+Artikel utama untuk bagian ini adalah: Geografi manusia
+Cabang geografi non-fisik juga disebut antropogeografi yang fokus sebagai ilmu sosial, aspek non-fisik yang menyebabkan fenomena dunia. Mempelajari bagaimana manusia beradaptasi dengan wilayahnya, dan manusia lainnya, dan pada transformasi makroskopis bagaimana manusia berperan di dunia. Bisa dibagi menjadi: geografi ekonomi, geografi politik (termasuk geopolitik), geografi sosial (termasuk geografi kota), geografi feminisme, dan geografi militer.
+Topik terkait: Negara-negara di dunia - negara - bangsa - negara bagian - perkumpulan individu - provinsi - kabupaten - kota - kecamatan
+Geografi manusia-lingkungan[sunting | sunting sumber]
+Selama masa determinisme lingkungan, geografi bukan merupakan ilmu tentang hubungan keruangan, tetapi tentang bagaimana manusia, dan lingkungannya berinteraksi. Walaupun paham determinisme lingkungan sudah tidak berkembang, masih ada tradisi kuat di antara geografer untuk mengkaji hubungan antar manusia dengan alam. Terdapat dua bidang pada geografi manusia-lingkungan: ekologi budaya, dan politik, dan penelitian risiko-bencana. Karakter manusia yang harus memenuhi kebutuhan hidupnya, maka harus melakukan penggunaan alam atau eksploitasi alam guna terpenuhinya kebutuhan hidup.
+Perencanaan dan Pengembangan Wilayah[sunting | sunting sumber]
+Cabang Geografi ini adalah cabang yang relatif baru. Dikembangkan pada sekitar tahun 1980-an oleh para Geografiwan Eropa, terutama dari Nederland. Saat kerjasama Universitas antar kedua negara dilakukan, sejumlah ahli Geografi asal Belanda ikut serta dalam program pencangkokan dosen di UGM. Hasilnya adalah lahirnya program studi baru bernama Program Studi Perencanaan Pengembangan Wilayah, dan sekarang lebih dikenal dengan Program Studi Pembangunan Wilayah. Sebelum berdiri menjadi disiplin tersendiri yang memadukan Ilmu Geografi dengan Ilmu Perencanaan Wilayah, proyek ini dikenal dengan nama Rural and Regional Development Planning (RRDP). Selain itu dapat dijelaskan bahwa perencanaan, dan pengembangan wilayah dapat berkaitan dengan ilmu-ilmu sosial terutama terkait dengan fenomena sosial yang terjadi di masyarakat, sehingga sangat bersinggungan dengan konsep-konsep, dan teori-teori sosial yang ada.
+Ekologi budaya dan politik[sunting | sunting sumber]
+Ekologi budaya muncul sebagai hasil kerja Carl Sauer pada geografi, dan pemikiran dalam antropologi. Ekologi budaya mempelajari bagaimana manusia beradaptasi dengan lingkungan alamnya. Ilmu keberlanjutan (sustainability) kemudian tumbuh dari tradisi ini. Ekologi poltik bangkit ketika beberapa geografer menggunakan aspek geografi kritis untuk melihat hubungan kekuatan alam, dan bagaimana pengaruhnya terhadap manusia. Misalnya, studi yang berpengaruh oleh Micahel Watts berpendapat bahwa kelaparan di Sahel disebabkan oleh perubahan sistem politik, dan ekonomi di wilayah itu sebagai hasil dari kolonialisme, dan menyebarnya praktik kapitalisme.
+Penelitian risiko-bencana[sunting | sunting sumber]
+Penelitian pada bencana dimulai oleh Gilbert F. Withe, yang mencoba memahami mengapa orang tinggal di dataran banjir yang mudah terkena bencana. Sejak itu, bidang ini berkembang menjadi multi disiplin dengan mempelajari bencana alam (seperti gempa bumi), dan bencana teknologi (seperti kebocoran reaktor nuklir). Geografer yang mempelajari bencana tertarik pada dinamika bencana, dan bagaimana manusia, dan masyarakat menghadapinya.
+Geografi sejarah[sunting | sunting sumber]
+Cabang ini mencari penjelasan bagaimana budaya dari berbagai tempat di bumi berkembang, dan menjadi seperti sekarang. Studi tentang muka bumi merupakan satu dari banyak kunci atas bidang ini - banyak disimpulkan tentang pengaruh masyarakat dahulu pada lingkungan, dan sekitarnya.
+
+Ada apa dibalik nama? Geografi sejarah, dan kampus Berkeley
+
+"Geografi Sejarah" tentu saja merupakan akibat timbal-balik dari geografi, dan sejarah. Tetapi di Amerika Serikat, mempunyai arti yang yang lebih spesifik. Nama ini dikenalkan oleh Carl Ortwin Sauer dari Universitas California, Berkeley dengan programnya mereorganisasi geografi budaya (beberapa orang menyebutkan semua geografi) pada semua wilayah, dimulai pada awal abad ke-20.
+Bagi Sauer, muka bumi, dan budaya di atasnya hanya bisa dipahami jika mempelajari semua pengaruhnya (fisik, budaya, ekonomi, politik, lingkungan) menurut sejarah. Sauer menekankan kajian wilayah sebagai satu-satunya cara untuk mendapatkan kekhususan pada wilayah di atas bumi.
+Filosofi Sauer merupakan pembentuk utama pemikiran geografi di Amerika pada pertengahan abad ke-20. Sampai sekarang kajian wilayah masih menjadi bagian departemen geografi di kampus-kampus di AS. Tetapi banyak geografer beranggapan ini akan membahayakan ilmu geografi itu sendiri untuk jangka panjang: penyebabnya adalah terlalu banyak pengumpulan data, dan klasifikasi, sementara analisis, dan penjelasannya terlalu sedikit. Studi ini menjadi lebih spesifik pada wilayah sementara geografer angkatan berikutnya berusaha mencari nama yang tepat untuk ini. Mungkin ini yang menyebabkan krisis 1950-an pada geografi yang hampir menghancurkannya sebagai disiplin akademis.
+Teknik geografis[sunting | sunting sumber]
+Penginderaan Jauh[sunting | sunting sumber]
+Penginderaan Jauh merupakan terjemahan dari istilah remote sensing, adalah ilmu, teknologi, dan seni dalam memperoleh informasi mengenai objek atau fenomena di (dekat) permukaan bumi tanpa kontak langsung dengan objek atau fenomena yang dikaji, melainkan melalui media perekam objek atau fenomena yang memanfaatkan energi yang berasal dari gelombang elektromagnetik, dan mewujudkan hasil perekaman tersebut dalam bentuk citra. Pengertian 'tanpa kontak langsung' di sini dapat diartikan secara sempit, dan luas. Secara sempit berarti bahwa memang tidak ada kontak antara objek dengan analis, misalnya ketika data citra satelit diproses, dan ditransformasi menjadi peta distribusi temperatur permukaan pada saat perekaman. Secara luas berarti bahwa kontak dimungkinkan dalam bentuk aktivitas 'ground truth', yaitu pengumpulan sampel lapangan untuk dijadikan dasar pemodelan melalui interpolasi, dan ekstrapolasi pada wilayah yang jauh lebih luas, dan pada kerincian yang lebih tinggi.
+Pada awalnya penginderaan jauh kurang dipandang sebagai bagian dari geografi, dibandingkan kartografi. Meskipun demikian, lambat laun disadari bahwa penginderaan jauh merupakan satu-satunya alat utama dalam geografi yang mampu memberikan synoptic overview—pandangan secara ringkas namun menyeluruh—atas suatu wilayah sebagai titik tolak kajian lebih lanjut. Penginderaan jauh juga mampu menghasilkan berbagai macam informasi keruangan dalam konteks ekologis, dan kewilayahan yang menjadi ciri kajian geografis. Di samping itu, dari sisi persentasenya, pendidikan penginderaan jauh di Amerika Serikat, Australia, dan Eropa lebih banyak diberikan oleh bidang ilmu (departemen, 'school' atau fakultas) geografi.
+Dari segi metode yang digunakan, dikenal metode penginderaan jauh manual atau visual, dan metode penginderaan jauh digital. Penginderaan jauh manual memanfaatkan citra tercetak atau 'hardcopy' (foto udara, citra hasil pemindaian scanner di pesawat udara maupun satelit) melalui analisis, dan interpretasi secara manual/visua]. Penginderaan jauh digital menggunakan citra dalam format digital, misalnya hasil pemotretan kamera digital, hasil pemindaian foto udara yang sudha tercetak, dan hasil pemindaian oleh sensor satelit, dan menganalisisnya dengan bantuan komputer. Baik metode manual maupun digital menghasilkan peta, dan laporan. Peta hasil metode manual dapat dikonversi menjadi peta tematik digital melalui proses digitisasi (sering diistilahkan digitasi).
+Metode manual kadangkala juga dilakukan dengan bantuan komputer, yaitu melalui proses interpretasi di layar monitor (on-screen digitisation), yang langsung menurunkan peta digital. Metode analisis citra digital menurunkan peta tematik digital secara langsung. Peta-peta digital tersebutd dapat di-'lay out', dan dicetak untuk menjadi produk kartografis (disebut basis dat kartografis), namun dapat pula menjaid masukan (input) dalam suatu sistem informasi geografis sebagai basis data geografis. Peta-peta itu untuk selanjutnya menjaid titik toak para geografiwan dalam menjalankan kajian geografinya.
+Kartografi[sunting | sunting sumber]
+Kartografi atau pemetaan mempelajari representasi permukaan bumi dengan simbol abstrak. Bisa dibilang, tanpa banyak kontroversi, kartografi merupakan penyebab meluasnya kajian geografi. Kebanyakan geografer mengakui bahwa ketertarikan mereka pada geografi dimulai ketika mereka terpesona oleh peta pada masa kecil mereka. walaupun subdisiplin ilmu geografi lainnya masih bergantung pada peta untuk menampilkan hasil analisisnya, pembuatan peta itu sendiri masih terlalu abstrak untuk dianggap sebagai ilmu terpisah.
+Kartografi berkembang dari kumpulan teknik menggambar menjadi bagian sebuah ilmu. Seorang kartografer harus memahami psikologi kognitif, dan ergonomi untuk membuat simbol apa yang cocok untuk mewakili informasi tentang bumi yang bisa dimengerti orang lain secara efektif, dan psikologi perilaku untuk memengaruhi pembaca memahami informasi yang dibuatnya. Mereka juga harus belajar geodesi, dan matematika yang tidak sederhana untuk memahami bagaimana bentuk bumi berpengaruh pada penyimpangan atau distorsi dari proses proyeksi ke bidang datar.
+Sistem Informasi Geografis[sunting | sunting sumber]
+Sistem Informasi Geografis membahas masalah penyimpanan informasi tentang bumi dengan cara otomatis melalui komputer secara akurat secara informasi. Sebagai tambahan pada subdisiplin ilmu geografi lainnya, spesialis SIG harus mengerti ilmu komputer, dan sistem database. SIG memacu revolusi kartografi sehingga sekarang hampir semua pembuatan peta dibuat dengan piranti lunak (software) SIG.
+Metode kuantitatif geografi[sunting | sunting sumber]
+Metode kuantitatif geografi membahas metode numerik yang khas (atau paling tidak yang banyak ditemukan) dalam geografi. Sebagai tambahan pada analisis keruangan, anda mungkin akan menemukan analisis klaster, analisis diskriminan, dan uji statistik non-parametris pada studi geografi.
+Bidang Terkait[sunting | sunting sumber]
+Perencanaan Kota dan Wilayah[sunting | sunting sumber]
+Perencanaan kota, dan wilayah menggunakan ilmu geografi untuk membantu mempelajari bagaimana membangun (atau tidak membangun) suatu lahan menurut kriteria tertentu, misalnya keamanan, keindahan, kesempatan ekonomi, perlindungan cagar alam tau cagar budaya, dsb. Perencanaan kota, baik kota kecil maupun kota besar, atau perencanaan pedesaan mungkin bisa dianggap sebagai geografi terapan walau mungkin terlihat lebih banyak seni, dan pelajaran sejarah. Beberapa masalah yang dihadapi para perencana wilayah di antaranya adalah eksodus masyarakat desa, dan kota, dan Pertumbuhan Pintar (Smart Growth).
+Ilmu wilayah[sunting | sunting sumber]
+Pada tahun 1950-an, gerakan ilmu wilayah muncul, dipimpin oleh Walter Isard untuk menghasilkan lebih banyak dasar kuantitatif, dan analitis pada masalah geografi, sebagai tanggapan atas pendekatan kualitatif pada program geografi tradisional. Ilmu wilayah berisi pengetahuan bagaimana dimensi keruangan menjadi peran penting, seperti ekonomi regional, pengelolaan sumber daya, teori lokasi, perencanaan kota, dan wilayah, transportasi, dan komunikasi, geografi manusia, persebaran populasi, ekologi muka bumi, dan kualitas lingkungan.
+Pendidikan tinggi[sunting | sunting sumber]
+Di Indonesia, perguruan tinggi yang membuka program studi Geografi sebagai ilmu murni hanya empat perguruan tinggi negeri, yaitu Universitas Indonesia (UI), UGM (Universitas Gadjah Mada),UNP (Universitas Negeri Padang), dan UM (Universitas Negeri Malang), dan satu perguruan tinggi swasta (Universitas Muhammadiyah Surakarta). Sedangkan program studi Pendidikan Geografi ada di 45 perguruan tinggi.
+UGM, Geografi telah berkembang lebih jauh sehingga menjadi Fakultas tersendiri sejak tahun 1963, yaitu Fakultas Geografi. Saat ini telah mempunyai jenjang pendidikan tinggi dari D3 (diploma) Penginderaan Jauh, dan SIG, S1, S2, dan S3. Fakultas Geografi UGM juga mempelajari ilmu Perencanaan, dan Pengembangan wilayah.
+Di UI, Geografi menjadi jurusan dari Fakultas Matematika, dan Ilmu Pengetahuan Alam (MIPA). Geografi dipelajari sebagai bagian terapan ilmu-ilmu murni sejajar dengan Matematika, Fisika, Kimia, dan Biologi.
+Fakultas Geografi UMS didirikan oleh sejumlah alumni, dan dosen Fakultas Geografi UGM. Para Alumni Pendidikan Tinggi Geografi kemudian membentuk sebuah asosiasi profesi yang disebut dengan Ikatan Geografiwan Indonesia (IGI). Disamping itu, dalam wadah yang lebih sempit, para Geografiwan dari UGM juga mempunyai wadah Ikatan Geografiwan Universitas Gadjah Mada (disingkat IGEGAMA).
+Bakosurtanal, salah satu Lembaga Pemerintah Non Departemen (LPND) berkumpul banyak alumni Geografi, baik dari UI, UGM maupun UMS.
+Ahli geografi[sunting | sunting sumber]
+Artikel utama untuk bagian ini adalah: Daftar Ahli Geografi
+
+Aziz Ab'Saber
+Alexander Dalrymple
+Eberhard August Wilhelm von Zimmermann
+Heinrich Schliemann
+Prince Roland Bonaparte
+
+Lihat pula[sunting | sunting sumber]
+
+Fakta geografi dunia
+
+Referensi[sunting | sunting sumber]
+
+
+^ Utoyo, Bambang. 2007. Geografi:Membuka Cakrawala Dunia untuk SMA dan MA Kelas X. Bandung: Setia Purna. Hlm. 13.
+
+
+Pranala luar[sunting | sunting sumber]
+
+
+
+
+Portal Geografi
+
+
+
+
+(Indonesia) Badan Koordinasi Survei dan Pemetaan Nasional (Bakosurtanal)
+(Indonesia) Lembaga Antariksa dan Penerbangan Nasional (Lapan)
+(Indonesia) Badan Meteorologi dan Geofisika (BMG)
+(Indonesia) Ensiklopedia Geografi Online - SekolahVirtual
+(Indonesia) Buana Katulistiwa (BK) Lembaga Aplikasi Geografi Indonesia
+(Indonesia) Geografiana - Situs Geografi Populer Indonesia
+
+
+
+
+
+
+
+
+
+l
+b
+s
+
+
+Cabang utama dalam Ilmu sosial
+
+
+
+
+
+
+
+Antropologi  · Komunikasi  · Studi budaya · Demografi · Ekonomi · Akuntansi · Pendidikan · Gerontologi · Sejarah  · Geografi manusia  · Ilmu pengetahuan informasi · Pengembangan international  · Hukum · Linguistik  · Manajemen · Studi media · Ilmu politik · Psikologi  · Karya sosial · Sosiologi
+
+
+
+
+
+
+
+Portal · Indeks · Publikasi
+
+
+
+
+
+
+

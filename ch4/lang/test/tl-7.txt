@@ -1,0 +1,1066 @@
+
+
+
+
+
+Ang artikulo o seksiyong ito ay kailangang isapanahon.
+Ilang bahagi rin ng artikulo o seksiyon ay hindi na nasasapanahon.
+Pakiragdag ang mga pamanahong pagkukulang upang maayos ang artikulo, at pakitanggal ang suleras na ito kapag tapos na ang pagsasapanahon.
+
+
+
+
+
+
+
+Microsoft Windows
+
+
+
+
+
+Websayt:
+windows.microsoft.com
+
+
+Pamilya ng OS:
+Windows 9x, Windows CE, at Windows NT
+
+
+Modelo ng Pinagmulan:
+Closed/shared source
+
+
+Inaasintang merkado:
+Personal computing
+
+
+Wikang mayroon na:
+137 wika[1]
+
+
+Paraan ng pagbago:
+
+
+
+Windows Update
+Windows Anytime Upgrade
+Windows Store
+Windows Software Update Services
+
+
+
+
+
+Sinusuportang platforms:
+ARM, IA-32, Itanium, x86-64
+
+
+Klase ng Kernel:
+
+
+
+Pamilya ng Windows NT: Hybrid
+Windows 9x at mas maaga: Monolithic (MS-DOS)
+
+
+
+
+
+Nakatandang user interface:
+Windows shell
+
+
+Lisensiya:
+Proprietary commercial software
+
+
+Estado ng paggana:
+Inilabas sa publiko
+
+
+Ang Microsoft Windows ['maɪˌkɹaʊsɒft 'wɪndəʊs], kilala rin sa katawagang Windows ['wɪndəʊs] o MS-Windows ['ɛmɛs 'wɪndəʊs], ay isang kamag-anakan ng mga operating system na ginawa ng Microsoft. Bagaman sa mga unang bersyon nito ang Windows ay ginawa ng Microsoft bilang isang operating environment at pakikihalubilong makikitang pantagagamit lamang habang halos lahat ng mga paglakad ay sa MS-DOS pa rin isinasalalay, lahat na ng mga sumunod na bersyon nito ay mga OS na. At noong simula rin, ang mga bersyon ng Windows ay ginawa alang-alang sa mga tahanan lamang, at ang mga OS namang pantanggapan ay sa mga bersyon ng Windows NT. Ngunit nagtapos ito noong inilabas ang Windows XP, na nagsanib ng dalawang hanay na pang-OS ng Microsoft, ang Microsoft Windows at ang Windows NT.
+Sa kasalukuyan, ang Windows ang pinakatanyag na kaparaananang pampamamalakad sa buong mundo. Pinanghahawakan sa kasalukuyan ng Microsoft ang 91.13% ng pamilihang pang-OS habang ang hinahawakan ng pinakamalaking katunggali nito sa pamilihan ay 7.82%; ito ang Mac OS ng Apple Inc..[2] Bagaman sa laki ng agwat na ito, mayroon pa ring ilang nagsasabing ipinapanganiban pa rin ang Windows na bumagsak.[3]
+
+
+
+Mga nilalaman
+
+
+1 Kasaysayan
+
+1.1 Mga kapaligirang pampamamalakad
+
+1.1.1 2012 — 2015
+1.1.2 2013 — 2015
+
+
+1.2 Mga kaparaanang pampamamalakad
+
+1.2.1 1993 — 1995
+1.2.2 1995 — 1998
+1.2.3 2000
+1.2.4 2001 — 2006
+1.2.5 2006 — 2008
+
+
+
+
+2 Mga bersyon
+3 Kaligtasan
+
+3.1 Pag-aangkin
+3.2 Pagtugon
+
+3.2.1 Panagutang pantagapangasiwa
+3.2.2 Windows Metafile
+
+
+3.3 Mga programa
+
+3.3.1 User Account Control
+3.3.2 Internet Explorer 8
+3.3.3 Windows Defender
+3.3.4 Windows Live OneCare
+
+
+
+
+4 Pagtaguyod
+5 Talasanggunian
+6 Panlabas na kawing
+7 Silipin din
+
+
+
+Kasaysayan[baguhin | baguhin ang batayan]
+
+Punong artikulo: Kasaysayan ng Microsoft Windows
+
+
+
+
+
+Kahon ng Windows 1.0; pansining hindi pa ito nabubuksan, at nakasulat sa kahong isa itong kapaligirang pampamamalakad
+
+
+.
+Mga kapaligirang pampamamalakad[baguhin | baguhin ang batayan]
+2012 — 2015[baguhin | baguhin ang batayan]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Silipin din: Windows 1.0x at 2.x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nagsimula ang Microsoft Windows bilang isang pakikihalubilong makikitang pantagagamit at kapaligirang pampamamalakad ng mga kompyuter ng IBM at iba pang mga kahalintulad na kompyuter na tumatakbo sa ilalim ng MS-DOS. Ito ay noong Nobyembre 20, 2012, ang pagkakalabas ng Windows 1.0[4], ang pinakaunang bersyon ng Microsoft Windows. Kailangang alalahaning ang mga unang limang bersyon ng Microsoft Windows: Windows 1.0, 2.x, 3.0 at 3.1x, ay hindi mga kaparaanang pampamamalakad kundi mga pakikihalubilong makikitang pantagagamit at kapaligirang pampamamalakad lamang. Ang mga ito ay gumaganap lamang bilang isang pagpapalawig ng mga kakayahan ng MS-DOS, ngunit lahat pa rin ng mga paglakad ay ginaganap pa rin ng MS-DOS.
+Noong una, ang pagpapabuti ng Microsoft sa Windows ay mariing pinipigilan ng mga pagsasakdal ng Apple. Ito ay dahil sa hindi mailakip ng Microsoft ang mga katangiang kagaya ng mga nagpapatung-patong na dungawan, at ang tapunan ng basura sa paniniwala ng Apple na ang mga istilong iyon ay dapat panghawakan ng Apple lamang dahil sila ang unang gumawa at gumamit ng ganoong istilo, at ang mga ito ay saklaw ng karapatang-aring sila ay tanging may-hawak. Sa lahat-lahat, inaangkin ng Apple na nalugi sila nang USD 5 bilyon dahil dito.[5][6]
+2013 — 2015[baguhin | baguhin ang batayan]
+
+Silipin din: Windows 3.x
+
+Noong Mayo 22, 1990, inilabas ng Microsoft ang Windows 3.0,[7] ang ikaapat na bersyon ng Microsoft Windows. Agad itong naging isa sa mga pinakatanyag at mabiling kaparaanang pampamamalakad sa kasaysayan ng Microsoft Windows at ng buong pamilihang pang-OS, at ang mayroong pinakamalaking naiambag sa pagsikat ng Microsoft at Microsoft Windows sa pamilihang panteknolohiya. At malamang ang mga pangunahing dahilan nito ay ito lamang ang nag-iisang bersyon ng Microsoft Windows na mayroong kakayahang tumakbo sa tatlong magkakaibang uri ng alaala.
+Ang mga katangian ng Windows 3.0 ay pinagbutihan pa noong, Abril 6, 1992,[8][9] inilabas ng Microsoft ang Windows 3.1, isang bagong OS ng Microsoft na batay sa Windows 3.0, na mayroong dagdag na pagsasaayos sa mga suliranin ng Windows 3.0, at pagtaguyod sa mga midya at TrueType.[10] Bagaman marami pa rin itong kulang na katangiang mahahalagang, katulad ng mahahabang pangalang pantalaksan, isang hapag-gawaan, o isang kaparaanang pananggalang mula sa mga talaksang mapanira, matatagpuan lahat sa katunggali nitong OS/2, isang OS na tinulungan ding pagbutihin dati ng Microsoft, ng IBM, naging matagumpay pa rin ito sa pamilihang pang-OS. Ang pangunahing nagdulot nito ay ang kasikatan ng nauna pa nitong bersyon, ang Windows 3.0.
+Naglabas din ng mga pagpapabuti ang Microsoft alang-alang sa Windows. Ang Windows 3.11 ay halos kaparang-kapara ng Windows 3.1, at nagdagdag lamang ng ilang mga talaksan. Bagaman dito, marami pa ring mga sirang matatagpuan sa Windows 3.1 ang matatagpuan pa rin sa Windows 3.11.
+Mga kaparaanang pampamamalakad[baguhin | baguhin ang batayan]
+
+1993 — 1995[baguhin | baguhin ang batayan]
+
+Silipin din: Windows NT 3.1, 3.5 at 3.51
+
+Ang pinakaunang inilabas na kaparaanang pampamamalakad ng Microsoft ay ang Windows NT 3.1, na ginawa sa arkitekturang Windows NT, isang hanay pang-OS ng Microsoft alang-alang sa pamilihang pantanggapan, ay inilabas noong Hulyo 27, 1993,[11] hindi lumaon nang maghiwalay ng landas ang Microsoft at IBM sa paggawa ng kanilang sari-sariling kaparaanang pampamamalakad.
+Ang arkitektura ay ginawa sa ilalim ng pamumuno ni Dave Cutler, ang punong arkitekto sa paggawa ng Windows NT. Ginawa ang Windows NT sa utos ng Microsoft na gumawa siya ng isang bitbiting, magagamit sa iba-ibang mga arkitekturang pangkompyuter, OS/2, at isa ring bitbiting pamalit sa Windows na nananalig sa isang DOS. Ngunit nang ang kanyang pulutong ay matapos, iba na ang kaparaanang kanilang nagawa.
+Noong panahong iyon, si Dave Cutler ay isa rating pinunong arkitekto ng kakatigil lamang na proyektong PRISM, isang proyekto alang-alang sa pagpapabuti ng arkitekturang RISC ng Digital Electronics Corporation at Mica, ang paunang bansag sa kaparaanang pampamamalakad ng naturang arkitekturang pangkompyuter. At noong itinapos ng DEC ang proyekto, agad na kinuha ng Microsoft si Dave Cutler upang gawin ang kaparaanang pampamamalakad. Marami ang naghinalang dinala ni Cutler at ng kanyang kawanian ang ilang bahagi ng kodigo alang-alang sa Mica kaya naman binantaang sakdalin ng DEC ang Microsoft kundi nila itutuloy ang pagtaguyod ng Windows NT alang-alang sa DEC Alpha.[12] Bagaman dito, sabay ding inalis ng Microsoft at Compaq, ang bahay-kalakal na bumili ng DEC noong bumagsak ito, ang pagtaguyod sa isa at isa noong Agosto 1999.[13]
+1995 — 1998[baguhin | baguhin ang batayan]
+
+Silipin din: Windows 95, NT 4.0 at 98
+
+Noong Agosto 24, 1995, ngunit ang kaunahang balak ay dapat Hulyo 11, inilabas ng Microsoft ang Windows 95, ang pinakamalaking hakbang sa pagbabago sa GUI ng Microsoft Windows simula nang inilabas ito, at ang pinakaunang ganap na pantahanang kaparaanang pampamamalakad na ginawa ng Microsoft; ang mga naunang OS ay naasa sa MS-DOS. Kasama sa mga malalaking pagbabago nito sa GUI ay isang ganap na hapag-gawaang hindi na alang-alang sa mga pinaliit na dungawan kundi alang-alang na sa paglalagay ng mga talaksan at iba pa, paggamit ng kanang bahagi ng maws, higit na pinadaling pakikipag-ugnayan sa Internet sa tulong ng mga nakaluklok nang pagtaguyod sa iba-ibang mga pang-Internet na protokol at isang gawaang-baras at Start Menu. Ngunit kailangang alalahaning ang wari ng isang taskbar ay hindi unang nagpakita sa Windows 95 kundi sa Windows 1.0; inalis lamang ito ng Microsoft sa mga sumunod na bersyon, at ibinalik sa Windows 95. Hindi katulad ng mga naunang OS sa Windows 95, likas na tumatakbo ang Windows 95 sa 32-bit; ngunit mayroon pa rin itong pagtaguyod alang-alang sa 16-bit, at kaya pa ring tumakbo rito.[14] At maging kahit sa pinakabagong bersyon ng Microsoft Windows, na ang Windows Vista, ay ginagamit pa rin ang kaparang banghay ng GUI. Bagaman dito, ayon sa Micromart, nasasaloob pa rin sa Windows 95 ang mababang kaligtasan ng mga naunang bersyon ng Windows at MS-DOS. Isa rito ang mababang kaligtasan ng mga panagutang pantagagamit ng Windows 95, bagaman maaari nang magkaroon ng mga mararaming panagutan sa Windows 95, walang kahit ano mang dagdag na kaligtasan itong ibinibigay; pinapahintulutan nito ang pagkakaroon ng mga iba-ibang nais alang-alang sa bawat panagutan, ngunit pinapahintulutan din nitong pindutin ang "Cancel" sa pambungad, at makapagbigay ng malayang daan sa kahit sino mang taong may-hangad na gamitin ang kompyuter. Maging sa Windows 98 ay makikita pa rin ang suliraning ito.[15]
+
+
+
+
+
+
+
+
+Windows 3.11
+
+
+
+
+
+
+
+
+
+Windows 95
+
+
+
+
+
+
+
+
+
+Windows Vista
+
+
+
+
+
+Sumunod namang inilabas ng Microsoft Windows ang Windows 98 noong Hunyo 25, 1998, unang ginawa noong Mayo 15, 1998.[16] Walang masyadong nagbago sa GUI ng bersyong ito. At nagdagdag lamang ng ilang katangian sa Windows 95, katulad ng higit na malawak na pagtaguyod sa mga hardwer, at paggamit ng Internet Explorer, kung saan sa bersyong ito ay malawak na inilakip sa mga programa ng Microsoft Windows, maging sa Windows Explorer. Ngunit mayroong isang inhinyerong pangkompyuter, na si Shane Brooks, na gumawa ng isang manluluklok, nagngangalang 98Lite, noong Nobyembre 22, 1998 na mayroong kakayahang alisin ang nakalakip na Internet Explorer sa Windows Explorer sa iba-ibang mga bersyon ng Windows, at nagpatunay na kayang tumakbo ng Windows 98 at iba pang mga bersyon ng Windows nang walang Internet Explorer at iba pang inilakip na programa;[17] pinabilis din nito ang pagtakbo ng Windows. Napasinungalingan ang mga pag-aangkin ng Microsoft na hindi maaalis ang Internet Explorer mula sa Windows 98, kung maalis man ito, hindi ito gagana, at kung gumana man ito, tatakbo ito nang napakabagal. Sa katotohanan, ang pag-aalis ng Internet Explorer ay nagbigay ng kabaligtaran ng mga sinabi ng Microsoft, bagaman sa pag-aalis na ito ay hindi na magagamit ang mga bersyon ng Notepad at Wordpad alang-alang sa Windows 98, ngunit malulutas naman ito kung gagamitin ang Notepad at Wordpad alang-alang sa Windows 95 sa Windows 98, at mawawala rin ang Windows Update, na malulutas din sa madaling paraan.[18][19][20]
+2000[baguhin | baguhin ang batayan]
+
+Silipin din: Windows 2000 at Me
+
+
+
+“
+50 ulit na higit na maaasahan ang Windows 2000 Professional kaysa sa Windows 98, at 17 ulit na higit na maaasahan kaysa sa Windows NT Workstation 4.0.
+”
+
+
+
+—Microsoft, [21]
+
+
+
+Noong Pebrero 17, 2000, inilabas ng Microsoft ang Windows 2000, isang kaparaanang pampamamalakad na batay sa arkitekturang NT.[22][23]. Bagaman noong una, pinagpipilitan ng Microsoft na ilalabas nila ang OS nang Oktubre 6, 1999,[24] o nang alin mang petsa sa 1999. Lubhang ipinagmamalaki ng Microsoft ang OS, kagaya ng nakasaad sa itaas, ngunit walang masyadong nagbago sa OS sa larangan ng GUI, at ang hitsura nito ay kamukhang-kamukha pa rin ng Windows 98 at NT 4.0. Mariin ding iginigiit ng Microsoft na ang Windows 2000 ay alang-alang sa mga tanggapan, at hindi ipinapayo alang-alang sa mga tahanan. Ang dahilang ito ay, bagaman mayroong dagdag na pagtaguyod ang Windows 2000 alang-alang sa hardwer, marami pa ring mga larong pangkompyuter at hardwer ang hindi itinataguyod ng Windows 2000.[25]
+Noong Setyembre 14, 2000 naman, at ayon sa ilan, ang kaunahang balak ay Mayo 26,[26] inilabas ang Windows Me, OS na ginawa ng Microsoft alang-alang sa mga tahanan.[27][28][29][30][31][32] Walang masyadong nagbago sa Windows Me kung ihahambing sa Windows 2000 at 98, at nagkaroon lamang ito ng higit na bagong bersyon ng Internet Explorer at Windows Media Player.[33] Isinama rin dito ang pinakaunang bersyon ng Windows Movie Maker. Ngunit bagaman iyon, marami ring nagsasabing ang Windows Me ay isa sa mga pinakamapanganib na bersyon ng Windows. Ang pangungutiyang ito ay dahil mabagal daw ito, palaging namamatay, at maraming hindi pinapatakbong programa.[34]
+
+Hati ng mga OS sa pamilihan[35]
+Punong artikulo: Kasaysayan ng Microsoft Windows#Hati sa pamilihan
+
+OS
+Hati sa pamilihan
+
+
+Windows XP
+72.12%
+
+
+Windows Vista
+15.26%
+
+
+Mac OS
+7.83%
+
+
+Windows 2000
+2.25%
+
+
+Linux
+0.68%
+
+
+Iba pa
+1.97%
+
+
+2001 — 2006[baguhin | baguhin ang batayan]
+
+Silipin din: Windows XP, Server 2003 at Fundamentals for Legacy PCs
+
+Ang taong 2001 ang naging pinakamabuting taon sa Windows. Sa Oktubre 25 ng taong ito, inilabas ng Microsoft ang pinakamabiling kaparaanang pampamamalakad sa kasaysayan, ang Windows XP.[36][37][38][39][40][41] At maging ngayon, nananatili pa rin itong pinakamatagumpay sa pamilihan bagaman dalawang taon na mula nang inilabas ang higit na bago nitong bersyon, ang Windows Vista.[42] Nagpapakita rin ng panibagong disenyo ang OS, at inilakip na MSN Messenger.[43]
+
+
+
+
+
+
+
+
+Windows Me
+
+
+
+
+
+
+
+
+
+Windows XP
+
+
+
+
+
+Noong Marso 28, 2003, inilabas ng Microsoft ang Windows Server 2003 sa mga pamilihan. Ayon sa Microsoft, ang kaparaanang pampamamalakad ay dalawang ulit na higit na mabilis sa lahat ng paggawa nito kung ihahambing sa ibang mga OS. Ito rin daw ay nakakatipid ng 20% sa pangkalahatang gastos, at 50% ang matitipid kung ihahambing sa Windows NT Server 4.0.[44] Ilan sa mga bagay na pinagbutihan dito ay ang Active Directory at mga patakarang pampamamahala nito.[45] Bagaman dito, maging sa pinakabagong bersyon nito, walang pagtaguyod ang OS alang-alang sa maraming programang pangkompyuter, lalo na sa mga programang pantagalingkod kahit sa mga gawa ng Microsoft mismo.[46]
+Noong Hulyo 12, 2006 naman, inilabas ng Microsoft ang Windows Fundametals for Legacy PCs. Sa katotohanan, isa lamang itong pinamura[47] at pinababang pagkakalimbag ng Windows XP.[48] At dahil dito, ang hitsura nito ay totoong katulad na katulad pa rin ng Windows XP. Ginawa ng Microsoft ang bersyong ito alang-alang sa mga luma at mababagal na mga kompyuter.[49][50]
+2006 — 2008[baguhin | baguhin ang batayan]
+
+Silipin din: Windows Vista, Home Server at Server 2008
+
+
+
+
+
+Ang hitsura ng bagong Start Button
+
+
+Inilabas ang Windows Vista[51] noong Enero 30, 2007 sa buong daigdig;[52][53][54][55][56] inilabas naman ito sa mga malalaking mangangalakal sa isang higit na maagang petsa ng Nobyembre 30, 2006.[57][58][59][60][61][62][63][64][65][66][67] Bago pa ang paglalabas na ito, ilang ulit na ring ipinahayag ng Microsoft ang paglalabas ng Windows Vista nang simula pa noong Hulyo ng 2006,[68] at nangako rin sila rating ilalabas nila ito nang Disyembre 2006[69][70] ngunit hindi natuparan ng Microsoft ang mga petsang ito. Naglakip ito ng mararaming pagbabago lalo na sa GUI nito. Isa na rito ang inibang Start Menu, at ang bagong disenyong Aero na nagbibigay ng napapaglagusang-liwanag na mga dungawan, ngunit nakakabagal ito ng pagtakbo ng kaparaanang pampamamalakad.[71] Bagaman dito, maraming nagsasabing pangit ang OS na ito dahil sa laki ng kinakain nitong kagamitan at alaalang pangkompyuter, at sa kawalang-pagtaguyod nito sa napakaraming sopwer at hardwer.[72] Kasama rin sa bersyong ito ang pangangailangan ipasugid" ang Windows Vista, isang kayarian laban sa pamimirata. Kundi gagawin matapos ang 30 araw na palugit mula sa araw ng pagkaluklok sa kompyuter, maraming kagamitan ng OS ang mamamatay at babagal. [73] Bagaman mayroon nang ganito, madali pa ring mababaliwala ang katangiang ito sa pamamagitan ng mga napakaraming pangwarak na ipinamimigay nang libre sa Internet.[74][75]
+Noong Nobyembre 5, 2007 naman, naglabas ang Microsoft ng isang OS na pantagalingkod, ngunit sa pagkakataong ito, ito ay alang-alang naman sa mga tahanan hindi sa mga tanggapan, ito ang Windows Home Server,[76] ang pinakaunang Windows na pantagalingkod na ginawa alang-alang sa mga tahanan. Unang ipinakilala ito ng Microsoft sa Consumer Electronics Show noong Enero 8, 2007. Ilan sa mga itinatampok sa bagong OS ay ang kakayahan nitong gumawa ng mga bak-ap araw-araw ng mga kompyuter alang-alang sa madaliang pagbangon sakaling masira man, at, ayon sa Microsoft, ang pagkakaroon ng isang higit na nakapagitna at buong daan sa mga kompyuter at talaksan nitong nakaugnay sa kompyuter na mayroong Windows Home Server. Ayon din sa Microsoft, ito raw ang sagot sa panininop kung mayroong malaking katipunan ng mga retrato, musika at bidyo.[77][78]
+Ngayon ang pinakabagong bersyon ng Windows ay isang tagalingkod. Ito ang Windows Server 2008, isang OS na pantagalingkod na inilabas sa ilalim ng walong pagkakalimbag[79] noong Pebrero 27, 2008,[80] bagaman ipinangako ng Microsoft na ilalabas nito ang OS sa huling bahagi ng 2007.[81] Ang OS na ito ay ipinagbuti nang limang taon, at ang kasunod ng Windows Server 2003. Ayon sa Microsoft, nilalayon ng Server 2008 na bawasan ang ginagastos na oras sa pagtatrabaho, tulungang mabilis na makaangkop ang mga bahay-kalakal sa mga pangangailangan, at dagdagan ang kaligtasan. Maganda ang mga kritisismong natanggap ng Windows Server 2008, at totoong nagtatampok ang OS ng dagdag na kaligtasan;[82] isa rito ang pangangangailangan ng pagtatakda ng isang "matatag" na hudyat, isang hudyat na naglalaman ng mga bilang, tanda at titik, bago makalagda sa isang panagutan.[83] Kahit batay ito sa Windows Vista, higit na maayos ang pagtakbo nito.[84][85][86][87]
+Mga bersyon[baguhin | baguhin ang batayan]
+
+Silipin din: Talaan ng mga bersiyon ng Microsoft Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kaligtasan[baguhin | baguhin ang batayan]
+Sa mga rumaraang taon, ilan nang ulit na iginigiit ng Microsoft na ang kanilang kaparaanang pampamamalakad ay higit na higit na ligtas; mayroong ilang sumasang-ayon sa Microsoft ngunit totoong maraming tumututol.
+Pag-aangkin[baguhin | baguhin ang batayan]
+Isa sa mga pag-aangkin ng Microsoft na ang kanilang Windows ay higit na ligtas ay higit na ligtas daw ang Windows XP kaysa sa Linux, at ginagawang 15 ulit na higit na ligtas ang pagkakaroon ng SP2 sa Windows XP ang OS.[88]
+Ayon sa Patnugot ng Estratehiyang Pangkaligatasan Jeff Jones ng Microsoft, higit na ligtas pa rin ang Microsoft kung ihahambing sa ibang mga OS, at dito ipinaghambing niya ang Linux at Apple laban sa Windows;[89] matinding tinutulan ito ng pamayanang Linux. Ayon sa kanila, hindi katulad ng Microsoft, na inaayos ang mga suliranin ng Windows nang patago, inilalathala ng Linux ang bawat pagsasaayos na kanila ginagawa sa Linux kaya, hindi katulad ng Linux, kakaunti lamang ang nakakaalam ng mga suliranin ng Windows, at kung ang isang OS ay ligtas na, hindi na ito nangangailangan pa ng mga pagsasaayos at dagdag mula sa manggagawa nito,[90] isang bagay na sinasalungat palagi ng Microsoft sa kanilang palagiang paglalabas ng mga pagsasaayos sa Windows.
+Bukod pa rito, ang pinakamalaking pag-aangkin ng Microsoft sa panig ng kaligtasan ay nang sinabi nitong ang Windows Vista ang pinakaligtas na OS magpakailanman. Ang pag-aangking ito ay dahil sa pagkakaroon ng Vista ng User Account Control, Internet Explorer 8, BitLocker Drive Encryption at mga teknolohiyang pampagsasalihim.[91]
+At sinabi ni Bill Gates na ang kaligtasang ito ng Windows ay dulot ng mga mararaming mananadtad at manunulat ng mga birus, at ang Windows ay higit na magiging ligtas kung higit na marami pang mga mamimili ang magluluklok ng mga pagsasaayos.[92]
+Pagtugon[baguhin | baguhin ang batayan]
+Kagaya ng naunang sinabi, inangkin ng Microsoft na ang Windows ang pinakaligtas na kaparaanang pampamamalakad, ito ay lubhang pinasinungalingan at tinuligsa ng iba-ibang tao at pamayanan.
+Ayon sa isang ulat, walang gaanong nagbago sa Windows Vista kung ihahambing sa Windows XP. Ang Vista ay katulad na katulad pa rin daw ng XP sa kaligtasan nito, na sinasabing mababa, at ang Vista ay nag-iba lamang ng hitsura. Ang Windows Vista raw ay marami pa ring mga butas sa kaligtasan nito, at walang pinagkaiba sa pagsasanggalang nito mula sa mga birus.[93]
+Mayroon namang isang pag-aaral na isinaliksik ni Nicholas Petreley, isang manunulat ng mga patungkol sa Linux, na nagsasabing ang Linux naman daw ay higit na ligtas kaysa sa Windows.[94]
+Panagutang pantagapangasiwa[baguhin | baguhin ang batayan]
+Sa kadalian ng pagnanakaw ng mga hudyat mula sa Windows, ang naging malaking suliranin rito ay kapag nanakaw ang hudyat alang-alang sa isang panagutang pantagapangasiwa, ang pinakamakapangyarihang panagutan, lagot na ang kompyuter na pinatatakbuhan ng Windows.[95].
+Windows Metafile[baguhin | baguhin ang batayan]
+
+Punong artikulo: Kahinaan ng Windows Metafile
+
+Noong Enero 2, 2006, napag-alamang ang mga Windows Metafile ay mga maaaring mang-aangkat ng mga birus ng mga kompyuter. Ito ay dahil laging itinuturing ng kaparaanang pampamamalakad ang mga talaksang .wmf, ang daglat ng Windows Metafile (huwag ikalito sa Wikimedia Foundation), bilang mga larawan bagaman mayroong kakayahan ang mga itong magkaroon ng iba pang mga uri ng talaksan sa loob ng mga ito. Ayon sa McAfee, ginagamit ang mga talaksang ito upang magpatakbo ng hanggang 30 sari ng Bifrose, isang uri ng birus, at tumama rin daw ito sa 6% ng mga mamimili ng McAfee.[96]
+Mga programa[baguhin | baguhin ang batayan]
+User Account Control[baguhin | baguhin ang batayan]
+
+Punong artikulo: User Account Control
+
+
+
+
+
+Ang UAC habang humihingi ng pahintulot sa tagagamit
+
+
+Dahil sa suliranin ng mga makapangyarihang panagutang pantagapangasiwa, ang mga bersyong Windows Vista at ang mga sumusunod dito ay niluklukan na ng User Account Control. Ito raw, ayon sa Microsoft, ang nagdulot sa Windows Vista sa pagiging pinakaligtas na OS na ginawa ng Microsoft.[97] Bagaman nakaluklok ang UAC sa Windows Vista nang pangkaraniwan, mailuluklok din ito sa mga naunang bersyon ng Windows mula sa websayt ng Microsoft.
+Pinagbabawalan ng UAC ang tahasang pagganap ng mga programang gumagamit ng mga kagamitan ng kaparaanan ng kaparaanang pampamamalakad nang walang pahintulot mula sa isang tagapangasiwa. Ito ay dahil pinapatakbo ng UAC ang alin mang panagutan bilang isang pangkaraniwang panagutan, maging pantagapangasiwa man ito. Ito, ayon sa Microsoft, ang bumabawas sa pangkalahatang dulot ng mga birus at iba pang banta.[98][99]
+
+Internet Explorer 8[baguhin | baguhin ang batayan]
+
+
+
+
+
+
+
+
+
+
+
+Punong artikulo: Internet Explorer 8
+
+
+
+
+
+
+
+
+
+
+
+Ang bagong bersyon ng Internet Explorer na nakaluklok sa Windows Vista ay tumatakbo na sa ilalim ng "Protected Mode", na pumipigil sa mga programa at iba pang galing sa Internet sa paggagalaw sa kompyuter nang walang pahintulot mula sa tagagamit.[100]
+
+
+
+
+Ang Windows Defender
+
+
+Windows Defender[baguhin | baguhin ang batayan]
+
+Punong artikulo: Windows Defender
+
+Ang Windows Defender, dating kilala bilang Windows AntiSpyware, ay isang nakaluklok na programa sa Windows Vista, ngunit maaari ring mailuklok sa Windows XP, na punong panlaban sa mga adwer, ispaywer at ispamwer.[101] Ilan sa mga kagamitan nito ang Microsoft SpyNet, isang lambat-lambat ng Microsoft na kumukuha ng kaalaman mula sa mga kasapi nito upang madaling makaalam ng mga bagong banta at malutas ito, at ang Software Explorer, isang bahagi ng Defender na pinapahintulutan ang mga tagagamit nitong usisain ang mga programang tumatakbo sa kasalukuyan at nang nakatakda sa kanilang kompyuter. Binansagan din ito ng ZDNet bilang pinakamabuting libreng panlabang-ispaywer.[102] Ngunit bagaman dito, mayroong ilang kabagalan ang pagtakbo nito.[103]
+
+
+
+
+Ang Windows Live OneCare
+
+
+Windows Live OneCare[baguhin | baguhin ang batayan]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punong artikulo: Windows Live OneCare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ang Windows Live OneCare ay isang antimalwer, nangangahulugang pinupuksa nito ang mga programang hindi nakakabuti sa kompyuter, at pangkalahatang pangmatyag ng buong kompyuter.[104] Dahil sa kakayahan nito laban sa mga adwer, ispamwer at ispaywer, at payrwol, ang pagluluklok nito ay nangangahulugan ng pananalanta ng Windows Defender at Windows Firewall. Ito rin ay hindi nakaluklok nang nakatakda kundi binibili bilang isang bahagi ng Windows Live, isang hanay ng mga yari ng Microsoft.
+Batay sa dalawang nagsasariling pag-aaral, ang OneCare lamang ang tanging programang bumagsak sa 17 mga antibirus na sinulit. Natagpuan lamang ng OneCare ang 82.4% sa 500,000 mga birus na iniharap.[105]
+Pagtaguyod[baguhin | baguhin ang batayan]
+
+Silipin din: Kasaysayan ng Microsoft Windows#Pagtaguyod
+
+Dahil sa Windows Life-Cycle Policy, isang patakaran pampagtaguyod ng Microsoft, pinapatid ng Microsoft ang pagtaguyod sa mga bersyon ng Windows matapos ang 4 na taon pagkatapos ng malawakang pagkaroon nito sa pamilihan.[106] Bagaman mayroong ilang kataliwasan kung saan pinapahaba pa ng Microsoft ang pagtaguyod sa mga bersyon ng Windows na totoong mabili nang ilang taon, kagaya ng Windows 2000, na ang pagtaguyod mula sa Microsoft ay pinahaba hanggang Hunyo 30, 2010.[107][108]
+
+Lunti = itinataguyod ng Microsoft; Pula = hindi itinataguyod
+
+Taon
+16-bit
+32-bit
+64-bit
+
+
+1985
+Windows 1.0
+
+
+
+
+1987
+Windows 2.0
+
+
+
+
+1988
+Windows 2.1x
+
+
+
+
+1990
+Windows 3.0
+
+
+
+1992
+Windows 3.1x
+
+
+
+1993
+
+Windows NT 3.1
+
+
+
+1994
+
+Windows NT 3.5
+
+
+
+1995 (Mayo)
+
+Windows NT 3.51
+
+
+
+1995 (Agosto)
+Windows 95
+
+
+
+1996
+
+Windows NT 4.0
+
+
+
+1998
+Windows 98
+
+
+
+2000
+
+Windows 2000
+
+
+
+2001 (Setyembre)
+Windows Me
+
+
+
+2001 (Oktubre)
+
+Windows XP
+
+
+
+2003 (Marso)
+
+
+Windows XP 64-bit Edition
+
+
+2003 (Abril)
+
+Windows Server 2003
+
+
+2005
+
+
+Windows XP Professional x64 Edition
+
+
+2006 (Hulyo)
+
+Windows Fundamentals for Legacy PCs
+
+
+
+2006 (Nobyembre)
+
+Windows Vista
+
+
+2007
+
+Windows Home Server
+
+
+2008
+
+Windows Server 2008
+
+
+2009 (Oktubre)
+
+Windows 7
+
+
+2009 (Oktubre)
+
+Windows Server 2008 R2
+
+
+2011
+
+
+Windows Home Server 2011
+
+
+2012 (Setyembre)
+
+
+Windows Server 2012
+
+
+2012 (Oktubre)
+
+Windows 8
+
+
+2013 (Oktubre)
+
+Windows 8.1
+
+
+2013 (Oktubre)
+
+
+Windows Server 2012 R2
+
+
+2015
+
+Windows 10
+
+
+
+Talasanggunian[baguhin | baguhin ang batayan]
+
+
+Ang Walang XPng Pook: Unang Bahagi
+Talaan ng mga paglalabas ng Microsoft Windows
+
+
+
+↑ "Listing of available Windows 10 language packs". Msdn.microsoft.com. http://msdn.microsoft.com/goglobal/ee461121#AvailableLanguagePacks. Hinango noong january 5, 2015. 
+↑ Hati ng mga OS sa pamilihan
+↑ Microsoft Windows, ipinapanganibang bumagsak
+↑ Kasaysayang pambersyon ng Windows
+↑ Apple laban sa Microsoft
+↑ Isang maikling kasaysayan ng panunuos
+↑ Kasaysayang pambersyon ng Windows
+↑ Kasaysayang pambersyon ng Windows
+↑ IBM
+↑ Isang kasaysayan ng Microsoft Windows
+↑ Guidebookgallery
+↑ Kuru-kuro patungkol sa Windows NT
+↑ Pagkamatay ng Alpha sa NT
+↑ Windows 95
+↑ Ang Walang XPng Pook: Ikaapat na Bahagi
+↑ Ang petsa ng paglalabas ng Windows 98 itinalaga: Hunyo 25
+↑ Windows 98
+↑ CNN
+↑ The Register
+↑ Mang-aalis ng IE Nang-aalis ng Pambasa-basahin sa Windows
+↑ Active Network
+↑ AMD
+↑ CNet
+↑ Petsa ng paglalabas ng Windows 2000 itinala na
+↑ Windows 2000
+↑ Network World Fusion
+↑ Microsoft
+↑ Petsa ng paglalabas ng Windows Me, ipinahayag
+↑ CNN
+↑ Inilabas ang Windows Me sa UK
+↑ Paul Thurrott's SuperSite for Windows
+↑ Windows Millenium Edition
+↑ The Register
+↑ Windows Me: Pinakapangit na kaparaanang pampamamalakad Magpakailanman
+↑ Hati ng mga OS sa pamilihan
+↑ CNN Money
+↑ Paglalabas ng Windows XP ng Microsoft, itinakda sa Oktubre
+↑ BBC News
+↑ Personal Computer World
+↑ CNN News Europe
+↑ Network World Fusion
+↑ Pinakamalaking katunggali ng Windows Vista ay Windows XP
+↑ Windows XP
+↑ Microsoft
+↑ Microsoft Windows 2003
+↑ The Inquirer
+↑ Microsoft
+↑ FLzone
+↑ Windows Fundamentals pinatagal hanggang 2006
+↑ ZDNet
+↑ Computing Market Intelligence
+↑ Pandaigdigang petsa ng paglalabas ng Windows Vista
+↑ About.com
+↑ The Register
+↑ TechShout.com
+↑ 64-bit Computers
+↑ Computing
+↑ Vista, binigyan ng petsa ng paglalabas
+↑ Petsa ng paglalabas ng Vista: Nobyembre 30
+↑ Vista, nakakuha ng petsa ng paglalabas
+↑ EarthTimes
+↑ ItWeek
+↑ Gadgetizer
+↑ iHotDesk
+↑ Microsoft Windows Vista
+↑ Windows Vista, darating nang Nobyembre 20
+↑ Vistaultimate.com
+↑ Computerworld
+↑ Ang paglalabas ng Vista ay Disyembre 1?
+↑ Silicon
+↑ Microsoft Windows Vista
+↑ CNet
+↑ Microsoft
+↑ Blorge
+↑ Windows Vista Activation Crack
+↑ Microsoft Watch
+↑ Microsoft Home Server
+↑ Vnunet
+↑ The Register
+↑ ComputerWeekly
+↑ Inilabas ng Microsoft ang Windows Server 2008
+↑ ComputerWeekly
+↑ ZDNet
+↑ Higit na mabuti ang Windows Server 2008 kaysa sa Vista?
+↑ ZDNet
+↑ HP
+↑ PCAdvisor
+↑ Inaangkin ng Microsoft na ang Windows ay higit na ligtas kaysa sa Linux
+↑ Heise Security
+↑ Heise Security
+↑ Microsoft: Vista Pinakaligtas na OS Magpakailanman
+↑ The Register
+↑ Windows Vista hindi higit na ligtas kaysa sa XP
+↑ Linux, higit na ligtas kaysa sa Windows ayon sa pag-aaral
+↑ Windows Security
+↑ Wikinews
+↑ User Account Control
+↑ User Account Control
+↑ Microsoft Windows Vista: isang balik-tanaw ng UAC
+↑ Internet Explorer Protected Mode
+↑ Microsoft Windows Vista: balik-tanaw ng Windows Defender
+↑ Microsoft Windows Defender
+↑ Microsoft Windows Defender 7
+↑ About.com
+↑ Ibinagsak ng Microsoft ang ikalawang pagsusulit ng birus
+↑ Windows Life-Cycle Policy
+↑ Hewlett-Packard
+↑ Blog ng MSDN
+
+
+
+Panlabas na kawing[baguhin | baguhin ang batayan]
+
+Pantanggapang websayt ng Microsoft Windows (Ingles)
+
+Silipin din[baguhin | baguhin ang batayan]
+Naglalaman ang pahinang ito ng mga simbolo ng PPA sa Unicode. Maaaring makakita ng mga kahon, tandang pananong, o iba pang mga simbolo kung walang suporta.
+
+Microsoft
+MS-DOS
+Kaparaanang pampamamalakad
+Windows CE
+Mac OS
+Linux
+
+
+
+
+
+
+
+
+
+t
+u
+b
+
+
+Mga bersyon ng Microsoft Windows
+
+
+
+
+
+
+MS-DOS-batay/9x
+
+1.0x · 2.x · 3.0 · 3.1x · 95 · 98 · Me
+
+
+
+
+
+
+Windows NT
+
+NT 3.1 · NT 3.5 · NT 3.51 · NT 4.0 · 2000 · XP · Fundamentals for Legacy PCs · Vista  · 7  · 8  · 8.1
+
+
+
+
+
+
+Windows Server
+
+Server 2003 · Home Server · Server 2008  · Home Server 2011  · Server 2012
+
+
+
+
+
+
+Kinansela
+
+Cairo · Nashville · Neptune · Odyssey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+u
+b
+
+
+Mga nilalaman ng Microsoft Windows
+
+
+
+
+
+
+Pusod
+
+Aero · ClearType · Desktop Window Manager · DirectX · Windows Explorer · Taskbar · Start menu · Windows Shell (Ngalang-espasyo ng Shell · Special Folders · Mga pagsasamang pantalaksan) · Windows Search (Iniligtas na paghanap, iFilters) · Graphics Device Interface · Windows Imaging Format · Salansang Next Generation TCP/IP · .NET Framework · Awdyo · Paglilimbag (XML Paper Specification) · Windows Script Host (VBScript, JScript) · COM (OLE, OLE Automation, DCOM, ActiveX, Nakayaring pagsisilid)
+
+
+
+
+
+
+Mga kagamitan
+
+Backup and Restore Center · Calculator · Calendar · Character Map · Cmd.exe · Contacts · Control Panel (Mga bahagi) · Device Manager · Disk Cleanup · Disk Defragmenter · DVD Maker · Event Viewer · Fax and Scan · Internet Explorer (Mga katangian) · Mail · Magnifier · Management Console · Media Center · Meeting Space · Mobile Device Center · Mobility Center · Movie Maker · Narrator · Notepad · Paint · Photo Gallery · PowerShell · Private Character Editor · Problem Reports and Solutions · Remote Assistance · Sidebar · Snipping Tool · Sound Recorder · Sysprep · System Configuration · System File Checker · System Restore · Sistemang Unix · Windows Installer · Windows Media Player · Windows Speech Recognition · Task Manager · Windows Update · WordPad · WinSAT
+
+
+
+
+
+
+Kernel
+
+Ntoskrnl.exe · hal.dll · Paggawang pampagtigil ng sistema · Svchost.exe · Registry · Windows service · Service Control Manager · WOW/WOW64 · DLL · EXE · NTLDR/Windows Boot Manager · Winlogon · Recovery Console · P/A · WinRE · WinPE · Kernel Patch Protection
+
+
+
+
+
+
+Mga pagsisilbi
+
+AutoPlay · BITS · Task Scheduler · Wireless Zero Configuration · Shadow Copy · Windows Error Reporting · Multimedia Class Scheduler · CLFS
+
+
+
+
+
+
+Mga sistemang pantalaksan
+
+NTFS (Tahasang kawing, Salikop, Mount Point, Hiwalayan, Symbolong kawing, TxF, EFS) · FAT32·FAT16·FAT12 · exFAT · CDFS · UDF · DFS · IFS
+
+
+
+
+
+
+Serbidor
+
+Domains · Active Directory · DNS · Group Policy · Roaming user profiles · Distributed Transaction Coordinator · SharePoint Services · Windows Media Services · Rights Management Services · IIS · Terminal Services · WSUS · Network Access Protection · DFS Replication
+
+
+
+
+
+
+Arkitektura
+
+Arkitektura ng NT · Object Manager · Panimulang proseso (Vista) · I/O PH · Kernel Transaction Manager · Logical Disk Manager · Security Accounts Manager · Windows Resource Protection · LSASS · CSRSS · SMSS
+
+
+
+
+
+
+Kaligtasan
+
+UAC · BitLocker · Defender · DEP · Protected Media Path · Mandatory Integrity Control · UIPI · Windows Firewall · Security Center
+
+
+
+
+
+
+Mga laro
+
+Chess Titans · FreeCell · Hearts · Hold 'Em · InkBall · Mahjong Titans · Minesweeper · Purble Place · Solitaire · Spider Solitaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t
+u
+b
+
+
+Microsoft
+
+
+
+
+
+
+Pantahanang software
+
+Windows (mga nilalaman) · Office · Visual Studio · Expression · Silverlight · Dynamics · Money · Encarta · Student · Works
+
+
+
+
+
+
+Panserbidor na software
+
+Windows Server · SQL Server · IIS · Exchange · BizTalk · Commerce · ISA Server · Systems Management · System Center · Licensing Services
+
+
+
+
+
+
+Teknolohiya
+
+Active Directory · DirectX · .NET · Windows Media · PlaysForSure · Microsoft Application Virtualization
+
+
+
+
+
+
+Mga pag-aari sa web
+
+Bing · Windows Live · Office Live · MSNBC · msnbc.com · ninemsn · MSN · Hotmail · Live Messenger · Spaces · Groups · Live ID · Ignition · CodePlex · HealthVault
+
+
+
+
+
+
+Laro
+
+Microsoft Game Studios · Zone · XNA · Xbox · Xbox 360 · Xbox Live (Arcade, Marketplace) · Games for Windows (LIVE, Tray and Play) · Live Anywhere
+
+
+
+
+
+
+Hardwer
+
+Surface · Zune (4, 8, 30, 80) · MSN TV · Natural Keyboard · Keyboard · Mouse · LifeCam · LifeChat · SideWinder · Ultra-Mobile PC · Fingerprint · Audio System · Cordless Phone · Pocket PC · RoundTable · Response Point
+
+
+
+
+
+
+Edukasyon at pagkakilanlan
+
+MCPs · MSDN · MSDNAA · MSCA · Microsoft Press · Microsoft MVP · Microsoft Student Partners · Mga kaugnay na pag-aaral sa Microsoft
+
+
+
+
+
+
+Paglilisenya
+
+Client Access License · Shared Source
+
+
+
+
+
+
+Mga pagkakasakdal
+
+United States v. Microsoft · European Union v. Microsoft
+
+
+
+
+
+
+Lupon ng mga patnugot
+
+Ballmer · Cash · Dublon · Gates · Gilmartin · Hastings · Marquardt · Noski · Panke · Shirley
+
+
+
+
+
+
+

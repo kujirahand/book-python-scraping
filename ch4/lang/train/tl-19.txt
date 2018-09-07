@@ -1,0 +1,472 @@
+
+Para sa diyosang Griyego, silipin ang Seres (mitolohiya).
+
+
+1 Ceres    
+
+
+
+
+
+
+
+Discovery A
+
+
+Discoverer
+Giuseppe Piazzi
+
+
+Discovery date
+1 Enero 1801
+
+
+Alternate
+designations B
+A899 OF; 1943 XB
+
+
+Category
+Main belt
+
+
+Orbital elements C
+
+
+
+Epoch 26 Nobyembre 2005 (JD 2453700.5)
+
+
+
+Eccentricity (e)
+0.080
+
+
+Semi-major axis (a)
+413.715 Gm (2.766 AU)
+
+
+Perihelion (q)
+380.612 Gm (2.544 AU)
+
+
+Aphelion (Q)
+446.818 Gm (2.987 AU)
+
+
+Orbital period (P)
+1679.819 d (4.599 a)
+
+
+Mean orbital speed
+17.882 km/s
+
+
+Inclination (i)
+10.587°
+
+
+Longitude of the
+ascending node (Ω)
+80.410°
+
+
+Argument of
+perihelion (ω)
+73.271°
+
+
+Mean anomaly (M)
+108.509°
+
+
+Physical characteristics D
+
+
+Dimensions
+975×909 km [1]
+
+
+Mass
+9.5×1020 kg[2][3]
+
+
+Density
+2.08 g/cm³[1]
+
+
+Surface gravity
+0.27 m/s²
+
+
+Escape velocity
+0.51 km/s
+
+
+Rotation period
+0.3781 d
+
+
+Spectral class
+G-type asteroid
+
+
+Absolute magnitude
+3.34
+
+
+Albedo (geometric)
+0.113[4]
+
+
+Mean surface
+temperature
+~167 K
+max: 239 K (-34 °C)[5]
+
+
+Ang 1 Ceres (/ˈsiriz/, Latin Cerēs) ang kaunaunahang natuklasang asteroyd. Ang opisyal na designasyon ay (1) Ceres, ngunit hindi na sinusulat ang panaklong kapag pinag-uusapan ang mga asteroyd at, hindi na isinusulat minsan — ang Ceres ay maaring tumukoy sa asteroyd o ang diyosa ng mga Imperyong Romano na nagngangalang Ceres, depende sa kaisipan. Natuklasan ito noong 1 Enero 1801, ni Giuseppe Piazzi. May diametro ito na 952 km, ito ang pinakamalaking asteroyd sa sinturon ng asteroyd na naglalaman ng kakatlo (one third) ng buong timbang o masa ng sinturon.
+
+
+
+Mga nilalaman
+
+
+1 Pangalan
+2 Pagkatuklas
+3 Pisikal na katangian
+4 Mga obserbasyon
+5 Paglalakbay sa Ceres
+6 Mga ipinangalan sa Ceres
+7 Ang Ceres sa popular na kultura
+8 Mga Aspeto
+9 Panlabas na kawing
+10 Batayan
+
+
+
+Pangalan[baguhin | baguhin ang batayan]
+Unang tinawag ang Ceres na Ceres Ferdinadea halaw sa pangalan ng katauhan sa mitolohiya na si Ceres (diyosa ng mga Romano para sa halaman at pag-ibig ng isang ina) at kay Haring Fernando III ng Sicilia (Ferdinand III of Sicily; kilala din bilang Fernando IV ng Naples [Ferdinand IV of Naples] at Fernando I ng Dalawang Sicilia [Ferdinand I of Two Scicilies]). Tumira si Haring Ferdinand sa Palermo noong panahon na iyon habang sinasakop ng Pransiya ang Kaharian ng Naples noong 1798. Hindi matanggap ang bahaging "Ferdinandea" sa ibang bansa at tinangal. Tinawag din na Hera ang Ceres ng maiksing panahon sa Alemanya.
+Ang anyong pang-uri ng panglan ay maaring Cererian o Cererine. Ginagamit din ang mga anyong Cerian at Cerean sa panitikan.
+Pagkatuklas[baguhin | baguhin ang batayan]
+
+
+
+
+Kanan pakaliwa: 4 Vesta, 1 Ceres, at ang Buwan ng Daigdig.
+
+
+Aksidente lamang ang pagkakatuklas sa Ceres. Hinanahap ni Piazzi sa panahong iyon ang isang bituin na nilista ni Francis Wollaston bilang Mayer 87 dahil hindi ito nakalagay sa zodiac catalogue ni Mayer sa posisyong ibinigay (napag-alaman pagkaraan na nagkamali si Wollaston &mdash ang bituin ay Lacaille 87 hindi Mayer 87). Sa halip, nakatuklas si Piazzi ng gumagalaw na mala-bituing bagay at unang inakala nito na isang kometa.
+Inobserbahan ni Piazzi ang Ceres ng 24 na beses, ang huling beses ay noong Pebrero 11 nang nagkasakit siya. Noong 24 Enero 1801, ipinahayag ni Piazzi ang kanyang natuklasan sa pamamagitan ng mga sulat sa kanyang kasamahang astronomo, isa rito ang kanyang kababayang si Barnaba Orani ng Milan. Inuulat niya ito bilang kometa ngunit "yayamang ang kanyang paggalaw ay masyadong mabagal at pare-pareho, iniisip ko na ng ilang ulit na mas magaling ito kaysa sa isang kometa".[6] Noong Pebrero ang Ceres ay nawala habang pumalayo sa likod ng Araw. Noong Abril, ipinadala ni Piazzi ang kompletong obserbasyon kina Oriani, Bode at Lalande sa Paris. Inilimbag ang mga ito sa Setyembre 1801 isyu ng Monatlice Corespandes.
+Para marekober ang asteroyd, bumuo si Carl Friedrich Gauss, na noon ay 24 na taong gulang pa lamang, ng paraan ng pagtukoy sa orbit ng Ceres mula sa tatlong obserbasyon. Sa loob lamang ng ilang linggo, kanyang nahulaan ang dinadaanan ng Ceres, at ipinadala ang kanyang resulta kay Franz Xavier, Baron von Zach, ang editor ng Monatlice Corespandes. Noong 31 Disyembre 1801, hindi nagkakamaling, kinumpirma nina von Zach at Heinrich W. M. Olbers ang pagkarekober ng Ceres.
+Pinaniniwalaan ni Johann Elert Bode na ang Ceres ang "nawawalang planeta" na tinuos ni Johann Daniel Titus na nasa pagitan ng Mars at Jupiter, na may layong 419 milyong kilometro (2.8 A.U.) mula sa Araw. Tinakda ang Ceres ng simbolong pamplaneta (,,,), at nanatiling nakalista bilang isang planeta sa mga aklat at mga talaan pang-astronomiya (kasama ng 2 Pallas, 3 Juno at 4 Vesta) ng kalahating dantaon hanggang nakatuklas ng iba pang asteroid.[7] Ngunit napag-alamang ang Ceres ay masyadong maliit, hindi nagpapakita ng disc, kaya binuo ni William Herschel ang katawagang "asteroyd" (mala-bituin) para mailarawan ito.
+Pisikal na katangian[baguhin | baguhin ang batayan]
+
+
+
+
+larawan ng Ceres na kuha ng Hubble Space Telescope noong 2003/4 na may resolution na mga km. Hindi matukoy kung ano ang maliwanag na bahagi.[8]
+
+
+Ang 1 Ceres ang pinakamalaking asteroyd sa asteroid belt, na nasa pagitan ng Mars at Jupiter. Ngunit, hindi ito ang pinakamalaking bagay bukod sa mga planeta sa sistemang solar: napag-alaman din na naglalaman ang Kuiper Belt ng malalaking bagay, kagaya ng 50000 Quaoar, 90482 Orcus, 2003 UB313 at maari rin ang 90377 Sedna.
+Sa ilang punto ng orbit nito, makakarating ang 1 Ceres ng magtitude na 7.0. Ito ay masyadong malabo para makita ng mata ng tao ng walang kagamitan. Ngunit, sa ilalim ng napakagandang kondisyon sa pagmamasid, maaring makita ang asteroyd ng isang taong may matalas na mata. Makikita rin sa ganitong kondisyon ang 4 Vesta.
+Katangi-tangi ang 1 Ceres sa mga asteroyd dahil sa laki at bigat nito ay sapat upang mabigyan nito ng pabilog na hugis: yan ay, isang gravitationally relaxed equilibium spheroid, o planetary body. Ang isa pang kilalang gravitationally relaxed asteroid ay ang 4 Vesta. Ang iba pang malalaking asteroyd tulad ng 2 Pallas at 3 Juno ay kilalang hindi pabilog, ngunit ang 10 Hygea, ayon sa lightcurve analysis, ay bilog-haba kahit na lumalabas na pabilog sa mga larawang may mababang resolution (maaring dulot ng anggulo ng pagmamasid).
+May bigat na 9.5 × 1020 kg, ang 1 Ceres ay kakatlo sa tinatayang buong bigat na 3.0±0.2 × 1021 kg ng lahat ng asteroyd sa sistemang solar[9] (ngunit ang buong bigat ay 4% lamang ng bigat o mass ng Buwan).
+
+
+
+
+Paghahambing sa laki: ang unang 10 asteroyd laban sa Buwan ng Daigdig. Ang Ceres ay nasa kaliwang dulo.
+
+
+May mga palatandaan na ang surface ng Ceres ay may katamtamang init at mayroong mahinang himpapawid o atmosphere at frost. Tinatayang ang pinakamainit na temperatura ay 235 K (mga 38 °C) noong 5 Mayo 1991.[5] Kung isasaisip ang heliocentric distance sa panahong iyon, tinatatayang aabutin ang pinakamaiit na temperatura na ~239 K sa perehilion.
+Minumungkahi ng isang pag-aaral na pinagunahan ni Peter Thomas ng Cornell University na ang Ceres ay may defferentiated interior o mga layer: minumungkahi ng mga obserbasyon kasama ng mga computer model ang pagkakaroon nito ng isang mabatong core na napapalibutan ng mayelong mantle. Ang mantle na ito ay may kapal mula 120 hanggang 60 km na naglalaman ng 200 milyon kilometero kubiko ng tubig, mas marami sa kabubuang tubig tabang sa Daigdig.[1][10]
+Mayroong mga pag-aalinlangan tungkol sa surface ng Ceres. Ipinapakita ng mga low resulotion ultraviolet na larawan na kuha ng Hubble Space Telescope noong 1995 na may isang maidilim na pook sa surface nito at pinalayawan ng "Piazzi" para sa dangal ng nakatuklas sa Ceres. Inakalang isa itong crater. Walang palantadaan naman ng "Piazzi" ang mga sumunod na larawang may mas mataas na resolution na nakuha sa loob ng buong rotation o pag-ikot ng asteroid gamit ang Keck telescope na gumagamit ng adaptive optics. Ngunit, may dalawang madilim na bahagi ang nakikitang gumagalaw sa pag-ikot ng asteroyd, ang isa nito ay may gitnag rehiyon na maliwanag. Ito ay maaring mga crater. Nagpapakita naman ang mga mas bagong visible light na larawan ng buong pag-ikot na kuha ng Hubble Space Telescope noong 2003 at 2004 ng isang maliwanag na pook, hindi pa nalalaman kung ano ang katangian nito.[11] Ang mga madidilim na pook na nakita sa Keck, ay hindi madaling mapansin sa mga bagong larawan.
+Natukoy sa mga huling obserbasyon na ang hilang polo ng Ceres ay nakuturo (dagdadgan o kulangan ng mga 5°) sa direksiyon ng right ascension 19 h 24 min, declination +59°, sa constellation ng Draco. Nangangahulugan na napakaliit ang axial tilt ng Ceres (mga 4±5°).[1]
+
+
+
+
+Modelo ng Ceres batay sa mga larawang kuha ng Hubble Space Telescope mula 2003 at 2004
+
+
+Matagal na pinaniwalaang ang Ceres ang parent body o pinagmulan ng "Ceres asteroid family" ("pamilya ng asteroyd"). Sa ngayon, hindi na inagamit ang pangkat na iyon dahil natuklasang ang Ceres ay isang interloper sa "sarili nitong family" and hindi pisikal na konektado. Malaking bahagi ng pangkat ng asteroyd na ito ay tinatawag ngayong Gefion family.
+Mga obserbasyon[baguhin | baguhin ang batayan]
+Ilan sa mga kilalang obserbasyon sa Ceres ang mga sumusunod:
+Napagmasdan ang isang occultation ng bituin ng Ceres sa Mexico, Florida, at sa buong Caribbean noong 13 Nobyembre 1984.
+Ilang katangian ng surface ng Ceres ay nakunan sa pamamagitan ng teleskopyo nang ilang beses sa nagdaang taon. Kasama dito ang mga sumusunod:
+
+Mga larawang kuha ng Hubble Space Telescope gamit ang ultraviolet na may resolution na 50 km noong 1995.[12][13]
+Mga larawang kuha ng Keck telescope gamit ang visible light na may 60 km na resolution noong 2002 na gumagamit ng adaptive optics.[14]
+Mga larawang gamit ang visible light na kuha ng Hubble na may 30 km na resolution noong 2003 at 2004.[15]
+
+Ginamit ang mga radar signal mula sa isang spacecraft na naka-orbit sa Mars at mula sa surface nito upang mataya ang bigat o mass ng Ceres mula sa maliit na perturbation dito dulot ng galaw ng Mars.[9]
+Paglalakbay sa Ceres[baguhin | baguhin ang batayan]
+Sa ngayon, wala pang space probe ang bumisita sa Ceres. Ngunit, ang Dawn mission ng NASA ang magiging unang spacecraft na mag-aaral sa Ceres. Una, bibisitahin ng probe na ito ang ikalawang pinakamaking asteroyd, ang Vesta, nang mga anim na buwan sa 2010, bago makarating sa Ceres sa 2014 o 2015.
+Mga ipinangalan sa Ceres[baguhin | baguhin ang batayan]
+
+Ang elementong kimikal na Cerium (bilang atomiko 58) ay natuklasan noong 1803 nina Berzelius at Klaproth nang hiwalay. Ipinangalan ni Berzelius ang elemento sunod sa asteroyd.
+Natuklasan ni William Hyde Wollaston ang palladium noong 1802 at unang pinangalanang Ceresium. Nang inilathala niya ang kanyang natuklasan noong 1805, nagamit na pala ang pangalan (ni Berzelius) at pinalitan nito ng palladium na isinunod sa 2 Pallas.
+
+Ang Ceres sa popular na kultura[baguhin | baguhin ang batayan]
+
+Sa nobela ni Joe Haldeman na The Long Habit Living (1989; pamagat sa Britanya; Buying Time ang pamagat sa Estados Unidos), ang Ceres ang tahanan ng isang pamayanang walang estado, na naging mahalagi dahit sa isang lihim proyektong nagsasaliksik sa pag-iimbetong muli ng Stileman rejuvenation process.
+Sa PC role-playing game na Countdown to Doomsday (1990), ang Ceres ang kinaroroonan ng isang abandonang RAM research base.
+Sa PC game na Star Control II (1992), ang pagwasak ng Ceres Station ng mananakop na Ur-Quan fleet ang naghuhudyat nang pagkatalo ng sangkatauhan, at kasunod ng pagkaalipin nito.
+Sa larong Super Nintendo na Super Metroid (1994), sa Ceres Space Colony dinala ni Samus Aran ang huling Metroid na bagong pisa mula sa SR-388.
+Sa pelikulang The American Astronaut (2001), mayroong bar ang Ceres at may tinanghal na dance contest dito.
+Sa mga kuwentong "Known Space" ni Larry Niven, may pamahalaan asteroid belt na nakabase sa Ceres.
+
+Mga Aspeto[baguhin | baguhin ang batayan]
+
+
+Stationary, retrograde
+Opposition
+Layo mula sa
+Earth (AU)
+Pinakamataas na liwanag
+(Maximum brightness) (mag)
+Stationary, prograde
+Conjunction sa araw
+
+
+21 Marso 2005
+8 Mayo 2005
+1.68631
+7.0
+30 Hunyo 2005
+28 Disyembre 2005
+
+
+26 Hunyo 2006
+12 Agosto 2006
+1.98278
+7.6
+27 Nobyembre 2006
+22 Marso 2007
+
+
+20 Setyembre 2007
+9 Nobyembre 2007
+1.83690
+7.2
+1 Enero 2008
+28 Hunyo 2008
+
+
+17 Enero 2009
+24 Pebrero 2009
+1.58526
+6.9
+16 Abril 2009
+31 Oktubre 2009
+
+
+28 Abril 2010
+18 Hunyo 2010
+1.81988
+7.0
+9 Agosto 2010
+30 Enero 2011
+
+
+31 Hulyo 2011
+16 Setyembre 2011
+1.99211
+7.7
+12 Nobyembre 2011
+26 Abril 2012
+
+
+30 Oktubre 2012
+17 Disyembre 2012
+1.68842
+6.7
+4 Pebrero 2013
+17 Agosto 2013
+
+
+1 Marso 2014
+15 Abril 2014
+1.63294
+7.0
+7 Hunyo 2014
+10 Disyembre 2014
+
+
+6 Hunyo 2015
+25 Hulyo 2015
+1.94252
+7.5
+16 Setyembre 2015
+3 Marso 2016
+
+
+1 Setyembre 2016
+20 Oktubre 2016
+1.90844
+7.4
+15 Disyembre 2016
+5 Hunyo 2017
+
+
+21 Disyembre 2017
+31 Enero 2018
+1.59531
+8.8
+20 Marso 2018
+7 Oktubre 2018
+
+
+9 Abril 2019
+29 Mayo 2019
+1.74756
+7.0
+20 Hulyo 2019
+14 Enero 2020
+
+
+13 Hulyo 2020
+28 Agosto 2020
+1.99916
+7.7
+23 Oktubre 2020
+7 Abril 2021
+
+
+Panlabas na kawing[baguhin | baguhin ang batayan]
+
+Movie of one Cererian rotation (processed Hubble images)
+Ceres "Asteroids" games for Sony PSP (PlayStation Portable)
+an up-to-date summary of knowledge about Ceres, plus an Earth-Ceres size comparison (the Planetary Society)
+
+Batayan[baguhin | baguhin ang batayan]
+
+
+Bahagi ng nilalaman ng artikulong ito ay mula sa artikulong "1 Ceres" sa English Wikipedia (na-retrieve noong 27 Mayo 2006).
+
+
+↑ 1.0 1.1 1.2 1.3 P. C. Thomas et al Differentiation of the asteroid Ceres as revealed by its shape, Nature, Vol. 437, pp. 224 (2005).
+↑ http://iau-comm4.jpl.nasa.gov/EPM2004.pdf
+↑ D. T. Britt et al Asteroid density, porosity, and structure, pp. 488 in Asteroids III, University of Arizona Press (2002).
+↑ http://www.psi.edu/pds/archive/astdata04/simps04/diamalb.tab
+↑ 5.0 5.1 O. Saint-Pé Ceres surface properties by high-resolution imaging from earth, Icarus, vol. 105 pp. 271 (1993).
+↑ [1]
+↑ http://aa.usno.navy.mil/hilton/AsteroidHistory/minorplanets.html
+↑ http://www.astronomy.com/asy/default.aspx?c=a&id=3478
+↑ 9.0 9.1 E. V. Pitjeva, High-Precision Ephemerides of Planets—EPM and Determination of Some Astronomical Constants, Solar System Resarch, Vol. 39 pp. 176 (2005).
+↑ http://space.com/scienceastronomy/050907_ceres_planet.html
+↑ http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/27/
+↑ http://www.swri.org/press/ceres.htm
+↑ J. W. Parker et al Analysis of the first disk-resolved images of Ceres from ultraviolet observations with the Hubble Space Telescope, The Astronomical Journal, Vol. 123 pp. 549 (2002).
+↑ http://web.archive.org/web/20051204103929/http://s1.simpload.com/10034341d7edcf588.jpg
+↑ Hubble Space Telescope news archive 2005-09-07.
+
+
+astronomy.com, movie credit J. Parker, Southwest Research Institute.
+Supplemental IRAS Minor Planet Survey
+Osservatorio Astronomico di Palermo, Giuseppe S. Vaiana
+detailed essay by J. L. Hilton
+Largest Asteroid Might Contain More Fresh Water than Earth 7 Setyembre 2005 Space.com
+http://www.swri.org/press/ceres.htm
+http://web.archive.org/web/20051204103929/http://s1.simpload.com/10034341d7edcf588.jpg
+Giuseppe Piazzi, Risultati delle Osservazioni della Nuova Stella, Palermo, 1801.
+James L. Hilton, U.S. Naval Observatory Ephemerides of the Largest Asteroids The Astronomical Journal, Vol. 117 pp. 1077 (1999).
+
+
+
+
+
+
+
+
+
+
+t
+u
+b
+
+
+Ang Sistemang Pang-araw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ang Araw · Merkuryo · Benus · Daigdig · Marte · Seres · Hupiter · Saturno · Urano · Neptuno · Pluton · Haumea · Makemake · Eris
+
+
+
+
+
+
+
+
+Planeta · Planetang unano · Mga buwan: Terestriyal · Martian · Jovian · Saturnian · Uranian · Neptunian · Plutonian · Haumean · Eridian
+
+
+
+
+
+
+
+
+
+Maliliit na katawan sa Sistemang Solar:   Meteoroyd · Asteroyd/Mga buwan ng mga Asteroyd (Asteroid belt, Mga Centaur, TNOs: Kuiper belt/Scattered disc) · Kometa (Oort na ulap)
+
+
+
+
+
+
+
+
+Silipin din ang mga Astronomikal na bagay, Ang Tala ng mga bagay sa Sistemang Solar, inayos ayon sa radius o mass, at sa Solar System Portal
+
+
+
+
+
+
+

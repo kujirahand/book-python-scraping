@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hierarki klasifikasi biologi makhluk hidup.
+
+
+Spesies atau jenis adalah suatu takson yang dipakai dalam taksonomi untuk menunjuk pada satu atau beberapa kelompok individu (populasi) yang serupa dan dapat saling membuahi satu sama lain di dalam kelompoknya (saling membagi gen) namun tidak dapat dengan anggota kelompok yang lain. Anggota-anggota dalam suatu spesies jika saling berkawin dapat menghasilkan keturunan yang fertil tanpa hambatan reproduktif. Dapat terjadi, sejumlah kelompok dalam suatu spesies tidak saling berkawin karena hambatan geografis namun bila dipertemukan dan dikawinkan dapat menghasilkan keturunan fertil. Dua spesies yang berbeda jika saling berkawin akan menghadapi masalah hambatan biologis; apabila menghasilkan keturunan yang sehat, keturunan ini biasanya steril/mandul. Definisi ini pada beberapa kasus tidak dipenuhi, sehingga muncul masalah spesies. Dalam kasus-kasus tersebut, ukuran yang sering digunakan untuk menentukan spesies berbeda-beda, seperti kesamaan DNA, morfologi, atau relung ekologi. Lebih jauh lagi, munculnya ciri-ciri khas tertentu dapat membagi spesies menjadi takson yang lebih kecil, seperti upaspesies (dalam botani, disebut juga varietas, subvarietas, dan formae).
+Spesies-spesies yang dihipotesiskan memiliki nenek moyang yang sama berdasarkan kesamaan-kesamaan ditempatkan dalam satu genus. Kesamaan spesies dinilai berdasarkan perbandingan atribut fisik dan jika tersedia, sekuens DNA mereka. Semua spesies diberikan nama dalam dua bagian, yang disebut "nama binomial", atau hanya "binomial". Bagian pertama dari binomial adalah nama generik, yaitu genus dari spesies tersebut. Bagian kedua adalah yang disebut nama spesifik (istilah yang digunakan hanya dalam zoologi) atau epitet spesifik (istilah yang digunakan dalam botani, yang juga dapat digunakan dalam zoologi). Misalnya, Boa pembelit adalah salah satu dari empat spesies dari genus Boa. Nama genus dimulai dengan huruf kapital, sedangkan epitet spesifik tidak. Binomial ditulis dalam huruf miring saat dicetak dan digarisbawahi ketika ditulis tangan.
+Spesies, jika disebut dalam nama ilmiah, disingkat dengan sp. (Contoh Phalaenopsis sp. — berarti "sejenis Phalaenopsis", jika jamak disingkat dengan spp.).
+Definisi yang dapat digunakan dari kata "spesies" dan metode-metode yang andal untuk mengidentifikasi spesies-spesies tertentu penting untuk menyatakan dan menguji teori-teori biologi serta mengukur keanekaragaman hayati, meskipun tingkat-tingkat taksonomi lain, seperti familia (suku), juga dapat dipertimbangkan dalam studi berskala lebih luas.[1] Spesies-spesies yang telah punah hanya diketahui dari fosil-fosilnya yang biasanya sulit untuk menentukan tingkatan taksonominya secara pasti, sehingga tingkat taksonomi yang lebih tinggi, seperti familia, sering dignakan untuk studi-studi berbasis fosil.[1][2]
+Pada taksonomi hewan terdapat satu tingkat takson di bawah spesies: subspesies (disingkat ssp. (namun biasanya tidak ditulis pada nama ilmiah hewan). Pada taksonomi tumbuhan, fungi, dan bakteri terdapat takson lain di bawah subspesies: varietas, subvarietas, dan forma.
+Jumlah total spesies non-bakteril dan non-arkeal di dunia diestimasikan 8,7 juta,[3][4] dengan kisaran estimasi sebelumnya dari dua hingga seratus juta.[5]
+
+
+
+Daftar isi
+
+
+1 Sejarah dan pengembangan konsep
+2 Lihat pula
+3 Referensi
+4 Pranala luar
+
+
+
+Sejarah dan pengembangan konsep[sunting | sunting sumber]
+
+
+
+
+John Ray
+
+
+
+
+
+
+Carl Linnaeus yakin pada penetapan spesies.
+
+
+Pada karya-karya sains paling awal, spesies secara sederhana adalah suatu organisme individual yang merepresentasikan sekelompok organisme yang serupa atau mendekati identik. Tidak ada hubungan lain di luar kelompok itu yang tersirat. Aristoteles menggunakan kata genus dan spesies untuk kategori-kategori umum dan spesifik. Aristoteles dan ilmuwan-ilmuwan lain memilih spesies sebagai pembeda dan bersifat tetap (tidak berubah) dengan "esensi" seperti unsur kimia. Saat para peneliti-peneliti awal mulai mengembangkan sistem organisasi makhluk hidup, mereka mulai menempatkan spesies-spesies yang sebelumnya telah diisolasi ke dalam sebuah konteks. Banyak skema gambaran awal ini dianggap aneh dan skema ini menyertakan hubungan kekerabatan berdasarkan warna (semua tanaman dengan bunga kuning) atau perilaku (ular, kalajengking, dan semut tertentu yang menyengat).
+John Ray (1686), seorang naturalis Inggris, adalah ilmuwan pertama yang memberikan definisi biologis istilah "spesies," sebagai berikut: "... tidak ada kriteria yang lebih pasti dalam menentukan spesies bagi saya selain penampilan/fitur khusus yang membedakan mereka setelah tumbuh kembang dari sumber benih keturunan. Sehingga, tidak masalah variasi-variasi apa pun yang terjadi pada individu-individu atau spesies-spesies tersebut, apabila mereka tumbuh kembang dari sumber benih keturunan yang sama, variasi-variasi tersebut adalah variasi-variasi tersasul dan bukan karena variasi itu dilakukan pembedaan spesies... Demikian pula dengan hewan, hewan-hewan yang berbeda secara spesifik secara permanen membedakan spesies mereka; satu spesies tidak pernah tumbuh kembang dari benih keturunan spesies lain atau sebaliknya".[6]
+Pada abad ke-18, ilmuwan Swedia, Carl Linnaeus, mengklasifikasikan organismse berdasarkan karakteristik-karakteristik fisik bersama dan tidak hanya sesederhana berdasarkan perbedaan-perbedaan.[7] Ia juga memunculkan ide hirarki taksonomi hierarchy klasifikasi berdasarkan karakteristik-karakteristik yang dapat diamati dan dimaksudkan untuk mencerminkan hubungan yang alami.[8][9]
+Nikolai Ivanovich Vavilov mengembangkan konsep mengenai spesies Linnaeus sebagai sistem definitif. N.I. Vavilov menunjukkan tidak adanya spesies monotipe, yaitu spesies yang diwujudkan dalam berbagai bentuk. Vavilov memformulasikan sebuah konsep spesies politipe pada Kongres Botani Internasional ke-5 di Cambridge pada Agustus 1930, mengedepankan ide-ide berbagai bentuk spesies, relativitas kriteria taksonomi, dan teori akumulasi periferal karakter resesif. Dari sudut pandang evolusi tersebut, ia menganggap spesies sebagai simpul-simpul dalam rantai evolusi. Vavilov mencoba menemukan definisi aforisme dari hal tersebut menurut ahli botani yang kemudian juga terkenal, V.L. Komarov: spesies adalah suatu sistem morfologis ditambah dengan keunikan geografis. Mengelaborasi hal ini, Vavilov mendefinisikan "spesies Linnaeus" sebagai "sebuah sistem morf-fisiologis dinamis kompleks terisolasi yang terikat pada asalnya pada lingkungan dan wilayah tertentu".[10] Hal ini mengarah pada pemahaman konsep spesies Linnaeus sebagai entitas yang tidak terpisahkan terdiri atas komponen-komponen, yaitu satu kesatuan dan bagian-bagian yang tergabung, yang saling terkait erat.[11]
+Lihat pula[sunting | sunting sumber]
+
+Spesies terancam
+Koinofilia
+Spesies cincin
+Spesiasi
+Sistematika
+
+Referensi[sunting | sunting sumber]
+
+
+^ a b Sahney, S.; Benton, M.J.; Ferry, P.A. (2010). "Links Between Global Taxonomic Diversity, Ecological Diversity and the Expansion of Vertebrates on Land". Biology Letters 6 (4): 544–547. doi:10.1098/rsbl.2009.1024. PMC 2936204. PMID 20106856. 
+^ Sahney, S. and Benton, M.J. (2008). "Recovery from the most profound mass extinction of all time" (PDF). Proceedings of the Royal Society: Biological 275 (1636): 759–65. doi:10.1098/rspb.2007.1370. PMC 2596898. PMID 18198148. 
+^ Mora, C.; Tittensor, Derek P.; Adl, Sina; Simpson, Alastair G. B.; Worm, Boris et al. (23-08-2011). Mace, Georgina M, ed. "How Many Species Are There on Earth and in the Ocean?". PLoS Biology 9 (8): e1001127. doi:10.1371/journal.pbio.1001127. PMC 3160336. PMID 21886479. 
+^ Goldenberg, Suzanne (23-08-2011). "Planet Earth is home to 8.7 million species, scientists estimate". The Guardian (London). Diarsipkan dari versi asli tanggal 30-09-2013. Diakses tanggal 24-02-2014. 
+^ "Just How Many Species Are There, Anyway?". Science Daily. 26-05-2003. Diarsipkan dari versi asli tanggal 28-05-2003. Diakses tanggal 24-02-2014. 
+^ Historia plantarum generalis, dalam volume diterbitkan pada 1686, Tome I, Libr. I, Chap. XX, hlm. 40 (Dikutip dalam Mayr, Ernst. 1982. The growth of biological thought: diversity, evolution, and inheritance. Cambridge, Mass.: Belknap Press: 256)
+^ Davis, P. H.; Heywood, V. H. (1973). Principles of Angiosperm Taxonomy. Huntington, New York: Robert E. Krieger Publishing Company. p. 17. 
+^ Reveal, James L.; Pringle, James S. (1993). "7. Taxonomic Botany and Floristics". Flora of North America. New York and Oxford: Oxford University Press. pp. 160–161. ISBN 0-19-505713-9. 
+^ Simpson, George Gaylord (1961). Principles of Animal Taxonomy. New York and London: Columbia University Press. pp. 56–57. 
+^ Vavilov, N.I, (1931). The Linnean species as a system//Fifth International botanical congress, (Cambridge, 16–23 august, 1930): report of proceedings. Cambridge: University press. pp. 213–216. 
+^ Kurlovich, Boguslav S. "What is a species". Biodiversity of lupins (dalam bahasa Inggris). Diakses tanggal 29-04-2016.  CS1 maint: Unrecognized language (link)
+
+
+Pranala luar[sunting | sunting sumber]
+
+
+
+Lihat informasi mengenai
+spesies di Wiktionary.
+
+
+
+
+
+Wikispecies mempunyai informasi mengenai
+Species
+
+
+
+
+
+
+Wikimedia Commons memiliki galeri mengenai:
+Species
+
+
+
+
+Species (jurnal)
+Pembuatan kode batang spesies
+Catalogue of Life
+Nama Spesies Eropa dalam Linnaeus, Bahasa Ceska, Inggris, Jerman, dan Perancis
+Spesiasi
+Entri Filosofi dari "Spesies" pada Ensiklopedia Stanford
+VisualTaxa
+Wikispecies – Direktori spesies bebas yang dapat diedit siapa pun dari Wikimedia Foundation
+
+
+
+ 
+Artikel bertopik biologi ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.
+
+
+
+
+
+
+
+l
+b
+s
+
+
+Klasifikasi ilmiah
+
+
+
+
+
+
+Magnordo
+Seksi (zoo.)
+
+
+
+
+
+Domain/Superkerajaan
+Superfilum/Superdivisi
+Superkelas
+
+Superordo
+Superfamilia
+Supertribus
+
+
+
+
+Kerajaan
+Filum/Divisi
+Kelas
+Legion
+Ordo
+Familia
+Tribus
+Genus
+Spesies
+
+
+Upakerajaan
+Upafilum
+Upakelas
+Kohort
+Upaordo
+Upafamilia
+Upatribus
+Upagenus
+Upaspesies
+
+
+Infrakerajaan/Cabang
+Infrafilum
+Infrakelas
+
+Infraordo
+
+
+Seksi (bot.)
+Varietas
+
+
+
+Mikrofilum
+Parvkelas
+
+Parvordo
+
+
+Seri
+Forma
+
+
+
+
+
+
+
+
+
+
+
+
+

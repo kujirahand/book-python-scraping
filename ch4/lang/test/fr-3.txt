@@ -1,0 +1,1408 @@
+ Pour les articles homonymes, voir Win.
+ « Windows » redirige ici. Pour les autres significations, voir Windows (homonymie).
+
+
+Microsoft Windows
+
+
+
+
+
+
+
+
+
+
+
+
+Famille
+Windows CE
+Windows RT
+Windows NT
+Windows 9x
+Windows 16 bits
+
+
+Langues
+Multilingue
+
+
+Type de noyau
+Famille Windows NT : Noyau hybride
+Windows 9x et précédents : Noyau monolithique (MS-DOS)
+
+
+État du projet
+Disponible
+
+
+Plates-formes
+ARM, IA-32, Itanium, x86-64
+
+
+Entreprise /
+Développeur
+Microsoft Corporation
+
+
+Licence
+Microsoft EULA
+
+
+États des sources
+Source fermée
+
+
+Écrit en
+C, C++ Assembleur[1]
+
+
+Première version
+1.0 20 novembre 1985
+
+
+Dernière version stable
+10.0.14393.60 (2 août 2016)
+
+
+Dernière version avancée
+10.0.14393.60 (2 août 2016)
+
+
+Méthode de mise à jour
+Windows Update
+Windows Anytime Upgrade
+Windows Store
+WSUS
+
+
+Environnement graphique
+Shell Windows
+
+
+Gestionnaire de paquets
+Windows Installer (*.msi)
+Windows Store (.appx)
+
+
+Site web
+windows.microsoft.com
+
+
+
+
+
+
+
+MS-DOS
+
+
+
+
+
+
+
+
+
+modifier 
+
+
+Windows (littéralement « Fenêtres » en anglais) est au départ une interface graphique unifiée produite par Microsoft, qui est devenue ensuite une gamme de systèmes d’exploitation à part entière, principalement destinés aux ordinateurs compatibles PC.
+
+
+
+Sommaire
+
+
+1 Historique
+2 Compléments
+3 Branches techniques de Windows
+
+3.1 Branche 16 bits
+3.2 Branche Windows 9x
+3.3 Branche Windows NT
+3.4 Branche Windows CE
+3.5 Branche Windows RT
+
+
+4 Construction
+5 Suite des versions de Windows
+
+5.1 Systèmes abandonnés par Microsoft
+5.2 Systèmes non distribués par Microsoft
+
+
+6 Chronologie des sorties
+7 Un système d’exploitation controversé
+8 Notes et références
+9 Voir aussi
+
+9.1 Articles connexes
+9.2 Liens externes
+
+
+
+
+
+Historique[modifier | modifier le code]
+Article détaillé : Histoire de Microsoft Windows.
+DOS, que ce soit dans sa version IBM PC-DOS ou dans les versions pour clones MS-DOS, ne comportait pas d'interface graphique. Il était possible avec une grande facilité de créer des graphiques sous le langage BASICA (GW-BASIC pour les clones) livré avec le système, mais les commandes devaient être mémorisées par l'utilisateur et tapées à la main, ce qui rendait le système pénible d'emploi.
+Par ailleurs, chaque couple application/périphérique exigeait son pilote générique, ce qui rendait la gestion de ces pilotes compliquée et constituait un frein à l'évolution des configurations.
+Inspirées d'interfaces comme l'Alto de Xerox, puis du Lisa et du Macintosh d'Apple, les premières versions de Windows, en 16 bits, s'appuyaient sur l'OS existant : MS-DOS. Celui-ci ayant été conçu monotâche, on y lançait Windows comme un simple programme, qui incorporait dès lors quelques-unes de ses fonctions (comme le tracking de la souris au système). La limitation intrinsèque propre au monotâche, ainsi que le côté marginal de Windows 1 (dont les fenêtres ne faisaient que partager l'écran sans superpositions), puis Windows 2 (permettant les superpositions, mais de faible performances) n'inquiétèrent pas alors le rival Apple, plus préoccupé de la stratégie d'IBM.
+IBM ne pensait pas l'usage du mode graphique viable avec la limitation à 640 K du DOS ni la faible résolution des écrans de l'époque et s'orienta vers un multi-fenêtrage en mode texte, Topview, très réactif, mais gardant malheureusement l'inconfort du DOS.
+Windows 3 intégra trois versions livrées simultanément : une en mode 8086 (16 bits simples), une seconde en mode 80286 (16 bits avec adressage étendu) et une troisième en mode 80386 (adressage 32 bits). L'appel de la commande win depuis le DOS effectuait quelques tests système et lançait automatiquement la version jugée la plus appropriée, sauf demande expresse de l'utilisateur au moyen de paramètres. La version du DOS était elle aussi testée, afin de substituer autant de fonctions Windows que possible à celle du DOS, qui ne servait plus guère que de lanceur et d'implanter les vecteurs d'appel aux bons endroits (un effet collatéral fut une série de messages d'avertissement si on lançait Windows depuis un OS concurrent comme DR-DOS). Son usage d'Adobe Type Manager le positionna comme un concurrent sérieux du MacIntosh et déclencha de la part d'Apple un procès en contrefaçon. Mais Apple le perdit à cause du précédent de l'Alto.
+La version 3.1 poussa la qualité un peu plus loin en remplaçant Adobe Type Manager par TrueType. Une version 3.11 (Windows for Workgroups) intégra de façon native l'usage du réseau local.
+Ces versions avaient peu à peu fini par intégrer un noyau, un shell propre similaire au DOS et des utilitaires de gestion du système d'exploitation en plus de l'interface graphique qui donna son nom au système d'exploitation. Elles furent donc considérées comme les successeurs de MS-DOS, avec le confort que chaque périphérique comme chaque application n'avait besoin dès lors que du driver Windows, ce qui simplifiait considérablement la gestion de ceux-ci.
+Avec Windows 95, l'OS (Operating System), épaulé par une importante campagne de publicité grand public, rencontre un grand succès, dû en partie au fait que son éditeur a passé de très nombreux accords d'exclusivité avec les constructeurs d'ordinateurs leur interdisant d'installer un autre système sous peine de sanctions financières[2]. Il est vendu préinstallé sur la quasi-totalité des ordinateurs personnels.
+Windows NT commencé en 1996, permet à Microsoft d'assoir Windows dans les entreprises, suivi par Windows 2000.
+Windows XP (octobre 2001) marque un tournant : la fusion des systèmes grand public (Windows 98 / Me) et professionnels (Windows NT, 2000). L'adoption de celui-ci est progressive mais sa durée de vie en fera un système toujours répandu 10 ans après sa sortie.
+Windows XP met aussi en évidence les lacunes de sécurité du système et Microsoft est obligé de revoir intégralement le code de Windows en 2003.
+Windows Vista se veut novateur mais souffrira de gros défauts (lenteurs, stabilité) qui ne le rendront pas très populaire.
+Windows 7, qui est en quelque sorte une version entièrement achevée et optimisée de Windows Vista, connaît un grand taux d'adoption : son interface et sa sécurisation figurent parmi ses atouts.
+Windows 8 est une nouvelle rupture pour Microsoft : nouveau noyau, nouveau type d'applications téléchargeables depuis un Store, optimisation de la consommation mémoire et processeur le rendant utilisable sur des configurations plus légères. Malheureusement son interface trop pensée pour le tactile rebutera un grand nombre d'utilisateurs, notamment par l'absence du "menu démarrer" historique qui les oblige à utiliser des logiciels tiers en remplacement.
+Windows 10 marque un nouveau tournant : code partagé avec les téléphones, interface revenant à un menu démarrer sur les PC traditionnels, promotion des applications "universelles" (fonctionnant sur PC et smartphones à condition de posséder un matériel compatible). Cette version est aussi une grande nouveauté en termes de gestion de mises à jour : elles sont permanentes et obligatoires (afin de renforcer la sécurité), et une nouvelle version de Windows doit sortir environ tous les six mois. Un nouvel explorateur remplace Internet Explorer : Edge : celui-ci est sécurisé et rapide mais il y manque de nombreux composants et fonctionnalités pour favoriser son adoption...
+Compléments[modifier | modifier le code]
+Bill Gates a appelé son service d'exploitation Windows (fenêtres), car l'innovation principale du shell puis du système d'exploitation était l'emploi de fenêtres d'affichage.
+La gamme Windows est composée de plusieurs branches (voir la section Branches techniques de Windows) :
+
+La première branche, dite branche 16 bits, couvre Windows 1 à 3.11 (3.2 en chinois). Elle est apparue en 1985 et fonctionnait uniquement sur compatibles PC, en mode 16 bits ;
+La deuxième branche, dite branche Windows NT (Windows NT 3.1, NT 4.0, puis Windows 2000), est apparue en 1993. C’est un développement repartant de zéro, destiné aux ordinateurs personnels, aux serveurs et à des ordinateurs non compatibles PC. Elle a d’abord été utilisée dans les entreprises. Avec Windows XP, sorti en 2001, qui continue la branche Windows NT, cette branche est désormais aussi grand public, et se poursuit avec Windows Vista, Windows 7 et Windows 8 et Windows 10 ;
+La troisième branche, parfois appelée branche Windows 9x, est apparue en 1995 et a existé parallèlement avec la branche NT. Cette branche a débuté avec Windows 95, suivi de Windows 98 et Windows Me. Elle était plus connue du grand public et avait pour vocation de remplacer la première branche. C’est la première branche grand public compatible 32 bits. L'interface graphique était compatible avec le mode 32-bits mais basée sur l'OS MS-DOS (en version 7.1) nativement 16-bits avec néanmoins l'ajout de quelques modes de gestion améliorée de la mémoire ;
+La quatrième branche, dite branche Windows CE, apparue en 1996 avec Windows CE 1.0. Elle est destinée aux systèmes embarqués et matériels légers et portables (assistant personnel, téléphone portable). C’est la base de Windows Mobile et Pocket PC ;
+La cinquième branche, Windows RT, conçue exclusivement pour les processeurs ARM (architecture notamment présente dans les tablettes).
+
+Branches techniques de Windows[modifier | modifier le code]
+Branche 16 bits[modifier | modifier le code]
+
+
+
+
+Logo de Windows 3.x
+
+
+Noms de code connus entre parenthèses.
+
+Windows 1.0 : novembre 1985
+Windows 2.0 : décembre 1987
+
+Windows 2.10 (deux versions, Windows/286 et Windows/386) : mai 1988
+Windows 2.11 (deux versions, Windows/286 et Windows/386) : mars 1989
+
+
+Windows 3.0 : mai 1990
+
+Windows 3.1 (Janus) : avril 1992
+Windows for Workgroups 3.1 (Kato) : octobre 1992
+Windows for Workgroups 3.11 (Snowball) : novembre 1993
+Windows for Workgroups 3.2 (Version chinoise de Windows for Workgroups 3.11) :…
+
+
+
+Les premières versions de Windows étaient lancées depuis DOS et utilisaient le système de fichiers de DOS. Windows a immédiatement incorporé certaines fonctions de système d’exploitation, notamment un format d’exécutable propre, la gestion des processus en multitâche coopératif (aux fonctionnalités peu probantes lorsque des applications DOS y étaient utilisées), la gestion de mémoire virtuelle, et des pilotes pour gérer l’affichage, l’impression, le clavier, le son, etc. Windows 2.10 pour 386 tirait également parti des nouvelles capacités de l’Intel 80386, tel le placement du noyau en mode protégé et l’exécution des programmes DOS dans une machine virtuelle en mode virtuel 8086.
+On pouvait utiliser Windows avec d’autres DOS que le MS-DOS de Microsoft, comme PC-DOS d’IBM ou DR-DOS, sous réserve de passer outre les messages de dissuasion émis lors de l’installation. À partir de Windows 95, l’interface graphique est devenue commercialement associée à MS-DOS. Cela a motivé un procès entre Caldera, éditeur à l’époque de DR-DOS, qui permettait également de faire tourner Windows, et Microsoft. Caldera estimait en effet que Microsoft adoptait ainsi une pratique anticoncurrentielle de vente forcée, sans fondement technique réel.
+À partir de Windows XP, on peut considérer que le DOS a bel et bien disparu des systèmes d’exploitation grand public de Microsoft, bien qu’une émulation reste disponible.
+Branche Windows 9x[modifier | modifier le code]
+
+
+
+
+
+
+
+Noms de codes connus entre parenthèses.
+
+Windows 95 (Chicago) : 24 août 1995
+Windows 95 OSR1 : 14 février 1996
+Windows 95 OSR2 (Detroit) : 24 août 1996
+Windows 95 OSR2.1 : 27 août 1997
+Windows 95 OSR2.5 : 26 novembre 1997
+Windows 98 (Memphis) : juin 1998
+Windows 98 Seconde Édition (souvent abrégé en « Windows 98 SE ») : mai 1999
+Windows Me (ou Windows Millennium Edition) : septembre 2000
+
+À cause du noyau NT trop jeune et de l'utilisation importante de programmes tournant sous MS-DOS, Microsoft décida d’éditer un système d’exploitation à destination du grand public, qui reprendrait certains avantages de Windows NT tout en restant compatible avec les versions antérieures de Windows et MS-DOS.
+Les systèmes Windows 95 et suivants furent des évolutions hybrides 16/32 bits des versions Windows 3.0 et 3.1. Ils sont tous construits sur le même modèle de pilotes : les VxD. En 1995, Windows 95 apporta plusieurs améliorations : le multitâche préemptif, la couche réseau inspirée de celle de NT, une interface graphique nouvelle. Ce n’est pas un nouveau système d’exploitation, mais une évolution de Windows 3.1. Windows 95 devait pouvoir fonctionner sur des configurations d’entrée de gamme avec 4 Mo de mémoire vive. La version OSR2 de Windows 95 apporta la prise en charge de l’USB et de FAT32.
+Cette première mouture, connue durant son développement sous le nom de code « Chicago » et sortie sous le nom de Windows 95, a connu plusieurs évolutions, dont Windows 98 et Windows Me (Millennium Edition), qui ont permis de confirmer la popularité des systèmes d’exploitation de Microsoft. Ses différentes versions ont souffert d’une réputation [réf. nécessaire] d’instabilité et de vulnérabilité aux attaques par les réseaux. En 2001, Microsoft a décidé de mettre un terme à cette branche en sortant Windows NT 5.1 connu sous le nom de Windows XP, plus stable et moins vulnérable [réf. nécessaire]. Voir article Windows 9x
+Branche Windows NT[modifier | modifier le code]
+Article détaillé : Windows NT.
+Noms de codes connus entre parenthèses :
+
+
+
+
+Logo de Windows de 1985 à 1991.
+
+
+
+
+
+
+Logo de Windows de 1991 à 2001
+
+
+
+
+
+
+Logo de Windows de 2001 a 2006. Sur Windows XP.
+
+
+
+
+
+
+Logo de Windows de 2006 à 2012.
+
+
+
+
+
+
+Logo de Windows de 2012 à 2015.
+
+
+
+
+
+
+Logo de Windows depuis 2015. Sur Windows 10.
+
+
+
+Windows NT 3.1 : août 1993
+
+Windows NT 3.5 (Daytona) : septembre 1994
+Windows NT 3.51 : juin 1995
+
+
+Windows NT 4.0 (Cairo) : août 1996
+Windows 2000 (NT 5.0) : février 2000
+
+Windows 2000 SP1 : août 2000
+Windows 2000 SP2 : mai 2001
+Windows XP (Whistler, né de la fusion du projet grand public Neptune et du projet professionnel Odyssey) : 25 octobre 2001
+Windows 2000 SP3 : juillet 2002
+Windows XP SP1 : septembre 2002
+Windows XP Édition Media Center : 2002
+Windows Server 2003 : mai 2003
+Windows 2000 SP4 : juillet 2003
+Windows XP Édition Starter : août 2004
+Windows XP SP2 : août 2004
+Windows XP Home Édition N (Windows XP Édition familiale) : avril 2005
+Windows XP 64 : avril 2005
+Windows XP Édition Media Center 2005 : août 2005
+
+
+Windows Vista (NT 6.0) : novembre 2006 pour les entreprises ; 30 janvier 2007 pour le grand public.
+
+Windows Server 2008 : février 2008
+Windows XP SP3 : avril 2008
+Windows Vista SP1 (Windows Fiji) : sorti en mars 2008
+Windows Vista SP2 : sorti en juin 2009
+
+
+Windows 7 (Windows Vienna) : sorti le 22 octobre 2009
+
+Windows Server 2008 R2, sorti le même jour que Windows 7 (22 octobre 2009)
+Windows 7 SP1 : sorti en février 2011[3]
+Windows Server 2012 : sorti en septembre 2012.
+
+
+Windows 8 : sorti le 26 octobre 2012.
+
+Windows 8.1 : sorti le 18 octobre 2013.
+Windows Server 2012 R2 : sorti le 18 octobre 2013.
+Windows 8.1 Update 1 : sorti le 8 avril 2014.
+
+
+Windows 10 : sorti le 29 juillet 2015
+
+La branche NT (Nouvelle Technologie), est une famille de systèmes d’exploitation redéveloppée à partir de zéro, bien qu’elle soit une évolution de l’API de Windows souvent appelée Win32. Windows NT est né du divorce de Microsoft et d’IBM sur le développement du système d’exploitation OS/2. Windows NT a été développé pour concurrencer les systèmes utilisés en entreprise.
+Le noyau serait inspiré de VAX VMS et d’Unix et apporte des concepts nouveaux, comme la notion d’objet permettant une utilisation uniforme. Conçu à l’origine pour les processeurs de famille x86 (à partir de l’Intel 80386), MIPS, DEC Alpha et PowerPC. Il n’existait pour ces processeurs que des versions 32 bits, bien que certains soient en 64 bits. Aujourd’hui, les familles x86, x86-64 et Itanium sont supportées, en 64 bits pour les deux dernières. L’arrêt successif du support des différents processeurs est dû à des raisons économiques.
+Elle permet le multitâche préemptif, le multithreading, un modèle d’exécution séparée (chaque processus possède une zone de mémoire séparée, sans accès à celle des autres processus). Elle dispose aussi d'un système de gestion de fichiers propre, le NTFS (qui possède comme innovations principales les notions de droits d'accès et de propriété) en plus de ceux utilisés par les branches antérieures, FAT12 (rapidement disparu à partir de Windows XP), FAT16 et pour Windows 9x, FAT32.
+Sa disponibilité pour le grand public a eu lieu avec la sortie de Windows XP, première version familiale à être fondée sur cette branche unifiée après le succès de Windows 2000 dans sa version professionnelle.
+Branche Windows CE[modifier | modifier le code]
+Article détaillé : Windows CE.
+
+Windows CE 1 : novembre 1998
+Windows CE 2 : novembre 1997
+Windows CE 2.1 : juillet 1998
+Windows CE 3 : 1999
+Windows CE.NET : 2000
+Pocket PC 2000 : 2001
+Pocket PC 2002 : 2002
+Windows Mobile 2003 : 2003
+Windows Mobile 2003 SE (Second Edition) : 2004
+Windows Mobile 5.0 (nom de code : Magneto) : 2005
+Windows Mobile 6.0 : 2007
+Windows Mobile 6.1 : 1er avril 2008
+Windows Mobile 6.5 : 2009
+Windows Phone 7.0 : Septembre 2010 (abandon CE)
+
+Cherchant à s’imposer sur le marché en pleine croissance des assistants personnels (PDA), Microsoft a développé une version légère de son système d’exploitation et s’est associé aux grands constructeurs d’ordinateurs personnels pour pénétrer ce marché jusque là dominé par Palm. Les produits exploitant ce type de plate-forme sont appelés Pocket PC. Adapté aux contraintes de ces machines (affichage, mémoire), Windows CE présente une interface similaire à celle de systèmes d’exploitation pour PC bien que son noyau soit différent.
+Avec la sophistication croissante des appareils ménagers, le but avoué de Microsoft est d’installer Windows CE (ou une version ultérieure) sur tous les appareils de la maison, créant ainsi un univers domotique intégré. Des versions de Windows CE sont d’ores et déjà disponibles pour les téléphones portables. Depuis 2003, l’appellation « Pocket PC » a été remplacée par « Windows Mobile ». Il existe donc Windows Mobile 2003 pour Pocket PC et Windows Mobile 2003 pour SmartPhone.
+Le binaire issu de la compilation d’un programme écrit en langage C# de Microsoft est automatiquement compatible avec cette plate-forme, si l’on suit certaines restrictions (des bibliothèques liées en particulier). Il faut néanmoins vérifier la présence du Framework .NET sur la machine cible afin de pouvoir l’exécuter.
+Branche Windows RT[modifier | modifier le code]
+Article détaillé : Windows RT.
+
+Windows RT
+
+Windows RT est une version du système d'exploitation Windows 8 pour les appareils ARM comme certaines tablettes. Le sigle RT n'a pas de signification officielle. Contrairement à d'autres systèmes d'exploitation Windows, il ne pourra qu'exécuter les applications ayant été certifiées par Microsoft et placées dans le magasin de Windows Store.
+Windows RT inclura d'autres applications telles que Microsoft Office Word, Excel, PowerPoint et OneNote 2013 RT. Microsoft vendra uniquement ce système d'exploitation aux fabricants d'appareils directement, et non comme un produit autonome pour les consommateurs. Windows RT aura des mises à jour annuelles, la première mise à jour en date de Windows RT a eu pour nom Windows 8.1 RT.
+Construction[modifier | modifier le code]
+Un système d'exploitation tel que ceux de la série Windows est un ensemble de programmes qui manipule les moyens matériels de l'ordinateur et offre aux logiciels applicatifs des services en rapport avec leur utilisation[4]. Les principaux programmes internes de la série Windows NT sont la couche d'abstraction matérielle, le noyau, les pilotes, le système graphique, et les interfaces de programmation Win32 et POSIX. Une partie des programmes sont exécutés en mode noyau, et le reste est exécuté en mode utilisateur. Lorsqu'un programme est exécuté en mode utilisateur, ses possibilités sont limitées: l'accès à certains emplacement de mémoire et l'exécution de certaines instructions est interdite. les produits de la famille Windows comportent différents programmes permettant l'exécution d'applications dans différents environnements ayant chacun sa propre interface de programmation: MS-DOS, OS/2, POSIX ou Win32 - ce dernier, peu utilisé au début, est devenu l'environnement de référence, utilisé par la majorité des applications pour Windows[4].
+L'interface de programmation Win32 est un très large ensemble de fonctions, utilisées par les applications notamment pour manipuler des processus, des threads, utiliser les réseaux informatiques, les périphériques, afficher des fenêtres, des dialogues, des widgets, ou traiter des erreurs. Il permet également d'utiliser des services tels que DirectX, GDI, OpenGL ou MAPI, ainsi que des services offerts par des objets COM ou ActiveX. Win32 est disponible sur les produits des branches Windows 9x, Windows NT et Windows CE[4].
+Les produits de la famille Windows sont livrés avec une gamme de programmes qui permettent de leur ajouter des fonctionnalités, parmi lesquels des jeux, des serveurs et des applications[5],[6].
+
+Les applications
+
+
+
+
+Le navigateur Web Internet Explorer, et Edge pour Windows 10
+La messagerie instantanée Windows Live Messenger,
+La messagerie électronique Outlook Express (Outlook 2013 à partir de Windows 8),
+L'éditeur de texte Bloc-notes, le traitement de texte WordPad, et OneNote
+L'éditeur d'image matricielle Microsoft Paint,
+lecteur multimédia Windows Media Player,
+Windows Movie Maker.
+Le navigateur web Microsoft Edge
+Le Windows Store
+Cartes (et les services Windows comme Calendrier ou Météo...)
+
+
+
+Les jeux incorporés[6]
+
+
+
+Le jeu d'échecs Chess Titans,
+Le démineur,
+Le solitaire.
+
+
+
+Les logiciels serveurs[6]
+
+
+
+Le serveur web IIS, un serveur d'impression, le serveur d'annuaire Active Directory et Active Directory Federation Services, le serveur de groupware Windows SharePoint Services, les serveurs de fichiers CIFS et NFS, le lot de serveurs Windows Services for Unix ainsi que le service SNMP et l'outil d'administration MMC. Ces programmes sont automatiquement démarrés ou arrêtés par le Service Control Manager - le logiciel de contrôle de serveurs.
+
+
+
+Suite des versions de Windows[modifier | modifier le code]
+
+
+
+
+
+
+
+
+
+Systèmes abandonnés par Microsoft[modifier | modifier le code]
+Microsoft a développé d’autres systèmes que ceux que l’on connaît, cependant ces derniers ont été abandonnés pour des raisons diverses.
+
+Microsoft Neptune conçu à la base pour donner une version familiale de Windows 2000, est en quelque sorte le projet embryonnaire de Windows XP.
+Microsoft Bob conçu pour remplacer le gestionnaire de programme dans Windows 3.1x et Windows 95 mais a été un échec flagrant qui a conduit à son abandon rapide (avant la sortie de Windows 98).
+
+Systèmes non distribués par Microsoft[modifier | modifier le code]
+Certains autres systèmes assurent une compatibilité plus ou moins complète avec Windows :
+
+ReactOS est un système d’exploitation en développement visant à être compatible avec NT 5[7].
+Wine est un ensemble de bibliothèques permettant d’exécuter certains logiciels conçus pour Windows sur les systèmes Unix et Linux, plus les fichiers hcl qui se trouvent dans le dossier support du CD d’installation de Windows 2000.
+
+Chronologie des sorties[modifier | modifier le code]
+
+
+Date de sortie
+Nom
+Numéro de Version
+Support
+
+
+20 novembre 1985
+Windows 1.01
+1.x
+Expiré depuis le 31 décembre 2001
+
+
+Mai 1986
+Windows 1.02
+
+
+Août 1986
+Windows 1.03
+
+
+Avril 1987
+Windows 1.04
+
+
+9 décembre 1987
+Windows 2.0
+2.x
+
+
+13 mars 1989
+Windows 2.11
+
+
+22 mai 1990
+Windows 3.0
+3.x
+
+
+6 avril 1992
+Windows 3.1
+
+
+Octobre 1992
+Windows 3.1x
+
+
+Juin 1993
+Windows NT 3.1
+NT 3.1
+
+
+31 décembre 1993
+Windows 3.11
+3.11
+
+
+Janvier 1994
+Windows 3.2 (sorti en chinois seulement)
+3.2
+
+
+Septembre 1994
+Windows NT 3.5
+NT 3.5
+Expiré depuis le 31 décembre 2002
+
+
+Mai 1995
+Windows NT 3.51
+NT 3.51
+
+
+Août 1995
+Windows 95
+4.0.950
+
+
+Juillet 1996
+Windows NT 4.0
+NT 4.0.1381
+Expiré depuis le 30 juin 2004
+
+
+Juin 1998
+Windows 98
+4.10.1998
+Expiré depuis le 11 juillet 2006[8]
+
+
+Mai 1999
+Windows 98 Seconde Édition
+4.10.2222
+
+
+Février 2000
+Windows 2000
+NT 5.0.2195
+Expiré depuis le 13 juillet 2010[9]
+
+
+Septembre 2000
+Windows Me (Millenium)
+4.90.3000
+Expiré depuis le 11 juillet 2006[8]
+
+
+Octobre 2001
+Windows XP
+NT 5.1.2600
+Expiré depuis le 8 avril 2014[10]
+
+
+Mars 2003
+Windows XP 64
+NT 5.2.3790
+
+
+Avril 2003
+Windows Server 2003
+Expiré depuis le 14 juillet 2015 [11]
+
+
+Avril 2005
+Windows XP Professional Edition x64
+Expiré depuis le 8 avril 2014[10]
+
+
+Décembre 2005
+Windows Server 2003 R2
+Expiré depuis le 14 juillet 2015[11]
+
+
+Juillet 2006
+Windows Fundamentals for Legacy PCs
+NT 5.1.2600
+Expiré depuis le 8 avril 2014
+
+
+Novembre 2006 (pour entreprises)
+Janvier 2007 (pour le grand public)
+Windows Vista
+NT 6.0.6002
+Version actuelle de Windows changée par la NT 6.0.6002 avec le Service Pack 2 (28 avril 2009).
+Expirera le 11 avril 2017 (fin du support étendu).
+
+
+
+Juillet 2007
+Windows Home Server
+NT 5.2.4500
+Expiré depuis le 14 juillet 2015[11]
+
+
+Février 2008
+Windows Server 2008
+NT 6.0.6002
+Version actuelle de Windows changée par la NT 6.0.6002 avec le Service Pack 2 (28 avril 2009).
+Expirera le 14 janvier 2020 (fin du support étendu)[12].
+
+
+
+Octobre 2009
+Windows 7
+NT 6.1.x
+Version actuelle de Windows changée par la NT 6.1.7601 avec le Service Pack 1 (22 février 2011).
+Expirera le 14 janvier 2020 (fin du support étendu).
+
+
+
+Octobre 2009
+Windows Server 2008 R2
+Disponible depuis le 22 octobre 2009.
+Expirera le 14 janvier 2020 (fin du support étendu)[12].
+
+
+
+Juillet 2011
+Windows Thin PC
+Disponible depuis le 1er juillet 2011, en même temps que le SP1 de Windows 7. Successeur de Windows FLP.
+
+
+Octobre 2012
+Windows 8
+NT 6.2.9200
+La version RTM est sorti le 15 août 2012 La version commerciale est disponible depuis le 26 octobre 2012.
+Expirera le 10 janvier 2023 (fin du support étendu).
+
+
+
+Octobre 2012
+Windows RT
+La version RT est sortie le 26 octobre. Elle est la version allégée de Windows 8 compilée pour processeurs ARM.
+
+
+Septembre 2012
+Windows Server 2012
+Version serveur de Windows 8, remplace Windows Server 2008 R2
+
+
+Octobre 2013
+Windows 8.1
+NT 6.3.x
+La version RTM est sorti le 15 août 2013 La version commerciale est disponible depuis le 18 octobre 2013.
+Expirera le 10 janvier 2026 (fin du support étendu).
+
+
+
+Octobre 2013
+Windows Server 2012 R2
+Disponible depuis le 18 octobre 2013, en même temps que le Windows 8.1.
+Expirera le 10 janvier 2026 (fin du support étendu).
+
+
+
+Avril 2014
+Windows 8.1 Update
+Disponible depuis le 8 avril 2014, cette version inclut toutes les mises à jour de Windows 8.1 jusqu'à ce jour (comme le faisaient les services packs) sous Windows 7.
+Expirera le 10 janvier 2026 (fin du support étendu).
+
+
+
+29 juillet 2015
+Windows 10
+NT 10.0.10240
+Disponible le 29 juillet 2015.
+Expirera le 29 juillet 2025.
+
+
+
+Un système d’exploitation controversé[modifier | modifier le code]
+Au cours des années 1990, en particulier avec la version 95, Windows couvre les neuf dixièmes du marché des systèmes d’exploitation et des applications bureautiques pour PC. En janvier 2007, il était installé sur plus de 95 % des ordinateurs personnels[13]. La plupart des ordinateurs vendus ont un système Windows préinstallé par le constructeur (licence OEM). En conséquence, ses concurrents l’accusent de monopole et de pratiques commerciales déloyales, et ont engagé des poursuites antitrust à son encontre dans de nombreux pays, notamment aux États-Unis et en Europe.
+Windows est aussi un produit techniquement très critiqué par certains. Il est notamment reproché à ce système son instabilité (par exemple les écrans bleus de la mort) et sa vulnérabilité. Pourtant, sa popularité n’a jamais été menacée, principalement parce que les clients particuliers ne peuvent pas refuser à l’achat ces logiciels en vente liée. Cet avantage concurrentiel a amené Microsoft à détenir une incontestable suprématie d’ordre culturel, le grand public n’imaginant même pas qu’un ordinateur personnel puisse fonctionner sans Windows alors qu’il existe des alternatives, commerciales ou non, pouvant répondre à ses besoins comme Mac OS (incompatible avec les PC), les nombreuses distributions Linux et les systèmes *BSD ou AmigaOS (incompatible avec les PC).
+Ces pratiques de vente subordonnée des systèmes d’exploitation Microsoft lors de l’achat d’ordinateurs neufs font que des utilisateurs considèrent ces logiciels Windows, quels que soient leurs défauts et qualités, comme des « racketiciels »[14] en référence à l'illégalité de la pratique (en France).
+En janvier 2004, le Commissaire européen à la concurrence, Mario Monti, a ordonné à Microsoft de remédier à la fourniture systématique de son lecteur multimédia Windows Media Player dans Windows XP. Se pliant à cette exigence, Microsoft a voulu mettre en vente Windows Limited Media Edition au même prix que la version normale avec Windows Media Player. Cette décision n’a pas plu à la Commission, laquelle prétendait à la fois à ce que l’entreprise fournisse ce produit pour « améliorer la situation du marché », tout en ne voulant pas qu’elle le fît savoir. Se pliant à cette dernière exigence, Microsoft a donc offert, à partir du 14 juin 2004, le logiciel amputé à grands frais sous la dénomination de Windows XP « N », et qui n’a pas été un succès commercial. Il s’avère que non seulement Real Player, qui avait inspiré ces poursuites pour concurrence déloyale, reste compétitif, mais qu’elle se sert elle-même des ressources de Windows Media Player pour fonctionner.
+Certains considèrent que sa position dominante sur le marché des particuliers est due à la volonté présumée de Microsoft de rendre ses systèmes d’exploitation incompatibles avec les autres, notamment en ne respectant que très peu les normes permettant l’interopérabilité entre programmes, et au fait qu’il est le plus souvent fourni avec les ordinateurs à l’achat. Le quasi-monopole de Microsoft dans le domaine des systèmes d’exploitation pour PC encourage les développeurs d’applications à offrir leur logiciel pour la plate-forme Windows, car c’est le moyen le plus sûr de toucher de nombreux clients, ce qui est pour eux une source importante d’économie dans leur développement et leur commercialisation. Microsoft leur rend donc le service de standardiser leur marché, mieux que ne pourrait le faire une autorité réglementaire, toujours moins bien informée. L’avantage est réciproque, puisque cela rend Microsoft Windows plus intéressant pour leurs clients. Une autre caractéristique des systèmes d’exploitation est que les programmes qui fonctionnent avec l’un ne fonctionnent pas forcément avec l’autre. Ainsi, alors que Microsoft s’arrange pour que les anciens programmes fonctionnent avec ses nouveaux systèmes Windows, une personne qui désire quitter Windows doit renouveler ses logiciels. En outre, il est difficile pour un programmeur de porter son programme fait pour Windows vers un autre système d’exploitation.
+Il existe pour remédier à ces problèmes des bibliothèques facilitant la portabilité (OpenGL, OpenAL, GTK+, Qt, SFML, SDL…). D’autres bibliothèques permettent de faire fonctionner des applications Windows (Win32) sur des systèmes de type Unix (comme Linux ou *BSD), par exemple Wine. L’utilisation de ces bibliothèques se fait de manière transparente pour l’utilisateur.
+Notes et références[modifier | modifier le code]
+
+
+↑ « Lesson 2 - Windows NT System Overview », Microsoft TechNet, Microsoft (consulté le 25 novembre 2014)
+↑ http://multimedia.dna.fr/article/art_aff_2002.php?id=1897&rub=2&ssrub=
+↑ : Windows 7 : Le Service Pack 1 de Windows 7 est disponible, ZDNet, publié le 23 février 2011.
+↑ a, b et c (en)Feng Yuan, Windows Graphics Programming: Win32 GDI and DirectDraw, Prentice Hall Professional - 2001, (ISBN 9780130869852)
+↑ (en)David Aaron Karp, Tim O'Reilly et Troy Mott, Windows Xp In A Nutshell, O'Reilly Media, Inc. - 2005, (ISBN 9780596009007)
+↑ a, b et c (en)William R. Stanek, Windows 7: The Definitive Guide: The Essential Resource for Professionals and Power Users, O'Reilly Media - 2009, (ISBN 9781449379452)
+↑ « ReactOS est un projet avancé gratuit et libre visant à créer un système d’exploitation disponible et compatible avec Microsoft Windows XP. »
+↑ a et b Fin du support pour Windows 98, Windows 98 Deuxième Édition et Windows Millennium Édition, Microsoft.com, dernière mise à jour le 30 juillet 2009.
+↑ « Politique de support Microsoft », Microsoft,‎ 4 mai 2005 (consulté le 25 mars 2007).
+↑ a et b « Politique de support Microsoft ».
+↑ a, b et c « Politique de support Microsoft ».
+↑ a et b « Politique de support Microsoft »
+↑ Rédaction ZDnet, « Systèmes d’exploitation : Windows en léger recul face à Mac OS et Linux »,‎ 2007 (consulté le 25 octobre 2007).
+↑ Voir par exemple à ce sujet le site http://www.racketiciel.info qui propose une pétition contre cette pratique de vente liée, illégale en France selon l’article L122-1 du Code de la consommation.
+
+
+Voir aussi[modifier | modifier le code]
+
+Sur les autres projets Wikimedia :
+
+Microsoft Windows, sur Wikimedia Commons
+Microsoft Windows, sur Wikiversity
+Microsoft Windows, sur Wikibooks
+
+
+Articles connexes[modifier | modifier le code]
+
+Microsoft
+Liste des fichiers Windows
+Système d’exploitation
+Briefings de sécurité BlueHat
+
+Liens externes[modifier | modifier le code]
+
+Site officiel
+Catégorie Windows de l’annuaire DMOZ
+
+
+
+
+
+
+v · m
+
+Microsoft
+
+
+
+
+
+Créateur : Bill Gates
+Ancien PDG : Steve Ballmer
+PDG : Satya Nadella
+
+
+
+
+
+Systèmes d'exploitation
+
+
+
+Windows 8
+Windows Phone 8
+Windows Server 2012
+Windows 10
+Windows 10 Mobile
+
+
+
+
+
+
+Logiciels
+
+
+
+Office
+
+Word
+Excel
+PowerPoint
+Outlook
+OneNote
+
+
+Microsoft Edge
+Paint
+OneDrive
+Movie Maker
+Skype
+
+
+
+
+
+Applications Web
+
+
+
+MSN
+Traduction
+Maps
+Outlook.com
+Calendrier
+Contacts
+OneDrive.com
+Office Online
+Microsoft Store
+
+
+
+
+
+Moteur de recherche
+
+
+
+Bing
+Images
+Vidéos
+Actualités
+
+
+
+
+
+Matériel
+
+
+
+Kinect
+Xbox 360
+Xbox One
+Band
+Lumia
+Surface
+HoloLens
+
+
+
+
+
+Outils
+
+
+
+Cortana
+Explorateur Windows
+Windows Defender
+Windows Store
+
+
+
+
+
+Technologie
+
+
+
+Active Directory
+DirectX
+Visual C++
+Visual Basic .NET
+C#
+SQL Server
+.NET
+Visual Studio
+Dynamics
+Azure
+
+
+
+
+
+Jeux
+
+
+
+Age of Empires
+Flight Simulator
+Minecraft
+Halo
+Microsoft Train Simulator
+Zoo Tycoon
+
+
+
+
+
+Anciens produits
+
+
+
+Encarta
+Works
+Mobile
+Money
+Messenger
+
+
+
+
+
+
+
+
+
+v · m
+
+Microsoft Windows
+
+
+MS-DOS
+
+
+
+Windows 1.0
+Windows 2.x
+Windows 3.x
+
+
+
+
+
+
+Windows 9x
+
+
+
+Windows 95
+Windows 98
+Windows Me
+
+
+
+
+
+Windows NT
+
+
+
+Premières versions
+
+
+
+Windows NT 3.x
+Windows NT 4.0
+Windows 2000
+
+
+
+
+
+Versions client
+
+
+
+Windows XP
+Windows Vista
+Windows 7
+Windows 8
+Windows Phone 8
+Windows 10
+
+version mobile
+
+
+
+
+
+
+
+Spécialisée
+
+
+
+Windows Embedded
+
+XP
+7
+
+
+Windows PE
+Windows RT
+
+
+
+
+
+
+
+
+Windows Server
+
+
+
+Server 2003
+Server 2008
+
+R2
+
+
+Home Server
+Small Business
+Essential Business
+Server 2012
+
+R2
+
+
+Server 2016
+
+
+
+
+
+Windows CE
+
+
+
+Pocket PC
+Windows Mobile
+Windows Phone 7
+
+
+
+
+
+Histoire de Microsoft Windows
+
+
+
+
+
+
+v · m
+
+Systèmes d’exploitation de Microsoft
+
+
+MS-DOS
+
+
+
+1.0
+2.x
+3.x
+
+
+
+
+
+
+Windows 9x
+
+
+
+Windows 95
+Windows 98
+Windows Me
+
+
+
+
+
+Windows NT
+
+
+
+NT 3.x
+4.0
+2000
+XP
+Vista
+7
+8
+Windows Phone 8
+Windows 10
+
+mobile
+
+
+
+
+
+
+
+Windows Server
+
+
+
+2003
+2008
+R2
+Home
+Small
+Essential
+2012
+R2
+
+
+
+
+
+Windows CE
+
+
+
+Mobile
+Windows Phone 7
+
+
+
+
+
+Histoire de Microsoft Windows
+
+
+
+
+
+
+v · m
+
+Principaux systèmes d’exploitation
+
+
+Apple
+
+
+
+Mac OS Classic
+
+
+
+Système 5
+Système 6
+Système 7
+Mac OS 8
+Mac OS 9
+
+
+
+
+
+Dérivés de NeXTSTEP
+
+
+
+NeXTSTEP
+Rhapsody
+Darwin
+OS X
+iOS
+
+
+
+
+
+
+
+
+Dérivés de BeOS
+
+
+
+BlueEyedOS
+Haiku
+ZETA
+
+
+
+
+
+DOS
+
+
+
+DR-DOS
+FreeDOS
+MS-DOS
+PC-DOS
+
+
+
+
+
+IBM
+
+
+
+AIX
+MVS
+OS/2
+OS/360
+OS/390
+z/OS
+OS/400
+
+
+
+
+
+Microsoft Windows
+
+
+
+Fondés sur MS-DOS
+
+
+
+1.0
+2.x
+3.x
+95
+98
+ME
+
+
+
+
+
+Branche NT
+
+
+
+NT 3.x
+NT 4.0
+2000
+XP
+2003
+Vista
+2008
+7
+2012
+8
+10
+
+
+
+
+
+
+
+
+POSIX / Unix
+
+
+
+BSD
+
+
+
+FreeBSD
+PC-BSD
+GhostBSD
+DragonFly BSD
+FreeNAS
+OpenBSD
+NetBSD
+
+
+
+
+
+GNU/Hurd
+
+
+
+Debian GNU/Hurd
+Arch Hurd
+
+
+
+
+
+GNU/Linux (liste)
+
+
+
+Arch
+CentOS
+Debian
+Linux Mint
+Fedora
+Mageia
+openSUSE
+PCLinuxOS
+Puppy
+Red Hat
+Slackware
+Ubuntu
+
+
+
+
+
+Autres dérivés
+
+
+
+XNU
+AIX
+HP-UX
+IRIX
+LynxOS
+Minix
+QNX
+Oracle Solaris
+System V
+Tru64
+UnixWare
+ChorusOS
+UNICOS
+Raspbian
+
+
+
+
+
+
+
+
+Dérivés d'AmigaOS
+
+
+
+MorphOS
+AROS
+
+
+
+
+
+D’importance historique
+
+
+
+CP/M
+CTSS
+GCOS
+Genera
+ITS
+Multics
+Plan 9
+QDOS
+RSTS
+TENEX
+TOPS-20
+TOS
+VMS
+
+
+
+
+
+Mobile
+
+
+
+Android
+Bada
+BlackBerry OS
+Firefox OS
+HP webOS
+Palm OS
+iOS
+Sailfish OS
+Tizen
+Ubuntu Touch
+Windows Phone
+
+
+
+
+
+Embarqués
+
+
+
+pour capteur en réseau
+
+
+
+Contiki
+TinyOS
+
+
+
+
+
+pour carte à puce
+
+
+
+Java Card
+Multos
+
+
+
+
+
+Temps réel
+
+
+
+eCos
+FreeRTOS
+Linux embarqué
+LynxOS
+MenuetOS
+OS-9
+PikeOS
+QNX
+RTEMS
+RTLinux
+RTX
+µC/OS-II
+VxWorks
+
+
+
+
+
+
+
+
+Autres systèmes
+
+
+
+eyeOS
+IOS (Cisco)
+Inferno
+MenuetOS
+OrbisOS
+ReactOS
+
+
+
+
+
+Pour une liste complète, voir la liste des systèmes d’exploitation et la catégorie « Système d’exploitation ».
+
+
+
+
+ Portail du logiciel
+ Portail de Microsoft
+
+
