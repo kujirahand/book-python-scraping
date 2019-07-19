@@ -13,7 +13,7 @@ thresh = cv2.adaptiveThreshold(blur, 255, 1, 1, 11, 2)
 contours = cv2.findContours(
     thresh,      
     cv2.RETR_EXTERNAL, 
-    cv2.CHAIN_APPROX_SIMPLE)[1]
+    cv2.CHAIN_APPROX_SIMPLE)[0]
 
 # 抽出した領域を繰り返し処理する 
 for cnt in contours:
