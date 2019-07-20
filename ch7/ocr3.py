@@ -16,7 +16,7 @@ blur = cv2.GaussianBlur(gray, (5, 5), 0) # ぼかす
 thresh = cv2.adaptiveThreshold(blur, 255, 1, 1, 11, 2) # 二値化
 cv2.imwrite("numbers100-th.png", thresh)
 contours = cv2.findContours(thresh, 
-    cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)[1]
+    cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)[0]
 
 # 抽出した座標を左上から右下へと並び替える --- (※4)
 rects = []

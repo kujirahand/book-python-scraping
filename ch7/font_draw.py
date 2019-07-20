@@ -71,7 +71,7 @@ for path in ttf_list:
         blur = cv2.GaussianBlur(ima, (5, 5), 0) # ぼかす
         th = cv2.adaptiveThreshold(blur, 255, 1, 1, 11, 2) # 二値化
         contours = cv2.findContours(th, 
-            cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)[1]
+            cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)[0]
         for cnt in contours:
             x, y, w, h = cv2.boundingRect(cnt)
             if w < 10 or h < 10: continue
