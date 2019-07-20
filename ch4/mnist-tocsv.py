@@ -11,7 +11,6 @@ def to_csv(name, maxdata):
     rows, cols = struct.unpack(">II", img_f.read(8))
     pixels = rows * cols
     # 画像データを読んでCSVで保存 --- (※2)
-    res = []
     for idx in range(lbl_count):
         if idx > maxdata: break
         label = struct.unpack("B", lbl_f.read(1))[0]
