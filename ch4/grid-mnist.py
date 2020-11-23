@@ -6,10 +6,10 @@ train_csv = pd.read_csv("./mnist/train.csv")
 test_csv  = pd.read_csv("./mnist/t10k.csv")
 
 # 必要な列を抽出 --- (※2)
-train_label = train_csv.ix[:, 0]
-train_data  = train_csv.ix[:, 1:577]
-test_label  = test_csv.ix[:, 0]
-test_data   = test_csv.ix[:, 1:577]
+train_label = train_csv.iloc[:, 0]
+train_data  = train_csv.iloc[:, 1:577]
+test_label  = test_csv.iloc[:, 0]
+test_data   = test_csv.iloc[:, 1:577]
 print("学習データ数=", len(train_label))
 
 # グリッドサーチのパラメータを設定 --- (※3)

@@ -11,9 +11,9 @@ label = []
 data = []
 attr_list = []
 for row_index, row in mr.iterrows():
-    label.append(row.ix[0])
+    label.append(row.loc[0])
     exdata = []
-    for col, v in enumerate(row.ix[1:]):
+    for col, v in enumerate(row.loc[1:]):
         if row_index == 0:
             attr = {"dic": {}, "cnt":0}
             attr_list.append(attr)
